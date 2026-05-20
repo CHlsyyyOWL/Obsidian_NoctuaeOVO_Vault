@@ -121,7 +121,8 @@
               "title": "0501 proposa2 meeting"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "components/view/DashBoard.md",
+                "file": "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DashBoard 的大纲"
+              "title": "斩杀线 的大纲"
             }
           }
         ]
@@ -394,14 +395,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "102cc1af371bfa9f",
+  "active": "8753407544d9d395",
   "lastOpenFiles": [
+    "components/view/DashBoard.md",
     "What the Owl Says/Game/密教模拟器/食尸鬼.md",
     "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
     "What the Owl Says/Game/调律工具箱.md",
     "components/view/Academia.components",
     "components/view/Minerva's Tide.components",
-    "components/view/DashBoard.md",
     "Study/UCL Module/24-25/How Did Revolutionary Cadre Deployment Shape Regional Economic Inequality in Mid-20th Century China.md",
     "Study/SciencePo 25-26/S2/59478 Culture&Society/S3 Culture autonomous from society.md",
     "Study/Noctuae Celsum/Article/Idea/Does AI privilege in one culture than another.md",
