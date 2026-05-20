@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
+                "file": "components/view/Academia.components",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "斩杀线 的大纲"
+              "title": "Academia 的大纲"
             }
           }
         ]
@@ -395,10 +395,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8753407544d9d395",
+  "active": "f954ce9536b11d40",
   "lastOpenFiles": [
-    "components/view/Academia.components",
     "components/view/DashBoard.md",
+    "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
+    "components/view/Academia.components",
     "Career/Thinktank/TAI/Project-SCS/0501 proposa2 meeting.md",
     "Career/Thinktank/TAI/Project-SCS/未命名.base",
     "Career/Thinktank/TAI/Project-SCS/0515.md",
@@ -422,7 +423,6 @@
     "What the Owl Says/Minerva's Tide/Settings/OC总表2.0.md",
     "Career/Thinktank/TAI/Nagata-cho council/Discussion update 0502.md",
     "Study/SciencePo 25-26/S2/53573 History of Contemporary World/W6-W11.md",
-    "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
     "Study/Noctuae Celsum/Article/Article Notes/Yi Ma 2024 Reconceptualizing policy change in China.md",
     "Career/Thinktank/TAI/Project-SCS/pdf.md",
     "Career/Thinktank/TAI/Project-SCS/SCS Chinese Corporate Credit System.md",

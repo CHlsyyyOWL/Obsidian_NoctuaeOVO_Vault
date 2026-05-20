@@ -47,6 +47,9 @@
     "paragraphSpacing": "default"
   },
   "media": {
+    "autoTagVideos": true,
+    "rememberPlaybackProgress": true,
+    "defaultTwitterFolder": "Twitter",
     "defaultYouTubeFolder": "Videos",
     "defaultYouTubeTag": "youtube",
     "defaultPodcastFolder": "Podcasts",
@@ -124,7 +127,8 @@
       "sort",
       "collapseAll",
       "settings"
-    ]
+    ],
+    "articleDateStyle": "relative"
   },
   "highlights": {
     "enabled": false,
@@ -152,5 +156,8 @@
   },
   "storageMode": "legacy-json",
   "storageFolder": ".rss-dashboard-data/feeds",
-  "storageSchemaVersion": 1
+  "storageSchemaVersion": 1,
+  "metadataStorageMode": "plugin-default",
+  "metadataStorageFolder": ".rss-dashboard-data",
+  "metadataStorageSchemaVersion": 1
 }
