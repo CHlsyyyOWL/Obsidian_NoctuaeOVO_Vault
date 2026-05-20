@@ -121,8 +121,7 @@
               "title": "0501 proposa2 meeting"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
+                "file": "components/view/DashBoard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "斩杀线 的大纲"
+              "title": "DashBoard 的大纲"
             }
           }
         ]
@@ -395,28 +394,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8753407544d9d395",
+  "active": "102cc1af371bfa9f",
   "lastOpenFiles": [
+    "What the Owl Says/Game/密教模拟器/食尸鬼.md",
+    "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
+    "What the Owl Says/Game/调律工具箱.md",
+    "components/view/Academia.components",
+    "components/view/Minerva's Tide.components",
+    "components/view/DashBoard.md",
     "Study/UCL Module/24-25/How Did Revolutionary Cadre Deployment Shape Regional Economic Inequality in Mid-20th Century China.md",
     "Study/SciencePo 25-26/S2/59478 Culture&Society/S3 Culture autonomous from society.md",
     "Study/Noctuae Celsum/Article/Idea/Does AI privilege in one culture than another.md",
     "Study/Noctuae Celsum/Article/Article Notes/Why Has not Democracy Slowed Rising Inequality.md",
-    "components/view/Academia.components",
-    "components/view/DashBoard.md",
-    "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
     "Career/Thinktank/TAI/Project-SCS/0501 proposa2 meeting.md",
     "Career/Thinktank/TAI/Project-SCS/未命名.base",
     "Career/Thinktank/TAI/Project-SCS/0515.md",
     "Career/Application/Further Study/FS Application todo.md",
-    "components/view/Minerva's Tide.components",
-    "What the Owl Says/Game/密教模拟器/食尸鬼.md",
     "Career/Thinktank/TAI/Project-SCS/SCS policy document base.md",
     "Study/SciencePo 25-26/Final.md",
     "Career/Thinktank/TAI/Project-SCS/SCS企业信用修复机制项目背景.md",
     "Career/Thinktank/TAI/Nagata-cho council/EEB&FPIF EU critical mineral policy online session recoding.md",
     "components/view/DashBoard.components",
     "What the Owl Says/Minerva's Tide/Story Bible.md",
-    "What the Owl Says/Game/调律工具箱.md",
     "What the Owl Says/Minerva's Tide/Settings/设定：兽人.md",
     "What the Owl Says/Minerva's Tide/OC总表.md",
     "What the Owl Says/Minerva's Tide/Stories/黑山羊与时间之蛇.md",
@@ -426,7 +425,6 @@
     "What the Owl Says/Minerva's Tide/Cast/cast.md",
     "What the Owl Says/Minerva's Tide/Settings/OC总表2.0.md",
     "Career/Thinktank/TAI/Nagata-cho council/Discussion update 0502.md",
-    "Study/SciencePo 25-26/S2/53573 History of Contemporary World/W6-W11.md",
     "Unorganized/Attachment/Pasted image 20260424092032.png",
     "Career/Thinktank/TAI/CN-JP Econ Forum/未命名.base",
     "Career/Thinktank/TAI/Nagata-cho council",
