@@ -1,0 +1,649 @@
+{
+  "components": [
+    {
+      "id": "fac7fad4-2736-4515-ac06-889427dd906d",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-08-31T16:54:04.764Z",
+      "updateAt": "2025-08-31T16:54:04.764Z",
+      "components": [
+        {
+          "componentId": "6f0c3ea4-cdf4-44ff-bfd2-275f284203aa",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 8
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "c5bb2b5c-65cd-4388-b185-f289cc627dfc",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 8,
+              "w": 2,
+              "h": 3
+            },
+            "laptop": {
+              "x": 0,
+              "y": 4,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "4cd0235f-d9ae-4e81-a172-186395b73736",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 11,
+              "w": 2,
+              "h": 3
+            },
+            "laptop": {
+              "x": 0,
+              "y": 8,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "6b1c5d43-c749-4bc7-ad9a-a388984a74cf",
+          "layout": {
+            "mobile": {
+              "x": 2,
+              "y": 8,
+              "w": 2,
+              "h": 3
+            },
+            "laptop": {
+              "x": 0,
+              "y": 12,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "6c473449-2c8b-400b-82d3-f4c2567e50f8",
+          "layout": {
+            "mobile": {
+              "x": 2,
+              "y": 11,
+              "w": 2,
+              "h": 3
+            },
+            "laptop": {
+              "x": 0,
+              "y": 16,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "5f5e6a75-09a3-412f-abe5-ceeb5a465ca4",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 14,
+              "w": 4,
+              "h": 19
+            },
+            "laptop": {
+              "x": 0,
+              "y": 20,
+              "w": 4,
+              "h": 4
+            }
+          }
+        }
+      ],
+      "layoutType": "grid",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "6f0c3ea4-cdf4-44ff-bfd2-275f284203aa",
+      "type": "time",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-08-31T16:54:57.861Z",
+      "updateAt": "2025-08-31T16:54:57.861Z",
+      "showLunar": true,
+      "hideDateInfo": false,
+      "hideSeconds": true,
+      "hideProgress": false,
+      "backgroundImage": {
+        "url": "components/壁纸/7b007b05cffa27371eb2142b44c992db.jpg"
+      },
+      "fontColor": "#f7f1ff"
+    },
+    {
+      "id": "c5bb2b5c-65cd-4388-b185-f289cc627dfc",
+      "type": "button",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2025-08-31T17:02:29.823Z",
+      "updateAt": "2025-08-31T17:02:29.823Z",
+      "text": "Quick Idea",
+      "buttonType": "common",
+      "clickActions": [
+        {
+          "type": "CreateFile",
+          "id": "6d74e0b8-c212-4e39-adca-379ffa7ce4c2",
+          "options": {
+            "templateFilePath": "Vault Tool Box/Templates/Tp_WOS.md",
+            "fileName": "{{date: YYMMDD}}",
+            "targetFolder": "Study/Noctuae Celsum/Article/What the Owl Says",
+            "openPageIn": "tab"
+          }
+        }
+      ],
+      "checkActions": [],
+      "uncheckActions": [],
+      "isChecked": false,
+      "fullWidth": true,
+      "icon": "Lightbulb",
+      "backgroundColor": "#3c287a",
+      "fontColor": "#f2eeff",
+      "borderColor": "#442d76"
+    },
+    {
+      "id": "4cd0235f-d9ae-4e81-a172-186395b73736",
+      "type": "button",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": true,
+      "createAt": "2025-08-31T17:02:29.823Z",
+      "updateAt": "2025-08-31T17:02:29.823Z",
+      "text": "Daily Todo ",
+      "buttonType": "common",
+      "clickActions": [
+        {
+          "type": "CreateFile",
+          "id": "5b8c3e2b-9b0f-4fb7-b810-54d9a3360981",
+          "options": {
+            "openPageIn": "tab",
+            "templateFilePath": "Vault Tool Box/Templates/Tp_Daily Notes.md",
+            "fileName": "{{date: YYMMDD}}",
+            "targetFolder": "Unorganized/Thino Notes"
+          }
+        }
+      ],
+      "checkActions": [],
+      "uncheckActions": [],
+      "isChecked": false,
+      "fullWidth": true,
+      "icon": "ListTodo",
+      "backgroundColor": "#442d76",
+      "fontColor": "#f1edff"
+    },
+    {
+      "id": "ce8416bf-4f27-4d21-83f5-5c145da43de4",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Recent Files",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-08-31T17:03:47.009Z",
+      "updateAt": "2025-08-31T17:03:47.009Z",
+      "viewType": "list",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "File Basename",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "8cc151d3-d85d-47a6-b6f1-779fc03f9017",
+          "name": "tags",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "93c9c966-866c-4e1a-8f29-6b7398f5456c",
+          "name": "Date",
+          "isShow": true,
+          "type": "date",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "window",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "textContent",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "92e06840-140a-485c-9543-1cdd3a3f2fb2",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "17eaff78-be2e-4828-a059-06fed2c291b2",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.parent}",
+            "value": "Unorganized/Attachment",
+            "conditions": []
+          },
+          {
+            "id": "8a021295-3ca4-49a0-8714-52fac7c5f516",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.parent}",
+            "value": "Unorganized/Thino Notes",
+            "conditions": []
+          },
+          {
+            "id": "0e3b2964-235f-4ee8-8d95-67862fdd7cab",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.parent}",
+            "value": "Vault Tool Box",
+            "conditions": []
+          }
+        ]
+      },
+      "sort": {
+        "orders": [
+          {
+            "id": "516c5300-7a18-49e7-812f-c6b66c16df5d",
+            "property": "${file.mtime}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "showTitle": false
+    },
+    {
+      "id": "6b1c5d43-c749-4bc7-ad9a-a388984a74cf",
+      "type": "button",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2025-08-31T17:02:29.823Z",
+      "updateAt": "2025-08-31T17:02:29.823Z",
+      "text": "Create Tide",
+      "buttonType": "common",
+      "clickActions": [
+        {
+          "type": "CreateFile",
+          "id": "6d74e0b8-c212-4e39-adca-379ffa7ce4c2",
+          "options": {
+            "templateFilePath": "Vault Tool Box/Templates/tp_tide.md",
+            "fileName": "{{date: YYMMDD}}",
+            "targetFolder": "What the Owl Says/Minerva's Tide",
+            "openPageIn": "tab"
+          }
+        }
+      ],
+      "checkActions": [],
+      "uncheckActions": [],
+      "isChecked": false,
+      "fullWidth": true,
+      "icon": "NotebookPen",
+      "backgroundColor": "#3c287a",
+      "fontColor": "#f2eeff",
+      "borderColor": "#442d76"
+    },
+    {
+      "id": "6c473449-2c8b-400b-82d3-f4c2567e50f8",
+      "type": "button",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2025-08-31T17:02:29.823Z",
+      "updateAt": "2025-08-31T17:02:29.823Z",
+      "text": "New Goal",
+      "buttonType": "common",
+      "clickActions": [
+        {
+          "type": "OpenFile",
+          "id": "6d74e0b8-c212-4e39-adca-379ffa7ce4c2",
+          "options": {
+            "templateFilePath": "Vault Tool Box/Templates/Tp_WOS.md",
+            "fileName": "Task Management.md",
+            "targetFolder": "Study/Noctuae Celsum/Article/What the Owl Says",
+            "openPageIn": "tab",
+            "filePath": "components/view/Task Management.md"
+          }
+        }
+      ],
+      "checkActions": [],
+      "uncheckActions": [],
+      "isChecked": false,
+      "fullWidth": true,
+      "icon": "Goal",
+      "backgroundColor": "#3c287a",
+      "fontColor": "#f2eeff",
+      "borderColor": "#442d76"
+    },
+    {
+      "id": "5f5e6a75-09a3-412f-abe5-ceeb5a465ca4",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-08-31T17:32:29.117Z",
+      "updateAt": "2025-08-31T17:32:29.118Z",
+      "components": [
+        {
+          "componentId": "ce8416bf-4f27-4d21-83f5-5c145da43de4",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "4939abe9-7fbc-4856-b37e-5d3739b4208f",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 4,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "a71a92e4-3d65-4af6-8ee9-a0629a1bef52",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 8,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            }
+          }
+        }
+      ],
+      "layoutType": "verticalTab",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "4939abe9-7fbc-4856-b37e-5d3739b4208f",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "[OC] Minerva’s Tide",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-08-31T17:33:58.794Z",
+      "updateAt": "2025-08-31T17:33:58.794Z",
+      "viewType": "list",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "File Basename",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "3f6e71ea-1b7d-4052-b5f0-1a3b1e1a44ca",
+          "name": "Tide",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "items": [],
+        "pinFiltersToMenuBar": true,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "92e06840-140a-485c-9543-1cdd3a3f2fb2",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "6ed792d9-e0e7-46a5-860a-ea5b1e7a6216",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "What the Owl Says/Minerva's Tide",
+            "conditions": []
+          }
+        ]
+      },
+      "sort": {
+        "orders": [
+          {
+            "id": "9df7218e-3ef9-4294-830c-ece6cf61cf84",
+            "property": "${file.mtime}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "showTitle": false
+    },
+    {
+      "id": "a71a92e4-3d65-4af6-8ee9-a0629a1bef52",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Academia ",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-08-31T17:37:53.912Z",
+      "updateAt": "2025-08-31T17:37:53.912Z",
+      "viewType": "list",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "File Basename",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "65ce91f4-4748-43e8-bac3-6952cd47a94b",
+          "name": "Module",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "602c60a4-f4de-4002-9844-71f8cc9ea584",
+          "name": "Podcast",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "7a0113e2-fd05-4810-9b6d-6078c8f6a12c",
+          "name": "ArticleOvO",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "5e309337-735e-47e8-91d0-8edf64570480",
+          "name": "Article Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "4440f54c-4e6b-4a6d-9c84-c55b94abae6f",
+          "name": "Paper",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "cc4d1f82-54e6-492e-abed-5ec0dcd51765",
+          "name": "Book Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "c34ba4ee-b24c-4211-975c-3589a409eb3c",
+          "name": "Roses Head",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "f7f1c474-8e1f-4f4b-a2f6-c1e0636a7306",
+          "name": "WOS",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "items": [],
+        "pinFiltersToMenuBar": true,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "92e06840-140a-485c-9543-1cdd3a3f2fb2",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "1cea5f1a-dc4d-4335-911d-c210e5d4f7b2",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "Study/Noctuae Celsum",
+            "conditions": []
+          }
+        ]
+      },
+      "sort": {
+        "orders": [
+          {
+            "id": "ba4900fd-1bb3-45bd-ad84-c464b1134912",
+            "property": "${file.mtime}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "showTitle": false
+    }
+  ],
+  "rootComponentId": "fac7fad4-2736-4515-ac06-889427dd906d",
+  "version": 3.1
+}

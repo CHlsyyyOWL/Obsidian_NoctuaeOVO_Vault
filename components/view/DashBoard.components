@@ -1,0 +1,866 @@
+{
+  "components": [
+    {
+      "id": "1c9c4e68-43c3-4a2a-a96c-308479eb6cab",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-06-22T07:34:19.488Z",
+      "updateAt": "2026-04-12T00:41:37.013Z",
+      "components": [
+        {
+          "componentId": "479b34dc-c7b1-4929-b5e9-d007fef37b3a",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 12,
+              "h": 9
+            }
+          }
+        },
+        {
+          "componentId": "9c2c4f40-c066-4aae-a215-2baba8896a6d",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 16,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 8,
+              "y": 9,
+              "w": 4,
+              "h": 5
+            }
+          }
+        },
+        {
+          "componentId": "798dd2dd-cac4-4c02-9a06-fac5641e45a6",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 20,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 10,
+              "y": 14,
+              "w": 2,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "2fcad6aa-9233-4b74-9dc2-746e54abb287",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 24,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 8,
+              "y": 14,
+              "w": 2,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "9ca911ef-d55c-464a-a0f2-a8077176db50",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 28,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 8,
+              "y": 18,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "f08cff05-b5b0-4d6f-810f-43dafc926758",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 32,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 8,
+              "y": 22,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "03d838dc-3f74-4606-9fae-3012a45a2281",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 4,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 18,
+              "w": 8,
+              "h": 23
+            }
+          }
+        },
+        {
+          "componentId": "2862d74b-b171-4258-8d93-858544ad3d99",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 9,
+              "w": 8,
+              "h": 9
+            }
+          }
+        },
+        {
+          "componentId": "c976fe7b-653e-4584-8849-cbb70a8749a9",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 8,
+              "y": 26,
+              "w": 2,
+              "h": 2
+            }
+          }
+        }
+      ],
+      "layoutType": "grid",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "479b34dc-c7b1-4929-b5e9-d007fef37b3a",
+      "type": "time",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-06-22T07:34:38.042Z",
+      "updateAt": "2026-03-11T07:49:41.929Z",
+      "showLunar": true,
+      "hideDateInfo": false,
+      "hideSeconds": true,
+      "hideProgress": false,
+      "backgroundImage": {
+        "url": "components/壁纸/7b007b05cffa27371eb2142b44c992db.JPG",
+        "fit": "cover",
+        "blurDegree": 0
+      },
+      "fontColor": "#f0ddfd",
+      "borderColor": "#2a2166"
+    },
+    {
+      "id": "9c2c4f40-c066-4aae-a215-2baba8896a6d",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-06-22T09:03:16.049Z",
+      "updateAt": "2025-06-22T09:03:16.049Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "W",
+      "countType": "ratio",
+      "precision": 2,
+      "query": {
+        "valueType": "propertyValue",
+        "value": 100,
+        "filter": {
+          "id": "2d512cc3-05dd-4227-942d-c368a153f1a1",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        },
+        "property": "${file.chars}"
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 10000,
+        "filter": {
+          "id": "bcfc1f34-b7e1-43ba-b508-93e35c532c4c",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "title": "Word Count"
+    },
+    {
+      "id": "798dd2dd-cac4-4c02-9a06-fac5641e45a6",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-06-22T09:03:16.049Z",
+      "updateAt": "2025-06-22T09:03:16.049Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "",
+      "countType": "number",
+      "query": {
+        "valueType": "totalRecords",
+        "value": 100,
+        "filter": {
+          "id": "2d512cc3-05dd-4227-942d-c368a153f1a1",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        },
+        "property": "${file.chars}"
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 100,
+        "filter": {
+          "id": "bcfc1f34-b7e1-43ba-b508-93e35c532c4c",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "title": "Documents"
+    },
+    {
+      "id": "2fcad6aa-9233-4b74-9dc2-746e54abb287",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-06-22T09:03:16.049Z",
+      "updateAt": "2025-06-22T09:03:16.049Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "",
+      "countType": "number",
+      "query": {
+        "valueType": "task",
+        "value": 100,
+        "filter": {
+          "id": "2d512cc3-05dd-4227-942d-c368a153f1a1",
+          "type": "group",
+          "operator": "and",
+          "conditions": [
+            {
+              "id": "5f56831c-2fde-475d-919a-4537cea64524",
+              "type": "filter",
+              "operator": "equals",
+              "property": "tags",
+              "value": "Task",
+              "conditions": []
+            }
+          ]
+        },
+        "sort": {
+          "orders": []
+        },
+        "property": "${file.chars}",
+        "aggregationType": "uncompletedTasks"
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 100,
+        "filter": {
+          "id": "bcfc1f34-b7e1-43ba-b508-93e35c532c4c",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "title": "Tasks"
+    },
+    {
+      "id": "9ca911ef-d55c-464a-a0f2-a8077176db50",
+      "type": "card",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-06-22T09:20:53.745Z",
+      "updateAt": "2025-06-22T09:20:53.745Z",
+      "title": "Academia",
+      "description": "We sail on a turbulent sea.",
+      "coverFit": "cover",
+      "coverPosition": "left",
+      "clickAction": {
+        "type": "OpenFile",
+        "id": "c7a4234b-24a9-468f-b1f4-2ed0acb78b72",
+        "options": {
+          "filePath": "components/view/Academia.components",
+          "fileName": "Academia.components",
+          "openPageIn": "current"
+        }
+      },
+      "icon": "ArrowRight",
+      "backgroundColor": "#fff6fc",
+      "borderColor": "#3c3160",
+      "fontColor": "#8e3d7b"
+    },
+    {
+      "id": "f08cff05-b5b0-4d6f-810f-43dafc926758",
+      "type": "card",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-06-22T09:20:53.745Z",
+      "updateAt": "2025-06-22T09:20:53.745Z",
+      "title": "Minerva's Tide",
+      "description": "Eventually we turn the tide.",
+      "coverFit": "cover",
+      "coverPosition": "left",
+      "clickAction": {
+        "type": "OpenFile",
+        "id": "c7a4234b-24a9-468f-b1f4-2ed0acb78b72",
+        "options": {
+          "filePath": "components/view/Minerva's Tide.components",
+          "fileName": "Minerva's Tide.components",
+          "openPageIn": "current"
+        }
+      },
+      "icon": "ArrowRight",
+      "backgroundColor": "#fff6fc",
+      "borderColor": "#3c3160",
+      "fontColor": "#8e3d68"
+    },
+    {
+      "id": "03d838dc-3f74-4606-9fae-3012a45a2281",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-09-01T18:21:19.878Z",
+      "updateAt": "2026-03-11T07:48:27.146Z",
+      "components": [
+        {
+          "componentId": "40f4fa38-7435-4be0-af65-9e107d3ecddb"
+        },
+        {
+          "componentId": "8055b8b2-a407-4c9c-81d0-e857219ae8f3"
+        },
+        {
+          "componentId": "06c70395-fb1f-4319-a86f-7a2e075ffb58"
+        },
+        {
+          "componentId": "81bcf229-d8e9-4e4b-97b8-b73f8fd2fc18"
+        },
+        {
+          "componentId": "beb3a839-4f1d-4f3f-b450-82baf47732f6"
+        }
+      ],
+      "layoutType": "verticalTab",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "06c70395-fb1f-4319-a86f-7a2e075ffb58",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "File History",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-09-01T18:43:36.546Z",
+      "updateAt": "2025-09-01T18:43:36.546Z",
+      "viewType": "list",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "07a55bb0-0d60-4190-91c8-099151cf7242",
+          "name": "Date",
+          "isShow": true,
+          "type": "date",
+          "options": {
+            "formatType": "datetime",
+            "format": "yyyy-MM-dd"
+          }
+        },
+        {
+          "id": "0e731129-57fb-4985-a72a-b97fd2746371",
+          "name": "Paper",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "9eeba2a8-fdda-47be-b9e7-6bf52e11c83f",
+          "name": "WOS",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "58e50609-ccfb-4cff-b773-8de6bea259cd",
+          "name": "Book Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "9e4607e0-009f-4baf-b5ba-e2472cdb83c7",
+          "name": "Podcast",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "a8cc7832-07f3-41e8-ac63-f34e4fa1586f",
+          "name": "Roses Head",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "160dc8ab-f6a6-4760-a087-3b3ef3a8b70d",
+          "name": "Module",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "6dbe8dc2-df3e-44e6-8e3e-c96b3eb64d2d",
+          "name": "ArticleOvO",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "9270e5de-475a-4b1f-9b10-c40f82227657",
+          "name": "Tide",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "78306e0f-1dac-4cbe-a2fd-65bcfbeeffbc",
+          "name": "COC",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "3963d43c-3abe-4a0f-a871-0ef5311dc59c",
+          "name": "Game",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "bbb769c2-5abf-4076-9405-a55fc964127e",
+          "name": "Trip",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "a28476bf-cde8-405f-8d01-428b3e789ba3",
+          "name": "Article Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "7ad8c8d4-941e-45e2-863b-48074254bc9a",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "e6d417d4-d476-4955-b9eb-e1a49ff24623",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.parent}",
+            "value": "Unorganized/Thino Notes",
+            "conditions": []
+          },
+          {
+            "id": "11665201-8d7d-4582-96f5-cfebb42fd707",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.parent}",
+            "value": "Vault Tool Box",
+            "conditions": []
+          },
+          {
+            "id": "c57275d4-6820-48fa-bd08-088a37567de3",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.parent}",
+            "value": "Unorganized/Attachment",
+            "conditions": []
+          },
+          {
+            "id": "7be724d9-0188-4b3a-af7b-cb27e747ed29",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.parent}",
+            "value": "copilot-conversations",
+            "conditions": []
+          },
+          {
+            "id": "5dd76e08-4f0b-4c7b-aaa0-bd1947ec104a",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.path}",
+            "value": "components",
+            "conditions": []
+          }
+        ]
+      },
+      "sort": {
+        "orders": [
+          {
+            "id": "80948fa0-e7ca-45c4-8d64-f86195485b3e",
+            "property": "${file.mtime}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "showTitle": false
+    },
+    {
+      "id": "beb3a839-4f1d-4f3f-b450-82baf47732f6",
+      "type": "attachments",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-09-03T09:43:36.649Z",
+      "updateAt": "2025-09-03T09:43:36.649Z",
+      "attachmentSource": "All",
+      "attachmentType": "Image",
+      "fileExensions": [],
+      "specifiedFilePath": "",
+      "sortField": "default",
+      "sortDirection": "asc"
+    },
+    {
+      "id": "2862d74b-b171-4258-8d93-858544ad3d99",
+      "type": "chart",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showTitle": true,
+      "showShadow": false,
+      "createAt": "2026-02-04T16:37:51.578Z",
+      "updateAt": "2026-02-04T17:08:59.446Z",
+      "chartType": "heatmap",
+      "filter": {
+        "id": "a35777de-8301-4c15-977f-70e4340afadc",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "36e53c91-0c5e-4992-8c9a-e7be94fddbbd",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.tags}",
+            "value": "",
+            "conditions": []
+          }
+        ]
+      },
+      "labelFormat": "$none",
+      "series": [
+        {
+          "id": "c96e781a-b0cd-489c-9091-bf3e31b93948",
+          "name": "${file.chars}",
+          "precision": null
+        }
+      ],
+      "sortField": "xAxisValue",
+      "sortOrder": "asc",
+      "maxHeight": 300,
+      "chartColorSet": "wine_heatmap_colorset",
+      "chartLabelPosition": "top",
+      "enableMarkLine": false,
+      "markLineValue": 20,
+      "showDataValue": false,
+      "valueScaleStartFromZero": true,
+      "smoothLine": false,
+      "fillArea": false,
+      "options": {
+        "minValue": 0,
+        "maxValue": 6000,
+        "cellSize": 12,
+        "numberOfSegments": 6,
+        "fullWidth": true,
+        "showSplitLine": false,
+        "hideChartLabel": false,
+        "firstDayOfWeek": 1,
+        "dateRange": {
+          "type": "latest",
+          "latestValue": "12",
+          "latestUnit": "month"
+        }
+      },
+      "backgroundColor": "#fdf9f9",
+      "fontColor": "#824747",
+      "categoryProperty": "${file.mtime}",
+      "title": "May we stand on the cliff."
+    },
+    {
+      "id": "81bcf229-d8e9-4e4b-97b8-b73f8fd2fc18",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Daily",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showTitle": true,
+      "showShadow": false,
+      "createAt": "2026-03-09T10:57:50.296Z",
+      "updateAt": "2026-03-11T07:55:01.087Z",
+      "viewType": "gallary",
+      "newPageNameFormat": "{{date: YYYY-MM-DD}}",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "33f4fc34-bae2-4b4a-acc9-2fc56f08b250",
+          "path": "Vault Tool Box/Templates/Tp_Daily Notes.md",
+          "name": "Tp_Daily Notes.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-small",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "textContent",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "hideHeaderMenu": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600,
+        "calendarViewType": "day"
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "9b57d181-5873-4dbb-9690-6637f3b2b302",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "5192e9fa-a525-4e4b-970a-341ec78c6130",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.parent}",
+            "value": "Unorganized/Thino Notes",
+            "conditions": []
+          }
+        ]
+      },
+      "sort": {
+        "orders": [
+          {
+            "id": "90ede8ed-5fa4-495f-affc-a860c8b9b781",
+            "property": "${file.basename}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "defaultTemplate": "33f4fc34-bae2-4b4a-acc9-2fc56f08b250",
+      "newPageLocation": {
+        "location": "Unorganized/Thino Notes"
+      },
+      "title": "Daily"
+    },
+    {
+      "id": "40f4fa38-7435-4be0-af65-9e107d3ecddb",
+      "type": "markdown",
+      "titleAlign": "center",
+      "tabTitle": "Todo Board",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showTitle": true,
+      "showShadow": false,
+      "createAt": "2026-03-11T07:30:52.567Z",
+      "updateAt": "2026-04-13T20:48:54.397Z",
+      "maxHeight": 1200,
+      "contentAlign": "left",
+      "markdownsSource": "file",
+      "markdownValue": "components/view/Task Tracking.md",
+      "title": "Todo Board"
+    },
+    {
+      "id": "8055b8b2-a407-4c9c-81d0-e857219ae8f3",
+      "type": "reference",
+      "titleAlign": "center",
+      "tabTitle": "Quick",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showTitle": true,
+      "showShadow": false,
+      "createAt": "2026-03-11T07:35:24.998Z",
+      "updateAt": "2026-03-11T07:54:46.230Z",
+      "file": "components/view/QuickStart-Academia.components",
+      "title": "Quick"
+    },
+    {
+      "id": "c976fe7b-653e-4584-8849-cbb70a8749a9",
+      "type": "button",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showTitle": true,
+      "showShadow": true,
+      "createAt": "2026-04-12T00:39:30.108Z",
+      "updateAt": "2026-04-12T00:41:30.346Z",
+      "text": "今天发生了什么?",
+      "buttonType": "common",
+      "clickActions": [
+        {
+          "type": "CreateFile",
+          "id": "819219d3-c14c-4669-a271-f2a286213d47",
+          "options": {
+            "templateFilePath": "Vault Tool Box/Templates/Tp_Daily Notes.md",
+            "targetFolder": "Unorganized/Thino Notes",
+            "fileName": "{{date: YYYY-MM-DD}}",
+            "openPageIn": "tab"
+          }
+        }
+      ],
+      "checkActions": [],
+      "uncheckActions": [],
+      "isChecked": false,
+      "fullWidth": true,
+      "icon": "CalendarPlus"
+    }
+  ],
+  "rootComponentId": "1c9c4e68-43c3-4a2a-a96c-308479eb6cab",
+  "version": 3.1
+}

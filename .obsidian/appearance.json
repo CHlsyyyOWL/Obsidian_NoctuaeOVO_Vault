@@ -1,0 +1,15 @@
+{
+  "accentColor": "#e7c1c1",
+  "cssTheme": "Blue Topaz",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "TableWidth"
+  ],
+  "theme": "moonstone",
+  "showRibbon": true,
+  "baseFontSize": 15,
+  "nativeMenus": false,
+  "textFontFamily": "STSong",
+  "interfaceFontFamily": "Arial",
+  "baseFontSizeAction": true
+}

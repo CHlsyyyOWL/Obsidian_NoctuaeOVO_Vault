@@ -1,0 +1,573 @@
+{\rtf1\ansi\ansicpg936\cocoartf2818
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+ /* \uc0\u29255 \u27573 \u26469 \u33258 \u65306 pkmer\u30693 \u35782 \u31649 \u29702 \u20132 \u27969 \u32676 \u65292 @\u19978 \u21892 \u33509 \u27700 */\
+\
+ /* @settings\
+name: Table\uc0\u32654 \u21270 \
+id: Mo-Table\
+settings:\
+  -\
+    id: tbMH-yangshi\
+    title: \uc0\u34920 \u26684 \u26679 \u24335 \u36873 \u25321 \
+    type: class-select\
+    allowEmpty: false\
+    default: tbMH-yuan\
+    options:\
+      -\
+        label: \uc0\u30452 \u35282 \u27169 \u24335 \
+        value: tbMH-zhi\
+      -\
+        label: \uc0\u22278 \u35282 \u27169 \u24335 \
+        value: tbMH-yuan\
+  -\
+    id: tbMH-qkms\
+    title: \uc0\u34920 \u26684 \u20840 \u23485 \u36873 \u25321 \
+    type: class-select\
+    allowEmpty: false\
+    default: tbMH-qk\
+    options:\
+      -\
+        label: \uc0\u38750 \u20840 \u23485 \u27169 \u24335 \
+        value: tbMH-fqk\
+      -\
+        label: \uc0\u20840 \u23485 \u27169 \u24335 \
+        value: tbMH-qk\
+      -\
+        label: \uc0\u33258 \u23450 \u20041 \u23621 \u20013 \u27169 \u24335 \
+        value: tbMH-zdykd-jz\
+  -\
+    id: tbMH-ds\
+    title: \uc0\u34920 \u26684 \u24213 \u33394 \u26679 \u24335 \u36873 \u25321 \
+    description: \uc0\u21487 \u36890 \u36807 \u22312 yaml\u21306  cssclasses\u65306 \u27169 \u24335 \u21517 \u23383  \u26469 \u35774 \u32622 \u39029 \u38754 \u30340 \u34920 \u26684 \u27169 \u24335 \u12290 \
+    type: class-select\
+    allowEmpty: false\
+    default: tbMH-ds-cg\
+    options:\
+      -\
+        label: \uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335 \
+        value: tbMH-ds-cg\
+      -\
+        label: \uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335 \
+        value: tbMH-ds-bt\
+      -\
+        label: \uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335 \
+        value: tbMH-ds-hlbt\
+      -\
+        label: \uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335 \
+        value: tbMH-ds-hlbt-jg\
+      -\
+        label: \uc0\u20840 \u36879 \u26126 \u24213 \u33394 \u27169 \u24335 \
+        value: tbMH-ds-tm\
+  -\
+    id: tbMH-kd\
+    title: \uc0\u34920 \u26684 \u23485 \u24230 \u26159 \u21542 \u36229 \u20986 \u26174 \u31034 \u30028 \u38754 \u36873 \u25321 \
+    description: \uc0\u21487 \u36890 \u36807 \u22312 yaml\u21306  \'93cssclasses\u65306 \u27169 \u24335 \u21517 \u23383 \'94 \u26469 \u35774 \u32622 \u39029 \u38754 \u30340 \u22343 \u21248 \u27169 \u24335 \u12290 \u25903 \u25345 \u22312 \u20840 \u23485 \u22343 \u21248 \u20998 \u24067 \u27169 \u24335 \u19979 \u25511 \u21046 \u34920 \u26684 \u22823 \u23567 \u65292 \u21487 \u36890 \u36807  \'93cssclasses\u65306 \u34920 \u26684 \u23485 \u24230 -\u31532 \u19968 \u26723 \u20301 \'94 \u26469 \u33258 \u23450 \u20041 \u65292 \u26368 \u39640 \u20843 \u26723 \u12290 \u25903 \u25345 \u36890 \u36807  \'93cssclasses\u65306 \u22343 \u21248 \u27169 \u24335 &\u38750 \u22343 \u21248 \u27169 \u24335 \'94 \u26469 \u25913 \u21464 \u26159 \u21542 \u22343 \u21248 \u27169 \u24335 \u12290 \
+    type: class-select\
+    allowEmpty: false\
+    default: tbMH-kd-ncc-jy\
+    options:\
+      -\
+        label: \uc0\u36229 \u20986 \u27169 \u24335 \
+        value: tbMH-kd-cc\
+      -\
+        label: \uc0\u19981 \u36229 \u20986 \u27169 \u24335 \u65288 \u38750 \u22343 \u21248 \u20998 \u24067 \u65289 \
+        value: tbMH-kd-ncc\
+      -\
+        label: \uc0\u19981 \u36229 \u20986 \u27169 \u24335 \u65288 \u20840 \u23485 \u22343 \u21248 \u20998 \u24067 \u65289 \
+        value: tbMH-kd-ncc-jy\
+  -\
+    id: tbMH-zdykd-jz\
+    title: \uc0\u34920 \u26684 \u33258 \u23450 \u20041 \u23485 \u24230 \
+    description: \uc0\u21487 \u36890 \u36807 \u25302 \u25341 \u33258 \u23450 \u20041 \u34920 \u26684 \u40664 \u35748 \u23485 \u24230 \u12290 \u65288 \u20165 \u33258 \u23450 \u20041 \u27169 \u24335 \u29983 \u25928 \u65289 \
+    type: variable-number-slider\
+    default: 100\
+    min: 50\
+    max: 800\
+    format: px\
+  -\
+    id: tbMH-tt\
+    title: \uc0\u34920 \u26684 \u34892 \u21015 \u26631 \u39064 \u22836 \u39068 \u33394 \u35843 \u25972 \
+    type: variable-themed-color\
+    default-light: '#'\
+    default-dark: '#'\
+    format: 'rgb-values'\
+  -\
+    id: tbMH-th\
+    title: \uc0\u34920 \u26684 \u21015 \u26631 \u39064 \u39068 \u33394 \u35843 \u25972 \
+    type: variable-themed-color\
+    default-light: '#'\
+    default-dark: '#'\
+    format: 'rgb-values'\
+  -\
+    id: tbMH-th-l\
+    title: \uc0\u34920 \u26684 \u34892 \u26631 \u39064 \u39068 \u33394 \u35843 \u25972 \
+    type: variable-themed-color\
+    default-light: '#'\
+    default-dark: '#'\
+    format: 'rgb-values'\
+  -\
+    id: tbMH-td\
+    title: \uc0\u34920 \u26684 \u38388 \u38548 \u23618 \u39068 \u33394 \u35843 \u25972 \
+    type: variable-themed-color\
+    default-light: '#'\
+    default-dark: '#'\
+    format: 'rgb-values'\
+  -\
+    id: tbMH-th-djDS\
+    title: \uc0\u26694 \u36873 \u22810 \u21333 \u20803 \u26684 \u26102 \u34892 \u21015 \u24213 \u33394 \u35843 \u25972 \
+    type: variable-themed-color\
+    default-light: '#'\
+    default-dark: '#'\
+    format: 'rgb-values'\
+  -\
+    id: tbMH-kj-color\
+    title: \uc0\u34920 \u26684 \u26694 \u26550 \u39068 \u33394 \u35843 \u25972 \
+    type: variable-themed-color\
+    default-light: '#'\
+    default-dark: '#'\
+    format: 'rgb-values'\
+  -\
+    id: table-thickness\
+    title: \uc0\u34920 \u26684 \u26694 \u26550 \u31895 \u24230 \u35843 \u25972 \
+    type: variable-number\
+    default: 2\
+    format: px\
+  -\
+    id: tbMH-yuan-jd\
+    title: \uc0\u34920 \u26684 \u26694 \u26550 \u22278 \u35282 \u35282 \u24230 \u35843 \u25972 \
+    type: variable-number\
+    default: 6\
+    format: px\
+  -\
+*/\
+\
+/*\uc0\u34920 \u26684 \u36793 \u26694 \u39068 \u33394 */\
+body.theme-light \{\
+  --table-border-color: rgb(var(--tbMH-kj-color, 81, 81, 81));\
+  --table-add-button-border-color:rgb(var(--tbMH-kj-color, 81, 81, 81));\
+\}\
+\
+body.theme-dark \{\
+  --table-border-color: rgb(var(--tbMH-kj-color, 108, 88, 88));\
+  --table-add-button-border-color:rgb(var(--tbMH-kj-color, 108, 88, 88));\
+\}\
+\
+/*\uc0\u34920 \u26684 \u36793 \u26694 \u31895 \u32454 */\
+.theme-dark, .theme-light \{\
+  --table-border-width: var(--table-thickness, 2px);\
+\}\
+\
+/*\uc0\u34920 \u26684 \u25353 \u38062 \u21160 \u30011 */\
+.markdown-source-view.mod-cm6 .cm-table-widget .table-row-btn, .markdown-source-view.mod-cm6 .cm-table-widget .table-col-btn \{\
+  transition-duration:400ms\
+\}\
+\
+/*\uc0\u34920 \u26684 \u24213 \u33394 */\
+body.theme-light.tbMH-ds-cg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th \{\
+    background-color: rgb(var(--tbMH-th, 145, 163, 143))\
+\}\
+body.theme-light.tbMH-ds-cg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) tr:nth-child(2n) td \{\
+    background-color:rgb(var(--tbMH-td, 145, 163, 143))\
+\}\
+\
+body.theme-dark.tbMH-ds-cg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th \{\
+    background-color:rgb(var(--tbMH-th, 32, 23, 23))\
+\}\
+body.theme-dark.tbMH-ds-cg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) tr:nth-child(2n) td \{\
+    background-color:rgb(var(--tbMH-td, 32, 23, 23))\
+\}\
+\
+/*\uc0\u20840 \u23485 \u34920 \u26684 */\
+body.tbMH-qk :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table)  \{\
+  --table-white-space: break-all;\
+  width: 100%;\
+\}\
+\
+/*\uc0\u33258 \u23450 \u20041 \u23621 \u20013 \u27169 \u24335 */\
+body.tbMH-zdykd-jz :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):not(.dataview)  \{\
+  --table-white-space: break-all;\
+  width: var(--tbMH-zdykd-jz);\
+  margin-left: calc(50% - var(--tbMH-zdykd-jz) / 2);\
+  margin-right: calc(50% - var(--tbMH-zdykd-jz) / 2);\
+\}\
+\
+\
+\
+/*\uc0\u22278 \u35282 \u26679 \u24335 */\
+body.tbMH-yuan \{\
+  --table-radius: var(--tbMH-yuan-jd,6px);\
+\}\
+\
+\
+body.tbMH-yuan .markdown-rendered table \{\
+  border-collapse: initial;\
+  border-spacing: 0;\
+\}\
+\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table) th:first-child:not(:has(:is(.table-row-drag-handle, .table-col-drag-handle):hover)) \{\
+  border-top-left-radius: var(--table-radius);\
+\}\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table) th:last-child:not(:has(.table-col-drag-handle:hover)) \{\
+  border-top-right-radius: var(--table-radius);\
+\}\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):has(.table-col-btn:hover) th:last-child \{\
+  border-top-right-radius: 0;\
+\}\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table) tr:last-child td:first-child \{\
+  border-bottom-left-radius: var(--table-radius);\
+\}\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):has(.table-row-btn:hover) tr:last-child td:first-child \{\
+  border-bottom-left-radius: 0;\
+\}\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table) tr:last-child td:last-child \{\
+  border-bottom-right-radius: var(--table-radius);\
+\}\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):has(:is(.table-col-btn, .table-row-btn):hover) tr:last-child td:last-child \{\
+  border-bottom-right-radius: 0;\
+\}\
+\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table) .table-col-btn \{\
+  border-top-right-radius: var(--table-radius);\
+  border-bottom-right-radius: var(--table-radius);\
+\}\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table) .table-row-btn \{\
+  border-bottom-left-radius: var(--table-radius);\
+  border-bottom-right-radius: var(--table-radius);\
+\}\
+\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table) :is(th, td):not(:first-child) \{\
+  border-left: 0;\
+\}\
+body.tbMH-yuan :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table) tbody td \{\
+  border-top: 0;\
+\}\
+\
+/*\uc0\u28857 \u20987 \u36830 \u26694 \u39068 \u33394 */\
+body.theme-light .markdown-source-view.mod-cm6 .cm-table-widget th.is-selected::after,body.theme-light .markdown-source-view.mod-cm6 .cm-table-widget td.is-selected::after \{\
+  background-color:rgba(var(--tbMH-th-djDS,204, 178, 31, 0.279))\
+\}\
+\
+body.theme-dark .markdown-source-view.mod-cm6 .cm-table-widget th.is-selected::after,body.theme-dark .markdown-source-view.mod-cm6 .cm-table-widget td.is-selected::after \{\
+  background-color:rgba(var(--tbMH-th-djDS,149, 31, 204, 0.203))\
+\}\
+\
+/*\uc0\u19981 \u36229 \u36807 \u27169 \u24335 \u65288 \u38750 \u22343 \u21248 \u27169 \u24335 \u65289 */\
+body.tbMH-kd-ncc :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table) \{\
+  word-break: break-all;\
+\}\
+/*\uc0\u19981 \u36229 \u36807 \u27169 \u24335 \u65288 \u22343 \u21248 \u27169 \u24335 \u65289 */\
+body.tbMH-kd-ncc-jy :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table) \{\
+  word-break: break-all;\
+  table-layout: fixed; \
+\}\
+\
+/*\uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335 */\
+body.theme-light.tbMH-ds-bt :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th \{\
+  background-color: rgb(var(--tbMH-th, 145, 163, 143))\
+\}\
+body.theme-dark.tbMH-ds-bt :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th \{\
+  background-color:rgb(var(--tbMH-th, 32, 23, 23))\
+\}\
+body.tbMH-ds-bt tr:nth-child(2n) td \{\
+  background-color:transparent;\
+\}\
+\
+/*\uc0\u36879 \u26126 \u24213 \u33394 \u27169 \u24335 */\
+body.tbMH-ds-tm :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th \{\
+  background-color:transparent;\
+\}\
+body.tbMH-ds-tm tr:nth-child(2n) td \{\
+  background-color:transparent;\
+\}\
+\
+/*\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335 */\
+body.theme-dark.tbMH-ds-hlbt :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th:first-child \{\
+  background-color:rgb(var(--tbMH-tt, 32, 23, 23))\
+\}\
+body.theme-light.tbMH-ds-hlbt :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th \{\
+  background-color: rgb(var(--tbMH-th, 145, 163, 143))\
+\}\
+body.theme-dark.tbMH-ds-hlbt :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th \{\
+  background-color:rgb(var(--tbMH-th, 32, 23, 23))\
+\}\
+body.theme-light.tbMH-ds-hlbt :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) td:first-child \{\
+  background-color:rgb(var(--tbMH-th-l, 145, 163, 143))\
+\}\
+body.theme-dark.tbMH-ds-hlbt :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) td:first-child \{\
+  background-color:rgb(var(--tbMH-th-l, 32, 23, 23))\
+\}\
+body.tbMH-ds-hlbt .markdown-rendered td:first-child \{\
+  font-size: var(--table-header-size);\
+  font-weight: var(--table-header-weight);\
+  color: var(--table-header-color);\
+  font-family: var(--table-header-font);\
+  line-height: var(--line-height-tight);\
+\}\
+\
+/*\uc0\u34892 \u21015 \u26631 \u39064 &\u38388 \u38548 \u23618 \u24213 \u33394 \u27169 \u24335 */\
+body.theme-light.tbMH-ds-hlbt-jg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th:first-child \{\
+  background-color:rgb(var(--tbMH-tt, 145, 163, 143))\
+\}\
+body.theme-dark.tbMH-ds-hlbt-jg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th:first-child \{\
+  background-color:rgb(var(--tbMH-tt, 32, 23, 23))\
+\}\
+\
+body.theme-light.tbMH-ds-hlbt-jg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th \{\
+  background-color: rgb(var(--tbMH-th, 145, 163, 143))\
+\}\
+body.theme-dark.tbMH-ds-hlbt-jg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) th \{\
+  background-color:rgb(var(--tbMH-th, 32, 23, 23))\
+\}\
+\
+body.theme-light.tbMH-ds-hlbt-jg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) td:first-child \{\
+  background-color:rgb(var(--tbMH-th-l, 145, 163, 143))\
+\}\
+body.theme-dark.tbMH-ds-hlbt-jg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) td:first-child \{\
+  background-color:rgb(var(--tbMH-th-l, 32, 23, 23))\
+\}\
+\
+body.theme-light.tbMH-ds-hlbt-jg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) tr:nth-child(2n) td:not(:first-child) \{\
+  background-color:rgb(var(--tbMH-td, 145, 163, 143))\
+\}\
+body.theme-dark.tbMH-ds-hlbt-jg :is(.markdown-preview-view,.markdown-source-view.mod-cm6 .cm-table-widget) tr:nth-child(2n) td:not(:first-child) \{\
+  background-color:rgb(var(--tbMH-td, 32, 23, 23))\
+\}\
+\
+body.tbMH-ds-hlbt-jg .markdown-rendered td:first-child \{\
+  font-size: var(--table-header-size);\
+  font-weight: var(--table-header-weight);\
+  color: var(--table-header-color);\
+  font-family: var(--table-header-font);\
+  line-height: var(--line-height-tight);\
+\}\
+\
+/*class\uc0\u30340 \u39029 \u38754 \u36873 \u25321 \u22120 */\
+\
+  /*\uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335  .\u24120 \u35268 \u24213 \u33394 \u27169 \u24335 */\
+  body.theme-light .\uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335  th:first-child \{\
+    background-color:rgb(var(--tbMH-th, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335  th:first-child \{\
+    background-color:rgb(var(--tbMH-th, 32, 23, 23))!important\
+  \}\
+  body.theme-light.\uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335  th \{\
+    background-color: rgb(var(--tbMH-th, 145, 163, 143))!important\
+  \}\
+  body.theme-light.\uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335  tr:nth-child(2n) td \{\
+    background-color:rgb(var(--tbMH-td, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335  th \{\
+    background-color:rgb(var(--tbMH-th, 32, 23, 23))!important\
+  \}\
+  body.theme-dark .\uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335  tr:nth-child(2n) td \{\
+    background-color:rgb(var(--tbMH-td, 32, 23, 23))!important\
+  \}\
+  .\uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335  tr:nth-child(2n-1) td \{\
+    background-color:transparent !important;\
+  \}\
+  .\uc0\u24120 \u35268 \u24213 \u33394 \u27169 \u24335  td:first-child \{\
+    font-weight: var(--anp-font-preview-wt, normal)!important;\
+  \}\
+\
+  /*\uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335  .\u26631 \u39064 \u24213 \u33394 \u27169 \u24335 */\
+  body.theme-light .\uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335  th:first-child \{\
+    background-color:rgb(var(--tbMH-th, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335  th:first-child \{\
+    background-color:rgb(var(--tbMH-th, 32, 23, 23))!important\
+  \}\
+  body.theme-light .\uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335  th \{\
+    background-color: rgb(var(--tbMH-th, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335  th \{\
+    background-color:rgb(var(--tbMH-th, 32, 23, 23))!important\
+  \}\
+  .\uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335  tr:nth-child(2n-1) td \{\
+    background-color:transparent !important;\
+  \}\
+  .\uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335  tr:nth-child(2n) td \{\
+    background-color:transparent !important;\
+  \}\
+  .\uc0\u26631 \u39064 \u24213 \u33394 \u27169 \u24335  td:first-child \{\
+    font-weight: var(--anp-font-preview-wt, normal)!important;\
+  \}\
+\
+  /*\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  .\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335 */\
+  body.theme-light .\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  th:first-child \{\
+    background-color:rgb(var(--tbMH-tt, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  th:first-child \{\
+    background-color:rgb(var(--tbMH-tt, 32, 23, 23))!important\
+  \}\
+  body.theme-light .\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  th \{\
+    background-color: rgb(var(--tbMH-th, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  th \{\
+    background-color:rgb(var(--tbMH-th, 32, 23, 23))!important\
+  \}\
+  body.theme-light .\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  td:first-child \{\
+    background-color:rgb(var(--tbMH-th-l, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  td:first-child \{\
+    background-color:rgb(var(--tbMH-th-l, 32, 23, 23))!important\
+  \}\
+  .\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  td:first-child \{\
+    font-size: var(--table-header-size)!important;\
+    font-weight: var(--table-header-weight)!important;\
+    color: var(--table-header-color)!important;\
+    font-family: var(--table-header-font)!important;\
+    line-height: var(--line-height-tight)!important;\
+  \}\
+  body.theme-light .\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  tr:nth-child(2n) td:not(:first-child) \{\
+    background-color:transparent !important\
+  \}\
+  body.theme-dark .\uc0\u34892 \u21015 \u26631 \u39064 \u24213 \u33394 \u27169 \u24335  tr:nth-child(2n) td:not(:first-child) \{\
+    background-color:transparent !important\
+  \}\
+\
+\
+  /*\uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335  .\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335 */\
+  body.theme-dark .\uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335  th:first-child \{\
+    background-color:rgb(var(--tbMH-tt, 32, 23, 23))!important\
+  \}\
+  \
+  body.theme-light .\uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335  th \{\
+    background-color: rgb(var(--tbMH-th, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335  th \{\
+    background-color:rgb(var(--tbMH-th, 32, 23, 23))!important\
+  \}\
+  \
+  body.theme-light .\uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335  td:first-child \{\
+    background-color:rgb(var(--tbMH-th-l, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335  td:first-child \{\
+    background-color:rgb(var(--tbMH-th-l, 32, 23, 23))!important\
+  \}\
+  \
+  body.theme-light .\uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335  tr:nth-child(2n) td:not(:first-child) \{\
+    background-color:rgb(var(--tbMH-td, 145, 163, 143))!important\
+  \}\
+  body.theme-dark .\uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335  tr:nth-child(2n) td:not(:first-child) \{\
+    background-color:rgb(var(--tbMH-td, 32, 23, 23))!important\
+  \}\
+  .\uc0\u34892 \u21015 \u26631 \u39064 \u38388 \u38548 \u23618 \u27169 \u24335  td:first-child \{\
+    font-size: var(--table-header-size)!important;\
+    font-weight: var(--table-header-weight)!important;\
+    color: var(--table-header-color)!important;\
+    font-family: var(--table-header-font)!important;\
+    line-height: var(--line-height-tight)!important;\
+  \}\
+\
+  /*\uc0\u20840 \u36879 \u26126 \u24213 \u33394 \u27169 \u24335  .\u20840 \u36879 \u26126 \u24213 \u33394 \u27169 \u24335 */\
+  .\uc0\u20840 \u36879 \u26126 \u24213 \u33394 \u27169 \u24335  th \{\
+    background-color:transparent !important;\
+  \}\
+  .\uc0\u20840 \u36879 \u26126 \u24213 \u33394 \u27169 \u24335  tr:nth-child(2n) td \{\
+    background-color:transparent !important;\
+  \}\
+  .\uc0\u20840 \u36879 \u26126 \u24213 \u33394 \u27169 \u24335  td:first-child \{\
+    background-color:transparent !important;\
+  \}\
+  .\uc0\u20840 \u36879 \u26126 \u24213 \u33394 \u27169 \u24335  td:first-child \{\
+    font-weight: var(--anp-font-preview-wt, normal)!important;\
+  \}\
+\
+  /*\uc0\u38750 \u22343 \u21248 \u27169 \u24335 \u19979 \u22343 \u21248 \u27169 \u24335  .\u22343 \u21248 \u27169 \u24335 */\
+  body.tbMH-kd-ncc .\uc0\u22343 \u21248 \u27169 \u24335  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table) \{\
+    table-layout: fixed!important; \
+  \}\
+  /*\uc0\u22343 \u21248 \u27169 \u24335 \u19979 \u38750 \u22343 \u21248 \u27169 \u24335  .\u38750 \u22343 \u21248 \u27169 \u24335 */\
+  body.tbMH-kd-ncc-jy .\uc0\u38750 \u22343 \u21248 \u27169 \u24335  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table) \{\
+    table-layout: auto!important; \
+  \}\
+\
+  /*\uc0\u33258 \u23450 \u20041 \u34920 \u26684 \u23485 \u24230 -\u31532 \u19968 \u26723 \u20301 */\
+  .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u19968 \u26723 \u20301  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):not(.dataview)  \{\
+  table-layout: fixed!important; \
+  width:200px !important;\
+  margin-left: calc(50% - 200px / 2)!important;\
+  margin-right: calc(50% - 200px / 2)!important;\
+  \}\
+  .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u19968 \u26723 \u20301   :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table):not(.dataview) \{\
+    word-break: break-all!important;\
+  \}\
+  /*\uc0\u33258 \u23450 \u20041 \u34920 \u26684 \u23485 \u24230 -\u31532 \u20108 \u26723 \u20301 */\
+  .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u20108 \u26723 \u20301  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):not(.dataview)  \{\
+    table-layout: fixed!important; \
+    width: 300px !important;\
+    margin-left: calc(50% - 300px / 2)!important;\
+    margin-right: calc(50% - 300px / 2)!important;\
+    \}\
+    .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u20108 \u26723 \u20301   :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table):not(.dataview) \{\
+      word-break: break-all!important;\
+    \}\
+  /*\uc0\u33258 \u23450 \u20041 \u34920 \u26684 \u23485 \u24230 -\u31532 \u19977 \u26723 \u20301 */\
+  .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u19977 \u26723 \u20301  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):not(.dataview)  \{\
+    table-layout: fixed!important; \
+    width: 400px !important;\
+    margin-left: calc(50% - 400px / 2)!important;\
+    margin-right: calc(50% - 400px / 2)!important;\
+    \}\
+    .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u19977 \u26723 \u20301   :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table):not(.dataview) \{\
+      word-break: break-all!important;\
+    \}\
+  /*\uc0\u33258 \u23450 \u20041 \u34920 \u26684 \u23485 \u24230 -\u31532 \u22235 \u26723 \u20301 */\
+  .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u22235 \u26723 \u20301  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):not(.dataview)  \{\
+    table-layout: fixed!important; \
+    width: 500px !important;\
+    margin-left: calc(50% - 500px / 2)!important;\
+    margin-right: calc(50% - 500px / 2)!important;\
+    \}\
+    .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u22235 \u26723 \u20301   :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table):not(.dataview) \{\
+      word-break: break-all!important;\
+    \}\
+  /*\uc0\u33258 \u23450 \u20041 \u34920 \u26684 \u23485 \u24230 -\u31532 \u20116 \u26723 \u20301 */\
+  .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u20116 \u26723 \u20301  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):not(.dataview)  \{\
+    table-layout: fixed!important; \
+    width: 600px !important;\
+    margin-left: calc(50% - 600px / 2)!important;\
+    margin-right: calc(50% - 600px / 2)!important;\
+    \}\
+    .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u20116 \u26723 \u20301   :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table):not(.dataview) \{\
+      word-break: break-all!important;\
+    \}\
+  /*\uc0\u33258 \u23450 \u20041 \u34920 \u26684 \u23485 \u24230 -\u31532 \u20845 \u26723 \u20301 */\
+  .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u20845 \u26723 \u20301  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):not(.dataview)  \{\
+    table-layout: fixed!important; \
+    width: 700px !important;\
+    margin-left: calc(50% - 700px / 2)!important;\
+    margin-right: calc(50% - 700px / 2)!important;\
+    \}\
+    .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u20845 \u26723 \u20301   :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table):not(.dataview) \{\
+      word-break: break-all!important;\
+    \}\
+  /*\uc0\u33258 \u23450 \u20041 \u34920 \u26684 \u23485 \u24230 -\u31532 \u19971 \u26723 \u20301 */\
+  .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u19971 \u26723 \u20301  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):not(.dataview)  \{\
+    table-layout: fixed!important; \
+    width: 800px !important;\
+    margin-left: calc(50% - 800px / 2)!important;\
+    margin-right: calc(50% - 800px / 2)!important;\
+    \}\
+    .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u19971 \u26723 \u20301   :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table):not(.dataview) \{\
+      word-break: break-all!important;\
+    \}\
+  /*\uc0\u33258 \u23450 \u20041 \u34920 \u26684 \u23485 \u24230 -\u31532 \u20843 \u26723 \u20301 */\
+  .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u20843 \u26723 \u20301  :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper, .markdown-rendered table):not(.dataview)  \{\
+    table-layout: fixed!important; \
+    width: 900px !important;\
+    margin-left: calc(50% - 900px / 2)!important;\
+    margin-right: calc(50% - 900px / 2)!important;\
+    \}\
+    .\uc0\u34920 \u26684 \u23485 \u24230 -\u31532 \u20843 \u26723 \u20301   :is(.markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper .cm-active, .markdown-rendered table):not(.dataview) \{\
+      word-break: break-all!important;\
+    \}\
+\
+\
+}

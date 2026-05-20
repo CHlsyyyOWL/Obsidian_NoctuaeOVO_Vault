@@ -1,0 +1,494 @@
+{
+  "main": {
+    "id": "a01581dc3528107e",
+    "type": "split",
+    "children": [
+      {
+        "id": "36fa75b2d5882a65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d0fa18cdf431941",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "components/view/DashBoard.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DashBoard"
+            }
+          },
+          {
+            "id": "1951052b2be6c973",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Day Planner Release 0.28.0"
+            }
+          },
+          {
+            "id": "997b329dee2fa53d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "components/view/Task Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task Management"
+            }
+          },
+          {
+            "id": "d4c4a3311f8254ba",
+            "type": "leaf",
+            "state": {
+              "type": "components-file-view",
+              "state": {
+                "file": "components/view/Academia.components"
+              },
+              "icon": "gantt-chart",
+              "title": "Academia"
+            }
+          },
+          {
+            "id": "a39660514aca66bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What the Owl Says/Minerva's Tide/Cast/代号“庄周”.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "代号“庄周”"
+            }
+          },
+          {
+            "id": "9335620bab58e354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What the Owl Says/Minerva's Tide/Cast/代号“众生”.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "代号“众生”"
+            }
+          },
+          {
+            "id": "f09a6c49e5d43887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What the Owl Says/Minerva's Tide/Cast/宴群山.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宴群山"
+            }
+          },
+          {
+            "id": "440a8e3e063c88e7",
+            "type": "leaf",
+            "state": {
+              "type": "components-file-view",
+              "state": {
+                "file": "components/view/Academia.components"
+              },
+              "icon": "gantt-chart",
+              "title": "Academia"
+            }
+          },
+          {
+            "id": "a6f1eed014b7f707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/SciencePo 25-26/19730 Globalisations Compared/S1 Why the \"West\" not the \"Rest\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S1 Why the \"West\" not the \"Rest\""
+            }
+          },
+          {
+            "id": "e48d752f93e4ac74",
+            "type": "leaf",
+            "state": {
+              "type": "components-file-view",
+              "state": {
+                "file": "components/view/Minerva's Tide.components"
+              },
+              "icon": "gantt-chart",
+              "title": "Minerva's Tide"
+            }
+          },
+          {
+            "id": "3b7513b62d305a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What the Owl Says/Minerva's Tide/Cast/月桥流灯·Mirror.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "月桥流灯·Mirror"
+            }
+          },
+          {
+            "id": "ec696838e78e7ace",
+            "type": "leaf",
+            "state": {
+              "type": "components-file-view",
+              "state": {
+                "file": "components/view/IOS DASHBOARD.components"
+              },
+              "icon": "gantt-chart",
+              "title": "IOS DASHBOARD"
+            }
+          },
+          {
+            "id": "15406c8bf1b174ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Noctuae Celsum/Article/What the Owl Says/宗教，文化，现代化，与国家建设.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宗教，文化，现代化，与国家建设"
+            }
+          },
+          {
+            "id": "7a0056af7b692755",
+            "type": "leaf",
+            "state": {
+              "type": "components-file-view",
+              "state": {
+                "file": "components/view/IOS DASHBOARD.components"
+              },
+              "icon": "gantt-chart",
+              "title": "IOS DASHBOARD"
+            }
+          },
+          {
+            "id": "85a984a0ef157e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Noctuae Celsum/Article/What the Owl Says/宗教，文化，现代化，与国家建设.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宗教，文化，现代化，与国家建设"
+            }
+          },
+          {
+            "id": "9fb3b4edec58b099",
+            "type": "leaf",
+            "state": {
+              "type": "components-file-view",
+              "state": {
+                "file": "components/view/IOS DASHBOARD.components"
+              },
+              "icon": "gantt-chart",
+              "title": "IOS DASHBOARD"
+            }
+          },
+          {
+            "id": "96125f6cf8737963",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "13a98740b17a55c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/SciencePo 25-26/14354 The ABC's of Politics/Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syllabus"
+            }
+          },
+          {
+            "id": "13bd57abe575949e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00dab05ddc32c02c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "077b8a8c6eb0114b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "d5acc642103eb647",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f759999e5cd83d1d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "5ed72e1ad9e5679d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "19683ab7bb2f0036",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "db7a07ff7fda4a1f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5472e7d3d2ade75a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Study/Noctuae Celsum/Article/What the Owl Says/宗教，文化，现代化，与国家建设.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "45759938375ec4e0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "44aeced0631d4137",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "ad02639934d5d67b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "a91aacbaf75a95c6",
+        "type": "leaf",
+        "state": {
+          "type": "planner-timeline",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "planner-timeline"
+        }
+      },
+      {
+        "id": "0f51393db8ae79eb",
+        "type": "leaf",
+        "state": {
+          "type": "planner-timeline",
+          "state": {},
+          "icon": "blocks",
+          "title": "Timeline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "sidebar-highlights:Open highlights": false,
+      "obsidian42-brat:BRAT": false,
+      "rss-dashboard:RSS dashboard": false,
+      "rss-dashboard:RSS discover": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "tags-overview:Tags overview": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "13bd57abe575949e",
+  "lastOpenFiles": [
+    "What the Owl Says/Game/调律工具箱.md",
+    "components/view/DashBoard.md",
+    "components/view/Task Management.md",
+    "Study/SciencePo 25-26/14354 The ABC's of Politics/Syllabus.md",
+    "Study/SciencePo 25-26/14354 The ABC's of Politics/T1 Leo Strauss.md",
+    "components/view/IOS DASHBOARD.components",
+    "Study/Noctuae Celsum/Article/What the Owl Says/宗教，文化，现代化，与国家建设.md",
+    "Study/SciencePo 25-26/18340 Inquiries in Sociology/Seeing the State as Family.md",
+    "Study/SciencePo 25-26/18340 Inquiries in Sociology/S2  Classical Outsider Harriet Martineau.md",
+    "Study/SciencePo 25-26/19730 Globalisations Compared/S1 Why the \"West\" not the \"Rest\".md",
+    "components/view/Academia.components",
+    "components/view/Minerva's Tide.components",
+    "What the Owl Says/Minerva's Tide/Cast/宴群山.md",
+    "What the Owl Says/Minerva's Tide/Cast/代号“众生”.md",
+    "What the Owl Says/Minerva's Tide/Cast/代号“庄周”.md",
+    "Study/Noctuae Celsum/Rose‘s Head/羔羊血.md",
+    "Study/Noctuae Celsum/Rose‘s Head/艾米莉·勃朗特.md",
+    "Study/Noctuae Celsum/Rose‘s Head/《广告》辛斯卡.md",
+    "What the Owl Says/Minerva's Tide/Cast/月桥流灯·Mirror.md",
+    "Unorganized/Thino Notes/2025-09-10.md",
+    "Unorganized/Thino Notes/2025-09-08.md",
+    "Unorganized/Thino Notes/2025-09-05.md",
+    "components/view/DashBoard.components",
+    "Study/SciencePo 25-26/19730 Globalisations Compared/Syllabus HisGlob.md",
+    "Study/SciencePo 25-26/14354 The ABC's of Politics/S2 Liberty.md",
+    "Unorganized/Thino Notes/250911.md",
+    "Unorganized/Thino Notes/2025-12-05.md",
+    "Unorganized/Thino Notes/250908.md",
+    "Unorganized/Thino Notes/2025-09-06.md",
+    "Unorganized/Thino Notes/2025-09-07.md",
+    "Unorganized/Attachment/Syllabus History of globalisation, 19s-20s.pdf",
+    "Unorganized/Attachment/S1_Mouffe.pdf",
+    "components/壁纸/5d5944111f1b356d1369aa7654236026.JPEG",
+    "components/壁纸/7b007b05cffa27371eb2142b44c992db.JPG",
+    "Study/Noctuae Celsum/Books/Books documents/Inquiries in sociology Le Havre 2025.docx",
+    "Study/Noctuae Celsum/Books/Books documents/Tilly+warmaking+statemaking+1985 (1).pdf",
+    "image.jpg",
+    "Study/SciencePo 25-26/18340 Inquiries in Sociology",
+    "Untitled"
+  ]
+}

@@ -1,0 +1,1550 @@
+{
+  "components": [
+    {
+      "id": "5de7dff0-28ff-475e-bdac-5a410aef27a2",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-02-26T19:22:12.444Z",
+      "updateAt": "2026-04-29T20:45:09.280Z",
+      "components": [
+        {
+          "componentId": "3194d819-6ee1-4eb0-b5f8-563ddd9bfc8f",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 8
+            }
+          }
+        },
+        {
+          "componentId": "7b57158a-9684-42e4-86a7-42a82358526f",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 4,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 4,
+              "y": 0,
+              "w": 8,
+              "h": 8
+            }
+          }
+        },
+        {
+          "componentId": "e32a717e-7753-4ac9-aa52-0984a15caa1b",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 8,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 4,
+              "y": 8,
+              "w": 2,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "5f0bd10c-0520-457a-84d1-c7a56ad139a4",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 12,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 6,
+              "y": 8,
+              "w": 1,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "294b12d9-ba34-4a63-b83e-a2c3bed9d89a",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 16,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 7,
+              "y": 8,
+              "w": 1,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "eaa5efb0-993d-4761-9d30-daa16483d5e6",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 20,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 8,
+              "w": 4,
+              "h": 32
+            }
+          }
+        },
+        {
+          "componentId": "6ce10ae6-9124-4899-8c04-c4ff3705d5fb",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 24,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 4,
+              "y": 12,
+              "w": 8,
+              "h": 28
+            }
+          }
+        },
+        {
+          "componentId": "27b5d553-936f-4c66-8343-00cb30676a14",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 28,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 8,
+              "y": 8,
+              "w": 2,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "d95fdc91-32f7-41e5-ae0f-980ab4e4d030",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 32,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 10,
+              "y": 8,
+              "w": 2,
+              "h": 4
+            }
+          }
+        }
+      ],
+      "layoutType": "grid",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "3194d819-6ee1-4eb0-b5f8-563ddd9bfc8f",
+      "type": "time",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-02-26T19:22:18.319Z",
+      "updateAt": "2025-02-26T19:22:18.319Z",
+      "showLunar": true,
+      "hideDateInfo": false,
+      "hideSeconds": true,
+      "hideProgress": false,
+      "backgroundImage": {
+        "url": ""
+      },
+      "backgroundColor": "#e9e3f1",
+      "fontColor": "#39276b",
+      "borderColor": "#362e6b"
+    },
+    {
+      "id": "7b57158a-9684-42e4-86a7-42a82358526f",
+      "type": "chart",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-03-24T19:58:33.092Z",
+      "updateAt": "2026-03-11T07:44:05.177Z",
+      "chartType": "heatmap",
+      "filter": {
+        "id": "613e8175-3596-4b23-be74-12402f3d1871",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "72d236ba-afb1-44bb-b711-e284280e4722",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "What the Owl Says",
+            "conditions": []
+          }
+        ]
+      },
+      "labelProperty": "${file.mtime}",
+      "labelFormat": "$none",
+      "valueProperty": "${file.chars}",
+      "valuePrecision": 0,
+      "sortField": "xAxisValue",
+      "sortOrder": "asc",
+      "maxHeight": 300,
+      "chartColorSet": "b4e34de1-d52e-4966-b9d2-3fffe71dc27e",
+      "chartLabelPosition": "top",
+      "showDataValue": false,
+      "valueScaleStartFromZero": true,
+      "smoothLine": false,
+      "fillArea": false,
+      "options": {
+        "minValue": 0,
+        "maxValue": 6000,
+        "cellSize": 10,
+        "numberOfSegments": 6,
+        "fullWidth": true,
+        "showSplitLine": false,
+        "hideChartLabel": false,
+        "firstDayOfWeek": 1,
+        "dateRange": {
+          "type": "latest",
+          "latestValue": "12",
+          "latestUnit": "month"
+        }
+      },
+      "title": "Eventually we turn the tide.",
+      "customizeColorSets": [
+        {
+          "id": "b4e34de1-d52e-4966-b9d2-3fffe71dc27e",
+          "colors": [
+            "#e8e2f5",
+            "#c8badd",
+            "#b098d3",
+            "#8d68b5",
+            "#7a57a0",
+            "#5b3b8f"
+          ]
+        }
+      ],
+      "fontColor": "#612286",
+      "backgroundColor": "#f8f6fb",
+      "borderColor": "#45296d",
+      "categoryProperty": "${file.mtime}",
+      "categoryFormatPattern": null,
+      "series": [
+        {
+          "id": "e96f205e-74b0-4f2f-a0dc-124c569ceb0f",
+          "name": "${file.chars}",
+          "precision": 0
+        }
+      ],
+      "darkBackgroundColor": "#592c93"
+    },
+    {
+      "id": "e32a717e-7753-4ac9-aa52-0984a15caa1b",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-05-24T08:52:54.212Z",
+      "updateAt": "2025-05-24T08:52:54.212Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "W",
+      "countType": "ratio",
+      "precision": 2,
+      "query": {
+        "valueType": "propertyValue",
+        "value": 100,
+        "filter": {
+          "id": "3bce58fc-cc4f-4976-afd1-3f45b79ac464",
+          "type": "group",
+          "operator": "and",
+          "conditions": [
+            {
+              "id": "0cab035f-8eab-4cb7-84db-f3a58429efe4",
+              "type": "filter",
+              "operator": "contains",
+              "property": "${file.path}",
+              "value": "What the Owl Says/Minerva's Tide",
+              "conditions": []
+            }
+          ]
+        },
+        "sort": {
+          "orders": []
+        },
+        "property": "${file.words}",
+        "aggregationType": "sum"
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 10000,
+        "filter": {
+          "id": "4bba2d25-165f-4143-897c-b2ded8b05a2f",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        },
+        "property": "${file.words}"
+      },
+      "title": "City of Tide"
+    },
+    {
+      "id": "5f0bd10c-0520-457a-84d1-c7a56ad139a4",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-05-24T08:58:19.000Z",
+      "updateAt": "2025-05-24T08:58:19.000Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "",
+      "countType": "number",
+      "precision": 0,
+      "query": {
+        "valueType": "totalRecords",
+        "value": 100,
+        "filter": {
+          "id": "3bce58fc-cc4f-4976-afd1-3f45b79ac464",
+          "type": "group",
+          "operator": "and",
+          "conditions": [
+            {
+              "id": "c51c420c-3707-48d4-899f-f2168fb90404",
+              "type": "filter",
+              "operator": "contains",
+              "property": "Type",
+              "value": "Profile",
+              "conditions": []
+            }
+          ]
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 100,
+        "filter": {
+          "id": "4bba2d25-165f-4143-897c-b2ded8b05a2f",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "title": "Characters"
+    },
+    {
+      "id": "294b12d9-ba34-4a63-b83e-a2c3bed9d89a",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-05-24T08:58:19.000Z",
+      "updateAt": "2026-02-04T17:13:07.619Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "",
+      "countType": "number",
+      "precision": 0,
+      "query": {
+        "valueType": "totalRecords",
+        "value": 100,
+        "filter": {
+          "id": "3bce58fc-cc4f-4976-afd1-3f45b79ac464",
+          "type": "group",
+          "operator": "and",
+          "conditions": [
+            {
+              "id": "82e4e2f6-c337-4ad6-b467-676877639d3b",
+              "type": "filter",
+              "operator": "contains",
+              "property": "Type",
+              "value": "Story",
+              "conditions": []
+            }
+          ]
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 100,
+        "filter": {
+          "id": "4bba2d25-165f-4143-897c-b2ded8b05a2f",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "title": "Stories"
+    },
+    {
+      "id": "a8a1b80b-80f7-4979-9e0f-1420810a71d8",
+      "type": "markdown",
+      "titleAlign": "center",
+      "tabTitle": "主角团",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:02:41.706Z",
+      "updateAt": "2025-05-24T12:02:41.706Z",
+      "maxHeight": 300,
+      "contentAlign": "left",
+      "markdownsSource": "content",
+      "markdownValue": "故事补全：\n- [ ] 阿维德&周裴玉 副本\n- [ ] \n人设补全\n\n立绘补全\n- [ ] 奥菲安\n- [ ] 周裴玉\n",
+      "backgroundColor": "#f0edf3",
+      "borderColor": "#4e2673",
+      "fontColor": "#331d48"
+    },
+    {
+      "id": "eaa5efb0-993d-4761-9d30-daa16483d5e6",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:06:02.727Z",
+      "updateAt": "2025-05-24T12:06:02.727Z",
+      "components": [
+        {
+          "componentId": "660d6139-1ecb-4428-a05d-65b369365022"
+        },
+        {
+          "componentId": "c5f044a8-f7fb-4a98-85de-2cf6aa24efef"
+        },
+        {
+          "componentId": "333a3e2b-f5ec-4ca0-83c7-f856fa466264"
+        },
+        {
+          "componentId": "1fc5aaae-2f9c-44e3-aa05-b3ded0827ef7"
+        }
+      ],
+      "layoutType": "tab",
+      "locked": false,
+      "layoutOptions": {
+        "headerWidthRatio": 20
+      }
+    },
+    {
+      "id": "c5f044a8-f7fb-4a98-85de-2cf6aa24efef",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "Game",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:08:39.442Z",
+      "updateAt": "2025-05-24T12:08:39.442Z",
+      "components": [
+        {
+          "componentId": "c5591809-92e8-4ee8-b4cd-ab641db38201"
+        }
+      ],
+      "layoutType": "tab",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "660d6139-1ecb-4428-a05d-65b369365022",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "oc",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:10:40.001Z",
+      "updateAt": "2026-02-04T17:11:54.831Z",
+      "components": [
+        {
+          "componentId": "a8a1b80b-80f7-4979-9e0f-1420810a71d8"
+        },
+        {
+          "componentId": "197e4425-087b-4565-a0d7-0b9d7e751cd2"
+        },
+        {
+          "componentId": "d7bbe54a-614a-46c5-9a9a-2df1dd296500"
+        }
+      ],
+      "layoutType": "verticalTab",
+      "locked": false,
+      "layoutOptions": {
+        "headerWidthRatio": 15.853658536585368
+      }
+    },
+    {
+      "id": "197e4425-087b-4565-a0d7-0b9d7e751cd2",
+      "type": "markdown",
+      "titleAlign": "center",
+      "tabTitle": "计划内",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:02:41.706Z",
+      "updateAt": "2025-05-24T12:02:41.706Z",
+      "maxHeight": 300,
+      "contentAlign": "left",
+      "markdownsSource": "content",
+      "markdownValue": "实验体名单：\n- 维纳斯、亚当&夏娃、尼德霍格、耶梦加得、雅典娜 （阿波罗、药师佛 、赵公明 等）\n参与人员名单：\n- 夏贝丝、亚当&伊芙、Null、奥菲安、雪莉",
+      "backgroundColor": "#f0edf3",
+      "borderColor": "#532e76",
+      "fontColor": "#402d67"
+    },
+    {
+      "id": "c5591809-92e8-4ee8-b4cd-ab641db38201",
+      "type": "markdown",
+      "titleAlign": "center",
+      "tabTitle": "树鹰",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:02:41.706Z",
+      "updateAt": "2025-05-24T12:02:41.706Z",
+      "maxHeight": 300,
+      "contentAlign": "left",
+      "markdownsSource": "content",
+      "markdownValue": "主演：\n- [周裴玉](周裴玉.md)（刘伟）\n- [阿维德](阿维德.md)",
+      "backgroundColor": "#f0edf3",
+      "borderColor": "#532e76",
+      "fontColor": "#402d67"
+    },
+    {
+      "id": "442fa42c-c003-4d5f-a546-2bd0bfbfba5e",
+      "type": "markdown",
+      "titleAlign": "center",
+      "tabTitle": "Trip-Recents",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:02:41.706Z",
+      "updateAt": "2025-05-24T12:02:41.706Z",
+      "maxHeight": 300,
+      "contentAlign": "left",
+      "markdownsSource": "content",
+      "markdownValue": "- Japan — Summer [Japan 2025](Japan%202025.md) \n- France - Late August [France Visa](What%20the%20Owl%20Says/Trip/France%20Visa.md) \n- London Exam ",
+      "backgroundColor": "#f0edf3",
+      "borderColor": "#532e76",
+      "fontColor": "#402d67",
+      "components": []
+    },
+    {
+      "id": "333a3e2b-f5ec-4ca0-83c7-f856fa466264",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "Trip",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:08:39.442Z",
+      "updateAt": "2025-05-24T12:08:39.442Z",
+      "components": [
+        {
+          "componentId": "442fa42c-c003-4d5f-a546-2bd0bfbfba5e"
+        }
+      ],
+      "layoutType": "tab",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "d7bbe54a-614a-46c5-9a9a-2df1dd296500",
+      "type": "markdown",
+      "titleAlign": "center",
+      "tabTitle": "Todo",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:02:41.706Z",
+      "updateAt": "2025-05-24T12:02:41.706Z",
+      "maxHeight": 300,
+      "contentAlign": "left",
+      "markdownsSource": "content",
+      "markdownValue": "- [ ] 镜灵故事完善\n- [ ] 陈尘立绘\n- [ ] 邱榆&徐鹤之 故事整理+立绘确定",
+      "backgroundColor": "#f0edf3",
+      "borderColor": "#532e76",
+      "fontColor": "#402d67"
+    },
+    {
+      "id": "d0571426-4c13-4487-90bb-60ac95aab508",
+      "type": "markdown",
+      "titleAlign": "center",
+      "tabTitle": "Toolkit",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:02:41.706Z",
+      "updateAt": "2025-05-24T12:02:41.706Z",
+      "maxHeight": 300,
+      "contentAlign": "left",
+      "markdownsSource": "content",
+      "markdownValue": "克苏鲁公社: [访问](https://www.cthulhuclub.com/) ｜ 文档：[克苏鲁公社](克苏鲁公社.md)\nDicecho：[访问](https://www.dicecho.com/) ｜ 文档：[Dicecho](Dicecho.md)\n\n",
+      "backgroundColor": "#f0edf3",
+      "borderColor": "#532e76",
+      "fontColor": "#402d67",
+      "components": []
+    },
+    {
+      "id": "1fc5aaae-2f9c-44e3-aa05-b3ded0827ef7",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "CoC",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-24T12:08:39.442Z",
+      "updateAt": "2025-05-24T12:08:39.442Z",
+      "components": [
+        {
+          "componentId": "d0571426-4c13-4487-90bb-60ac95aab508"
+        }
+      ],
+      "layoutType": "tab",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "85fad641-ce06-45d5-9d2d-e052ad8133d1",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Game",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2026-05-13T21:22:48.999Z",
+      "viewType": "table",
+      "newPageNameFormat": "{{date: YYMMDD}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Tide",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "0fb6d665-9a8d-4f36-bab2-78bf4090b7d6",
+          "name": "Game",
+          "isShow": true,
+          "type": "select",
+          "options": {}
+        },
+        {
+          "id": "b456e006-1bac-4456-a91e-cf5fb46f546f",
+          "name": "Progress",
+          "isShow": true,
+          "type": "text",
+          "options": {},
+          "alias": ""
+        }
+      ],
+      "templates": [
+        {
+          "id": "e77f4d22-c2b4-4394-bee6-99119c2fc81d",
+          "path": "Vault Tool Box/Templates/Tp_Game.md",
+          "name": "Tp_Game.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "9471157f-2fc9-4975-bb1c-88a3d73e7740",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "What the Owl Says/Game",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Game",
+      "newPageLocation": {
+        "location": "What the Owl Says/Game"
+      },
+      "showTitle": false,
+      "defaultTemplate": "e77f4d22-c2b4-4394-bee6-99119c2fc81d"
+    },
+    {
+      "id": "6ce10ae6-9124-4899-8c04-c4ff3705d5fb",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:25:44.705Z",
+      "updateAt": "2026-02-04T17:16:45.647Z",
+      "components": [
+        {
+          "componentId": "094b4cd6-a110-406b-b6bb-ecd9aefa1fe9"
+        },
+        {
+          "componentId": "85fad641-ce06-45d5-9d2d-e052ad8133d1"
+        },
+        {
+          "componentId": "b447d5b3-b3bc-4c9e-b41f-bfcae2717dcf"
+        },
+        {
+          "componentId": "d6237abf-9749-4a45-bb8e-85f3236f60b8"
+        }
+      ],
+      "layoutType": "verticalTab",
+      "locked": false,
+      "layoutOptions": {
+        "headerWidthRatio": 20
+      }
+    },
+    {
+      "id": "b4eb1197-41f5-4020-a524-5dc850d93ffb",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Overview",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2026-05-13T21:18:56.490Z",
+      "viewType": "table",
+      "newPageNameFormat": "cast",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Arc",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "6c5baae3-bb53-40d4-8a23-b06a1c410972",
+          "name": "Type",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {},
+          "wrap": false
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600,
+        "displaySequenceNumber": false
+      },
+      "groupStates": {
+        "sort": "manual",
+        "format": "none",
+        "statics": [],
+        "orders": [
+          "N-Minerva's Tide",
+          "I-Echos of Tide",
+          "II-Eden Project",
+          "III-Elegy of Babel",
+          "VI-City of Tide",
+          "__$uncategorizedGroup"
+        ],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "9471157f-2fc9-4975-bb1c-88a3d73e7740",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "What the Owl Says/Minerva's Tide",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Arc",
+      "newPageLocation": {
+        "location": "What the Owl Says/Minerva's Tide/Cast"
+      },
+      "components": [],
+      "showTitle": true,
+      "sort": {
+        "orders": [
+          {
+            "id": "08964c0f-a2b2-4433-8c10-1d718ee08559",
+            "property": "Type",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "094b4cd6-a110-406b-b6bb-ecd9aefa1fe9",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "City of Tide",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:25:44.705Z",
+      "updateAt": "2025-05-28T09:25:44.705Z",
+      "components": [
+        {
+          "componentId": "b4eb1197-41f5-4020-a524-5dc850d93ffb"
+        },
+        {
+          "componentId": "5b33caa4-2c6e-4fce-980d-d190157a5fa5"
+        },
+        {
+          "componentId": "a5dc2c5b-6534-4a88-9ef2-1064a2439bc9"
+        },
+        {
+          "componentId": "73e5aeb1-c2c0-48ec-a8e2-720db90f5299"
+        }
+      ],
+      "layoutType": "tab",
+      "locked": false,
+      "layoutOptions": {
+        "headerWidthRatio": 20
+      }
+    },
+    {
+      "id": "5b33caa4-2c6e-4fce-980d-d190157a5fa5",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Profile",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2026-05-13T21:03:58.353Z",
+      "viewType": "table",
+      "newPageNameFormat": "cast",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Arc",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "7f16dcf2-4911-4283-a62a-427e716b4285",
+          "name": "Type",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {
+            "items": [
+              {
+                "id": "4af9bf16-4850-4045-bb4a-3f154181c0be",
+                "value": "Profile",
+                "color": "components--color-orange"
+              }
+            ]
+          },
+          "wrap": false
+        },
+        {
+          "id": "b10fe621-4baf-4b71-a5e3-7ac987e21f00",
+          "name": "aliases",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "51752652-4485-48a3-a629-1d89171a8755",
+          "path": "Vault Tool Box/Templates/Tp_Tide_Cast.md",
+          "name": "Tp_Tide_Cast.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [
+          "__$uncategorizedGroup"
+        ],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "fc5b37da-5663-4058-aa6b-cf49c73be961",
+            "type": "filter",
+            "operator": "contains",
+            "property": "Type",
+            "value": "Profile",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Arc",
+      "newPageLocation": {
+        "location": "What the Owl Says/Minerva's Tide/Cast"
+      },
+      "components": [],
+      "defaultTemplate": "51752652-4485-48a3-a629-1d89171a8755",
+      "showTitle": false
+    },
+    {
+      "id": "a5dc2c5b-6534-4a88-9ef2-1064a2439bc9",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Story",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2026-05-13T21:05:19.969Z",
+      "viewType": "table",
+      "newPageNameFormat": "cast",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Arc",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "66781be7-12c0-48a0-95f4-d9d13d6e5b2d",
+          "name": "Type",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "e26262cd-2f88-4e3e-9dd0-c0038a028b7f",
+          "name": "Type",
+          "isShow": true,
+          "type": "text",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [
+          "N-Minerva's Tide",
+          "I-Echos of Tide",
+          "__$uncategorizedGroup"
+        ],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "191acb09-1223-4940-ae5a-d04a80389a62",
+            "type": "filter",
+            "operator": "contains",
+            "property": "Type",
+            "value": "Story",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Arc",
+      "newPageLocation": {
+        "location": "What the Owl Says/Minerva's Tide/Cast"
+      },
+      "components": [],
+      "showTitle": false
+    },
+    {
+      "id": "73e5aeb1-c2c0-48ec-a8e2-720db90f5299",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Setting",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2025-05-28T09:21:18.438Z",
+      "viewType": "kanban",
+      "newPageNameFormat": "cast",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Arc",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "manual",
+        "format": "none",
+        "statics": [],
+        "orders": [
+          "N-Minerva's Tide",
+          "I-Echos of Tide",
+          "__$uncategorizedGroup"
+        ],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "36c6fbcc-c466-4420-bde8-dc0dfb61409b",
+            "type": "filter",
+            "operator": "contains",
+            "property": "Type",
+            "value": "Setting",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Arc",
+      "newPageLocation": {
+        "location": "What the Owl Says/Minerva's Tide/Cast"
+      },
+      "components": [],
+      "showTitle": false
+    },
+    {
+      "id": "b447d5b3-b3bc-4c9e-b41f-bfcae2717dcf",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Trip",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2026-05-13T21:05:34.427Z",
+      "viewType": "table",
+      "newPageNameFormat": "{{date: YYYY-MM-DD}}",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "5912c244-4c70-48e3-8ae0-81861ea5d056",
+          "path": "Vault Tool Box/Templates/Tp_Notes.md",
+          "name": "Tp_Notes.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "9471157f-2fc9-4975-bb1c-88a3d73e7740",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "What the Owl Says/Trip",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Trip",
+      "newPageLocation": {
+        "location": "What the Owl Says/Trip"
+      },
+      "showTitle": false,
+      "defaultTemplate": "5912c244-4c70-48e3-8ae0-81861ea5d056"
+    },
+    {
+      "id": "3601e732-7fe0-4279-8837-c52a9ce53feb",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "TRPG",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2025-05-28T09:21:18.438Z",
+      "viewType": "kanban",
+      "newPageNameFormat": "cast",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Tide",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "manual",
+        "format": "none",
+        "statics": [],
+        "orders": [
+          "__$uncategorizedGroup",
+          "MOD",
+          "KPC",
+          "Log"
+        ],
+        "hiddens": [
+          "__$uncategorizedGroup"
+        ],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "9471157f-2fc9-4975-bb1c-88a3d73e7740",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "What the Owl Says/COC/Yog‘s Stories",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "COC",
+      "newPageLocation": {
+        "location": "What the Owl Says/Minerva's Tide/Cast"
+      },
+      "components": [],
+      "showTitle": false
+    },
+    {
+      "id": "7cae7ff7-a62d-475a-ad45-d2e5aa38e833",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "DOC",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2025-05-28T09:21:18.438Z",
+      "viewType": "kanban",
+      "newPageNameFormat": "{{date: YYMMDD}}",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "9471157f-2fc9-4975-bb1c-88a3d73e7740",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "What the Owl Says/COC/Yog's Secrets",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "COC",
+      "newPageLocation": {
+        "location": "What the Owl Says/COC/Yog's Secrets"
+      },
+      "components": [],
+      "showTitle": false
+    },
+    {
+      "id": "d6237abf-9749-4a45-bb8e-85f3236f60b8",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "COC",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:25:44.705Z",
+      "updateAt": "2026-05-13T21:00:12.942Z",
+      "components": [
+        {
+          "componentId": "3601e732-7fe0-4279-8837-c52a9ce53feb"
+        },
+        {
+          "componentId": "7cae7ff7-a62d-475a-ad45-d2e5aa38e833"
+        }
+      ],
+      "layoutType": "tab",
+      "locked": false,
+      "layoutOptions": {
+        "headerWidthRatio": 20
+      }
+    },
+    {
+      "id": "27b5d553-936f-4c66-8343-00cb30676a14",
+      "type": "card",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-06-22T10:29:06.892Z",
+      "updateAt": "2025-06-22T10:29:06.892Z",
+      "title": "DashBoard",
+      "description": "May you stand on the cliff",
+      "coverFit": "cover",
+      "coverPosition": "left",
+      "clickAction": {
+        "type": "OpenFile",
+        "id": "085e59a3-9e30-4bc4-b982-d80bc1ffd387",
+        "options": {
+          "filePath": "components/view/DashBoard.components",
+          "fileName": "DashBoard.components"
+        }
+      },
+      "backgroundColor": "#f8f6fb",
+      "borderColor": "#583071",
+      "fontColor": "#482782",
+      "icon": "ArrowLeft"
+    },
+    {
+      "id": "d95fdc91-32f7-41e5-ae0f-980ab4e4d030",
+      "type": "card",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-06-22T10:29:06.892Z",
+      "updateAt": "2025-06-22T10:29:06.892Z",
+      "title": "Academia",
+      "description": "We sail on a turbulent sea.",
+      "coverFit": "cover",
+      "coverPosition": "left",
+      "clickAction": {
+        "type": "OpenFile",
+        "id": "085e59a3-9e30-4bc4-b982-d80bc1ffd387",
+        "options": {
+          "filePath": "components/view/Academia.components",
+          "fileName": "Academia.components"
+        }
+      },
+      "backgroundColor": "#f8f6fb",
+      "borderColor": "#583071",
+      "fontColor": "#482782",
+      "icon": "ArrowRight"
+    }
+  ],
+  "rootComponentId": "5de7dff0-28ff-475e-bdac-5a410aef27a2",
+  "version": 3.1
+}

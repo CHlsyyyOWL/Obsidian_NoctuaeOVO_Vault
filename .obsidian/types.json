@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Daily Notes": "date",
+    "Date": "date",
+    "Tide": "multitext",
+    "Podcast": "multitext",
+    "ArticleOvO": "multitext",
+    "Article Notes": "multitext",
+    "Trip": "multitext",
+    "COC": "multitext",
+    "Paper": "multitext",
+    "Book Notes": "multitext",
+    "WOS": "multitext",
+    "TideMode": "multitext",
+    "Progress": "multitext",
+    "Type": "multitext"
+  }
+}

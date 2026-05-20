@@ -1,0 +1,962 @@
+{
+  "components": [
+    {
+      "id": "6ba36770-fb64-4889-a28e-ef73322a0e24",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-02-26T17:48:03.277Z",
+      "updateAt": "2026-04-19T15:44:03.800Z",
+      "components": [
+        {
+          "componentId": "679686ed-8748-4238-8aa6-af24d6fce689",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 20
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 12,
+              "h": 29
+            }
+          }
+        }
+      ],
+      "layoutType": "grid",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "7fc3a811-bbb1-48c8-9977-55da71531fdc",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "UCL 24-25",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-03-17T14:21:52.508Z",
+      "updateAt": "2026-03-11T07:50:31.297Z",
+      "viewType": "kanban",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "4fc848ad-70d9-4814-8e3d-52adc1479a60",
+          "name": "Module",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "b7ee2c67-bd8e-4e18-bc45-3dda0c35214f",
+          "name": "ArticleOvO",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "f35fef72-4423-48b8-8036-dc51e591fbeb",
+          "name": "Article Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "f4cf9904-581e-4834-9510-d44f22ba39a5",
+          "name": "Book Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "49009cf8-c519-4dc0-83d9-df7db78472ce",
+          "name": "Podcast",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "d44c6866-8d20-423b-a6db-441e4192088f",
+          "name": "Roses Head",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": true,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-small",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "cface516-6715-42f1-bbd0-d131657cf42e",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "e92d93cd-e862-4993-ba7d-f14030001155",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "Study/UCL Module/24-25",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Module",
+      "sort": {
+        "orders": [
+          {
+            "id": "431849ad-a627-4c26-bdb4-b5c0993a04df",
+            "property": "${file.mtime}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "components": [],
+      "showTitle": false,
+      "title": "UCL 24-25"
+    },
+    {
+      "id": "f4a776c8-0a23-4452-b682-f72be036e239",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Book",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-03-21T15:37:41.023Z",
+      "updateAt": "2025-03-21T15:37:41.023Z",
+      "viewType": "gallary",
+      "newPageNameFormat": "{{date: YYMMDD}}",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-large",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "property",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "79e23bbd-01e1-4253-9304-1571405ef324",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "a04e0965-0f06-48a2-95a6-6d4aae2118b3",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "Study/Noctuae Celsum/Books",
+            "conditions": []
+          }
+        ]
+      },
+      "newPageLocation": {
+        "location": "Study/Noctuae Celsum/Books/Book Notes"
+      },
+      "components": [],
+      "showTitle": false
+    },
+    {
+      "id": "d7eea145-14a0-49eb-a71c-715a54899d8f",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "Module",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-03-21T15:48:06.843Z",
+      "updateAt": "2026-01-26T10:31:33.458Z",
+      "components": [
+        {
+          "componentId": "7fc3a811-bbb1-48c8-9977-55da71531fdc",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "0aa546ee-f31d-442e-9355-53099f87ed2f",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 4,
+              "w": 4,
+              "h": 4
+            }
+          }
+        }
+      ],
+      "layoutType": "tab",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "679686ed-8748-4238-8aa6-af24d6fce689",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-06-15T06:40:36.354Z",
+      "updateAt": "2025-06-15T06:40:36.354Z",
+      "components": [
+        {
+          "componentId": "d7eea145-14a0-49eb-a71c-715a54899d8f"
+        },
+        {
+          "componentId": "544fdd7c-edd2-4ff4-ac8a-268e219567d1"
+        },
+        {
+          "componentId": "f0becc81-9bad-4bbd-b96d-9b76602b2f21"
+        },
+        {
+          "componentId": "ce97174b-2179-4ad5-962d-57b73395a5df"
+        },
+        {
+          "componentId": "0e35fd8e-52b7-4562-ab88-c5c1afedaafa"
+        }
+      ],
+      "layoutType": "tab",
+      "locked": false,
+      "layoutOptions": {
+        "headerWidthRatio": -2.9845204852772875
+      }
+    },
+    {
+      "id": "0aa546ee-f31d-442e-9355-53099f87ed2f",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Sciencespo 25-26",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-03-17T14:21:52.508Z",
+      "updateAt": "2026-02-04T17:20:45.411Z",
+      "viewType": "kanban",
+      "newPageNameFormat": "{{date: YYYY-MM-DD}}",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "4fc848ad-70d9-4814-8e3d-52adc1479a60",
+          "name": "Module",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {
+            "items": [
+              {
+                "id": "c05341d3-f8e3-439c-8680-f39454e6e23d",
+                "value": "CulSoc",
+                "color": "components--color-purple"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b7ee2c67-bd8e-4e18-bc45-3dda0c35214f",
+          "name": "ArticleOvO",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "f35fef72-4423-48b8-8036-dc51e591fbeb",
+          "name": "Article Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "f4cf9904-581e-4834-9510-d44f22ba39a5",
+          "name": "Book Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "49009cf8-c519-4dc0-83d9-df7db78472ce",
+          "name": "Podcast",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "d44c6866-8d20-423b-a6db-441e4192088f",
+          "name": "Roses Head",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "cd11ba3e-65dd-411b-a767-45bc3a6a5e5b",
+          "name": "Daily Notes",
+          "isShow": true,
+          "type": "text",
+          "options": {
+            "formatType": "datetime",
+            "format": "yyyy-MM-dd"
+          }
+        }
+      ],
+      "templates": [
+        {
+          "id": "ea914a0a-6710-45be-a1b4-058cf533cd77",
+          "path": "Vault Tool Box/Templates/Tp_Module_Notes.md",
+          "name": "Tp_Module_Notes.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-small",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "manual",
+        "format": "none",
+        "statics": [],
+        "orders": [
+          "__$uncategorizedGroup",
+          "CulSoc",
+          "HisComtp",
+          "EconAsia",
+          "HumAsia",
+          "CNsociety",
+          "ABCPol",
+          "HisGlob",
+          "InqSoc",
+          "InterMacro",
+          "L101",
+          "CompPol"
+        ],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "cface516-6715-42f1-bbd0-d131657cf42e",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "40f9c8b4-145e-4997-907c-417896f23793",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "Study/SciencePo 25-26",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Module",
+      "sort": {
+        "orders": [
+          {
+            "id": "c20a8289-7ba3-4f2f-8791-0b658a1e4839",
+            "property": "${file.ctime}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "components": [],
+      "newPageLocation": {
+        "location": "Study/SciencePo 25-26"
+      },
+      "defaultTemplate": "ea914a0a-6710-45be-a1b4-058cf533cd77",
+      "showTitle": false,
+      "title": "Sciencespo 25-26"
+    },
+    {
+      "id": "ce97174b-2179-4ad5-962d-57b73395a5df",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "Books",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-06-18T07:25:07.032Z",
+      "updateAt": "2025-06-18T07:25:07.032Z",
+      "components": [
+        {
+          "componentId": "f4a776c8-0a23-4452-b682-f72be036e239"
+        },
+        {
+          "componentId": "ad24500e-a274-439e-bc9a-8c8e7d8e5483"
+        }
+      ],
+      "layoutType": "tab",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "ad24500e-a274-439e-bc9a-8c8e7d8e5483",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Notes",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-06-25T08:40:56.250Z",
+      "updateAt": "2025-06-25T08:40:56.250Z",
+      "viewType": "kanban",
+      "newPageNameFormat": "{{date: YYYY-MM-DD}}",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "03ff0229-4498-464a-b770-86e8e9fb6669",
+          "name": "tags",
+          "isShow": false,
+          "type": "select",
+          "options": {
+            "formula": ""
+          }
+        },
+        {
+          "id": "3e55a505-ec4d-45f1-b5de-518ecead1cc3",
+          "name": "Article Notes",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "428e4ffb-5e5b-4f49-9bce-010cbf8e803c",
+          "name": "Book Notes",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "4d492b75-4ad2-472d-a2f2-dbf4026b3e92",
+          "name": "tags 1",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": true,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "d47ffc37-b5f7-41cf-86df-54eced2ddda1",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "8b786090-b5a2-476e-9a64-34e014803c86",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "Study/Noctuae Celsum/Books/Book Notes",
+            "conditions": []
+          }
+        ]
+      },
+      "newPageLocation": {
+        "location": "Study/Noctuae Celsum/Books/Book Notes"
+      },
+      "groupBy": "Book Notes",
+      "showTitle": false
+    },
+    {
+      "id": "f0becc81-9bad-4bbd-b96d-9b76602b2f21",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Recents",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-06-25T08:43:39.952Z",
+      "updateAt": "2025-06-25T08:43:39.952Z",
+      "viewType": "list",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "44b6d186-4b94-4959-b9a4-173a8eb318a1",
+          "name": "tags",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "0dcf1a0f-d3df-43bc-9b90-29d0ec488472",
+          "name": "Date",
+          "isShow": true,
+          "type": "date",
+          "options": {}
+        },
+        {
+          "id": "dce0f3e4-4c1b-4018-89dc-14ca859673ce",
+          "name": "Book Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "539f0c3c-2b81-43ce-b996-10451f239daf",
+          "name": "Podcast",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "f5309462-d5d6-4a87-8f88-720f416de469",
+          "name": "Roses Head",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "06241be2-5615-420f-a5d1-2a0c37652bc8",
+          "name": "Module",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "73385202-48bd-4231-9e2d-92abd4870454",
+          "name": "ArticleOvO",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "3609d837-518c-464e-9225-5b6f5deb80c4",
+          "name": "Paper",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "82782a52-4a89-4b89-800a-2af522ccee17",
+          "name": "WOS",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "ef2068dc-96a5-48c6-aed0-5a374ba50452",
+          "name": "Article Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "textContent",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "d47ffc37-b5f7-41cf-86df-54eced2ddda1",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "111f3ab2-b7e7-4165-a840-1e8791295d3e",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "Study",
+            "conditions": []
+          }
+        ]
+      },
+      "sort": {
+        "orders": [
+          {
+            "id": "28554764-aaed-47ca-9210-86446c99deaa",
+            "property": "${file.mtime}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "groupBy": "",
+      "showTitle": false
+    },
+    {
+      "id": "0e35fd8e-52b7-4562-ab88-c5c1afedaafa",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Rose",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-09-08T19:04:16.870Z",
+      "updateAt": "2025-09-08T19:04:16.870Z",
+      "viewType": "gallary",
+      "newPageNameFormat": "{{date: YYYY-MM-DD}}",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "1658d873-a72d-4564-838e-f5e03dafa327",
+          "path": "Vault Tool Box/Templates/Tp_Rose's Head.md",
+          "name": "Tp_Rose's Head.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-small",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "textContent",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "da9dfad8-9dda-4e24-824a-927acf68d685",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "bade550f-58b1-46de-b581-34d82f42baed",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "Study/Noctuae Celsum/Rose‘s Head",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Roses Head",
+      "defaultTemplate": "1658d873-a72d-4564-838e-f5e03dafa327",
+      "newPageLocation": {
+        "location": "Study/Noctuae Celsum/Rose‘s Head"
+      },
+      "showTitle": false
+    },
+    {
+      "id": "544fdd7c-edd2-4ff4-ac8a-268e219567d1",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Projects",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showTitle": true,
+      "showShadow": false,
+      "createAt": "2026-03-05T14:48:18.537Z",
+      "updateAt": "2026-03-09T17:44:10.599Z",
+      "viewType": "kanban",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "e44fd163-0016-42fe-9e9a-a11d9fd67531",
+          "name": "Progress",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "beea3ea4-816e-4a36-b3d1-22a1772e013b",
+          "name": "Module",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "b525ee9a-7e89-444e-a5b4-604e128f3036",
+          "path": "Vault Tool Box/Templates/Tp_WOS.md",
+          "name": "Tp_WOS.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "hideHeaderMenu": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "manual",
+        "format": "none",
+        "statics": [
+          "随笔",
+          "未开始"
+        ],
+        "orders": [
+          "__$uncategorizedGroup",
+          "Toolkit",
+          "Module Essay",
+          "TAI",
+          "Idea",
+          "Thinos",
+          "随笔",
+          "未开始"
+        ],
+        "hiddens": [
+          "__$uncategorizedGroup",
+          "未开始"
+        ],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "9b57d181-5873-4dbb-9690-6637f3b2b302",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "a26c653d-5f58-4e83-a039-fd850f2a165b",
+            "type": "filter",
+            "operator": "contains",
+            "property": "WOS",
+            "value": null,
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "WOS",
+      "newPageLocation": {
+        "location": "Study/Noctuae Celsum/Article/What the Owl Says"
+      },
+      "defaultTemplate": "b525ee9a-7e89-444e-a5b4-604e128f3036",
+      "sort": {
+        "orders": [
+          {
+            "id": "c920c7b8-0edf-48b3-9cf2-fdb4863df2c4",
+            "property": "${file.ctime}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "title": "Projects"
+    }
+  ],
+  "rootComponentId": "6ba36770-fb64-4889-a28e-ef73322a0e24",
+  "version": 3.1
+}
