@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "components/view/Academia.components",
+                "file": "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Academia 的大纲"
+              "title": "斩杀线 的大纲"
             }
           }
         ]
@@ -395,11 +395,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f954ce9536b11d40",
+  "active": "8753407544d9d395",
   "lastOpenFiles": [
+    "components/view/Academia.components",
     "components/view/DashBoard.md",
     "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
-    "components/view/Academia.components",
     "Career/Thinktank/TAI/Project-SCS/0501 proposa2 meeting.md",
     "Career/Thinktank/TAI/Project-SCS/未命名.base",
     "Career/Thinktank/TAI/Project-SCS/0515.md",
