@@ -1,0 +1,6 @@
+{
+  "output": "ibook",
+  "notExportNoAnnotation": true,
+  "backupWhenExist": true,
+  "template": "\n---\nbook: {{library.ZSORTTITLE}}\nauthor: {{library.ZAUTHOR}}\nlanguage: {{library.ZLANGUAGE}}\nlast_opened: {{date ZLASTOPENDATE \"YYYY/MM/DDTHH:mm:ss\" }}\nlast_highlight: {{date ZANNOTATIONMODIFICATIONDATE \"YYYY/MM/DDTHH:mm:ss \"}}\ntags:\n- ibook/\n---\n\n# 📔 Book: {{library.ZSORTTITLE}}\n\n**Author**:: {{library.ZAUTHOR}}\n\n**LANGUAGE**:: {{library.ZLANGUAGE}}\n\n**Book Link**:: [Apple Books Link](ibooks://assetid/{{library.ZASSETID}})\n\n{{#if library.ZBOOKDESCRIPTION}}\n---\n# 🧾 Description\n\t{{{library.ZBOOKDESCRIPTION}}}\n{{/if}}\n\n---\n# 🔍 How I Discovered IT\n\n{{#group annotation by=\"ZFUTUREPROOFING5\"}}\n- 📚{{value}}\n\t{{#each items}}\n\t{{#if ZANNOTATIONSELECTEDTEXT}}\n\t- 🎯{{ZANNOTATIONSELECTEDTEXT}}\n\t{{/if}}\n\t\t{{#if ZANNOTATIONNOTE}}\n\t\t- ✍️{{ZANNOTATIONNOTE}}\n\t\t{{/if}}\n\t{{/each}}\n{{/group}}\n"
+}

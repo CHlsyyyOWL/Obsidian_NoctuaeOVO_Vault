@@ -1,0 +1,33 @@
+{
+  "createComponentSilent": false,
+  "receiveBetaVersion": true,
+  "folder": "components/view",
+  "scriptFolder": "components/script",
+  "enableDebug": false,
+  "debugLogOutputFolder": "components/logs",
+  "aiBaseFolder": "components/ai",
+  "homepage": {
+    "path": null,
+    "mobilePath": null,
+    "showOnStartup": true,
+    "showOnEmpty": true,
+    "showOnNewEmptyTab": false
+  },
+  "aiProviders": [],
+  "aiDefaultModels": {},
+  "formFolder": "components/form",
+  "fileEntrypoints": {},
+  "composerSettings": {
+    "cssClassess": {
+      "tableStyle": "composer--DefaultTableStyle",
+      "calloutStyle": "composer--DefaultCalloutStyle"
+    },
+    "themeLightCssClasses": {
+      "colorScheme": "composer--XiaScheme"
+    },
+    "themeDarkCssClasses": {
+      "colorScheme": "composer--XiaScheme"
+    },
+    "cssVariables": {}
+  }
+}
