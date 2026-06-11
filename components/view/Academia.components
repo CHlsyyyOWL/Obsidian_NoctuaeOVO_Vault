@@ -374,7 +374,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-03-21T15:48:06.843Z",
-      "updateAt": "2026-01-26T10:31:33.458Z",
+      "updateAt": "2026-06-11T11:14:51.413Z",
       "components": [
         {
           "componentId": "7fc3a811-bbb1-48c8-9977-55da71531fdc",
@@ -394,7 +394,10 @@
           }
         },
         {
-          "componentId": "0aa546ee-f31d-442e-9355-53099f87ed2f",
+          "componentId": "0aa546ee-f31d-442e-9355-53099f87ed2f"
+        },
+        {
+          "componentId": "23f7d766-7321-4dbe-b8c5-aa1119057960",
           "layout": {
             "mobile": {
               "x": 0,
@@ -404,7 +407,7 @@
             },
             "laptop": {
               "x": 0,
-              "y": 4,
+              "y": 0,
               "w": 4,
               "h": 4
             }
@@ -1751,6 +1754,141 @@
         ]
       },
       "title": "FS"
+    },
+    {
+      "id": "23f7d766-7321-4dbe-b8c5-aa1119057960",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "UCL 26-27",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-03-17T14:21:52.508Z",
+      "updateAt": "2026-06-11T11:15:55.039Z",
+      "viewType": "list",
+      "newPageNameFormat": "{{date: YYYY-MM-DD}}",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        },
+        {
+          "id": "4fc848ad-70d9-4814-8e3d-52adc1479a60",
+          "name": "Module",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "b7ee2c67-bd8e-4e18-bc45-3dda0c35214f",
+          "name": "ArticleOvO",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "f35fef72-4423-48b8-8036-dc51e591fbeb",
+          "name": "Article Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "f4cf9904-581e-4834-9510-d44f22ba39a5",
+          "name": "Book Notes",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "49009cf8-c519-4dc0-83d9-df7db78472ce",
+          "name": "Podcast",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "d44c6866-8d20-423b-a6db-441e4192088f",
+          "name": "Roses Head",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "0c62d9e0-519f-4ae5-a67c-69f5c66a4e1c",
+          "path": "Vault Tool Box/Templates/Tp_Module_Notes.md",
+          "name": "Tp_Module_Notes.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": true,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-small",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": true,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "cface516-6715-42f1-bbd0-d131657cf42e",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "e92d93cd-e862-4993-ba7d-f14030001155",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "Study/UCL Module/26-27",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Module",
+      "sort": {
+        "orders": [
+          {
+            "id": "431849ad-a627-4c26-bdb4-b5c0993a04df",
+            "property": "${file.mtime}",
+            "direction": "desc",
+            "disabled": false
+          }
+        ]
+      },
+      "components": [],
+      "showTitle": false,
+      "title": "UCL 26-27",
+      "newPageLocation": {
+        "location": "Study/UCL Module/26-27"
+      },
+      "defaultTemplate": "0c62d9e0-519f-4ae5-a67c-69f5c66a4e1c"
     }
   ],
   "rootComponentId": "6ba36770-fb64-4889-a28e-ef73322a0e24",
