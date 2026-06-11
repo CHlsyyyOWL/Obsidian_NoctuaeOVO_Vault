@@ -1,8 +1,8 @@
 ---
 tags:
   - France/SciencePo
-Module:
-Daily Notes:
+Module: UCL
+Daily Notes: 2026-06-11
 ---
 ⬇️Download Course Material From UCL
 	https://moodle.ucl.ac.uk/my/
