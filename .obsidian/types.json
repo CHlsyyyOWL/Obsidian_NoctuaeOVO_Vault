@@ -16,6 +16,7 @@
     "WOS": "multitext",
     "TideMode": "multitext",
     "Progress": "multitext",
-    "Type": "multitext"
+    "Type": "multitext",
+    "Game": "text"
   }
 }

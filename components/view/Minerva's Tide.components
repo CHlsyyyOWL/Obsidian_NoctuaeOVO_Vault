@@ -9,7 +9,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-02-26T19:22:12.444Z",
-      "updateAt": "2026-04-29T20:45:09.280Z",
+      "updateAt": "2026-06-10T11:10:54.132Z",
       "components": [
         {
           "componentId": "3194d819-6ee1-4eb0-b5f8-563ddd9bfc8f",
@@ -55,7 +55,7 @@
               "h": 4
             },
             "laptop": {
-              "x": 4,
+              "x": 0,
               "y": 8,
               "w": 2,
               "h": 4
@@ -72,7 +72,7 @@
               "h": 4
             },
             "laptop": {
-              "x": 6,
+              "x": 2,
               "y": 8,
               "w": 1,
               "h": 4
@@ -89,7 +89,7 @@
               "h": 4
             },
             "laptop": {
-              "x": 7,
+              "x": 3,
               "y": 8,
               "w": 1,
               "h": 4
@@ -106,10 +106,10 @@
               "h": 4
             },
             "laptop": {
-              "x": 0,
+              "x": 8,
               "y": 8,
               "w": 4,
-              "h": 32
+              "h": 37
             }
           }
         },
@@ -123,10 +123,10 @@
               "h": 4
             },
             "laptop": {
-              "x": 4,
+              "x": 0,
               "y": 12,
               "w": 8,
-              "h": 28
+              "h": 34
             }
           }
         },
@@ -140,7 +140,7 @@
               "h": 4
             },
             "laptop": {
-              "x": 8,
+              "x": 4,
               "y": 8,
               "w": 2,
               "h": 4
@@ -157,7 +157,7 @@
               "h": 4
             },
             "laptop": {
-              "x": 10,
+              "x": 6,
               "y": 8,
               "w": 2,
               "h": 4
@@ -664,7 +664,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-05-28T09:21:18.438Z",
-      "updateAt": "2026-05-13T21:22:48.999Z",
+      "updateAt": "2026-06-10T11:09:05.060Z",
       "viewType": "table",
       "newPageNameFormat": "{{date: YYMMDD}} ",
       "properties": [
@@ -684,6 +684,14 @@
           "options": {}
         },
         {
+          "id": "6e9eb1e4-c5dd-44b7-9f13-bc991d41a9b3",
+          "name": "${file.ctime}",
+          "isShow": true,
+          "type": "text",
+          "options": {},
+          "alias": ""
+        },
+        {
           "id": "0fb6d665-9a8d-4f36-bab2-78bf4090b7d6",
           "name": "Game",
           "isShow": true,
@@ -693,6 +701,14 @@
         {
           "id": "b456e006-1bac-4456-a91e-cf5fb46f546f",
           "name": "Progress",
+          "isShow": true,
+          "type": "text",
+          "options": {},
+          "alias": ""
+        },
+        {
+          "id": "9ba90f82-2630-4b68-8e6e-88d029267541",
+          "name": "${file.mtime}",
           "isShow": true,
           "type": "text",
           "options": {},
@@ -751,12 +767,22 @@
           }
         ]
       },
-      "groupBy": "Game",
+      "groupBy": "",
       "newPageLocation": {
         "location": "What the Owl Says/Game"
       },
       "showTitle": false,
-      "defaultTemplate": "e77f4d22-c2b4-4394-bee6-99119c2fc81d"
+      "defaultTemplate": "e77f4d22-c2b4-4394-bee6-99119c2fc81d",
+      "sort": {
+        "orders": [
+          {
+            "id": "ea35dcd5-5bd4-49bc-97e8-9b672fbf252e",
+            "property": "${file.mtime}",
+            "direction": "asc",
+            "disabled": false
+          }
+        ]
+      }
     },
     {
       "id": "6ce10ae6-9124-4899-8c04-c4ff3705d5fb",
@@ -767,7 +793,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-05-28T09:25:44.705Z",
-      "updateAt": "2026-02-04T17:16:45.647Z",
+      "updateAt": "2026-06-10T11:10:22.904Z",
       "components": [
         {
           "componentId": "094b4cd6-a110-406b-b6bb-ecd9aefa1fe9"
@@ -785,7 +811,7 @@
       "layoutType": "verticalTab",
       "locked": false,
       "layoutOptions": {
-        "headerWidthRatio": 20
+        "headerWidthRatio": 3
       }
     },
     {
