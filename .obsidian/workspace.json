@@ -52,117 +52,21 @@
             }
           },
           {
-            "id": "835bad825316b8eb",
+            "id": "d68a00bd03028077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What the Owl Says/Game/调律工具箱.md",
+                "file": "What the Owl Says/Game/中元节DLC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "调律工具箱"
+              "title": "中元节DLC"
             }
           },
           {
-            "id": "8753407544d9d395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "斩杀线"
-            }
-          },
-          {
-            "id": "29e67ebbc7021b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/Application/Further Study/Claude 存档-待整理-Research Interest Map.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claude 存档-待整理-Research Interest Map"
-            }
-          },
-          {
-            "id": "437980514018c531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What the Owl Says/Game/密教模拟器/食尸鬼.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "食尸鬼"
-            }
-          },
-          {
-            "id": "abd36c3630a163b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/Thinktank/TAI/Project-SCS/0501 proposa2 meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0501 proposa2 meeting"
-            }
-          },
-          {
-            "id": "2880cad5df72b9c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What the Owl Says/Minerva's Tide/Cast/周裴玉.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "周裴玉"
-            }
-          },
-          {
-            "id": "0a06fad0395d58af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What the Owl Says/Minerva's Tide/Story Bible.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Story Bible"
-            }
-          },
-          {
-            "id": "d95eba7478c30659",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Unorganized/Attachment/Exported image 20250226200315-8.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "Exported image 20250226200315-8"
-            }
-          },
-          {
-            "id": "3f7879d720aeba66",
+            "id": "5891d2a60cac1f4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,9 +78,37 @@
               "icon": "lucide-file",
               "title": "CAS application"
             }
+          },
+          {
+            "id": "020c94df89491497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What the Owl Says/Minerva's Tide/Stories/主线.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "主线"
+            }
+          },
+          {
+            "id": "1bd4fcf028ea37ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What the Owl Says/Game/调律工具箱.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "调律工具箱"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +120,7 @@
       {
         "id": "7812605e45c1f083",
         "type": "tabs",
-        "dimension": 81.22065727699531,
+        "dimension": 56.222222222222214,
         "children": [
           {
             "id": "721f0d7a812a3d83",
@@ -196,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "树鹰",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,16 +137,6 @@
               },
               "icon": "lucide-search",
               "title": "搜索"
-            }
-          },
-          {
-            "id": "7d0378ddbe140f1c",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
             }
           },
           {
@@ -241,12 +163,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "907f6d97753aa120",
         "type": "tabs",
-        "dimension": 18.779342723004696,
+        "dimension": 43.777777777777786,
         "children": [
           {
             "id": "bab916a6bc5d3d30",
@@ -298,8 +220,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -308,8 +230,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -318,8 +240,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -328,12 +250,32 @@
             "state": {
               "type": "highlights-sidebar",
               "state": {},
-              "icon": "highlighter",
-              "title": "Highlights"
+              "icon": "lucide-ghost",
+              "title": "highlights-sidebar"
             }
           },
           {
-            "id": "e12d12d8f9f60560",
+            "id": "d367f85a5fd3453f",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "f880f440cb6f3b82",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "blocks",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "9a4449ceb0cf8305",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -343,7 +285,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "937007dce105ea21",
@@ -414,8 +356,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "blocks",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           }
         ],
@@ -434,68 +376,68 @@
       "graph:查看关系图谱": true,
       "canvas:新建白板": false,
       "workspaces:管理工作区布局": false,
-      "media-extended:Open media": false,
       "daily-notes:打开/创建今天的日记": false,
-      "tags-overview:Tags overview": true,
+      "media-extended:Open media": false,
+      "tags-overview:Tags overview": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-memos:Thino": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-day-planner:Open Timeline": true,
-      "obsidian-day-planner:Open Multi-Day View": true,
-      "templater-obsidian:Templater": true,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "templater-obsidian:Templater": false,
       "quickadd:QuickAdd": false,
       "homepage:Open homepage": false,
-      "obsidian-kanban:创建新看板": false,
+      "obsidian-kanban:Create new board": false,
       "copilot:Open Copilot Chat": false,
-      "pdf-plus:PDF++: Toggle auto-copy": true,
-      "pdf-plus:PDF++: Toggle auto-focus": true,
-      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "sidebar-highlights:Open highlights": false,
-      "obsidian42-brat:BRAT": true,
-      "rss-dashboard:RSS dashboard": false,
       "components:AI 对话（新标签页）": false,
+      "obsidian42-brat:BRAT": false,
+      "rss-dashboard:RSS dashboard": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f7879d720aeba66",
+  "active": "5891d2a60cac1f4c",
   "lastOpenFiles": [
     "Unorganized/Attachment/~$l_cas_request_form_july_2023_0 1.doc",
-    "conflict-files-obsidian-git.md",
-    "Study/UCL Module/26-27/CAS application.md",
     "What the Owl Says/Game/中元节DLC.md",
+    "Study/UCL Module/26-27/CAS application.md",
+    "conflict-files-obsidian-git.md",
+    "components/view/Academia.components",
+    "Unorganized/Attachment/ucl_cas_request_form_july_2023_0.doc",
+    "Unorganized/Attachment/ucl_cas_request_form_july_2023_0 1.doc",
+    "Study/UCL Module/26-27",
+    "components/view/DashBoard.md",
+    "What the Owl Says/Game/调律工具箱.md",
+    "components/view/Minerva's Tide.components",
+    "What the Owl Says/Minerva's Tide/Stories/主线.md",
     "What the Owl Says/Game/The Return of Obra Dinn.md",
+    "What the Owl Says/Minerva's Tide/Story Bible.md",
+    "copilot-custom-prompts/Summarize.md",
+    "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
+    "copilot-custom-prompts/Simplify.md",
+    "Career/Thinktank/TAI/Project-SCS/SCS Chinese Corporate Credit System.md",
+    "Career/Thinktank/TAI/0603 proposal meeting.md",
     "Career/Thinktank/TAI/Project-SCS/SCS CLAUDE.md",
     "Career/Thinktank/TAI/Project-SCS/0515 proposa2 meeting.md",
-    "Career/Thinktank/TAI/0603 proposal meeting.md",
-    "Unorganized/Attachment/ucl_cas_request_form_july_2023_0 1.doc",
-    "Unorganized/Attachment/Exported image 20250226200315-8.jpeg",
-    "Unorganized/Attachment/中日经济论坛研究报告.docx",
-    "Unorganized/Attachment/ucl_cas_request_form_july_2023_0.doc",
-    "components/view/Academia.components",
-    "Study/UCL Module/26-27",
-    "What the Owl Says/Minerva's Tide/Cast/周裴玉.md",
-    "What the Owl Says/Minerva's Tide/Story Bible.md",
-    "components/view/Minerva's Tide.components",
-    "Study/Noctuae Celsum/Article/What the Owl Says/斩杀线.md",
+    "Career/Thinktank/TAI/Project-SCS/0501 proposa2 meeting.md",
+    "未命名.canvas",
+    "components/view/Academia.md",
+    "What the Owl Says/Game/密教模拟器/食尸鬼.md",
+    "Career/Application/Further Study/Claude 存档-待整理-Research Interest Map.md",
+    "components/view/？.components",
     "Unorganized/Attachment/Why Did Shanxi Piaohao Remained Kin-shipped While German  universal banks evolved into corporate institutions in the 19th century A  Comparative Study, 1842–1913   1.pdf",
     "Unorganized/Attachment/Why Did Shanxi Piaohao Remained Kin-shipped While German  universal banks evolved into corporate institutions in the 19th century A  Comparative Study, 1842–1913  .pdf",
     "Study/SciencePo 25-26/S1/19730 Globalisations Compared/Why Did Shanxi Piaohao Remained Kin-shipped While German universal banks evolved into corporate institutions in the 19th century A Comparative Study, 1842–1913.md",
     "Study/SciencePo 25-26/S1/19730 Globalisations Compared/S1 Why the West not the Rest.md",
-    "components/view/DashBoard.md",
-    "What the Owl Says/Game/密教模拟器/食尸鬼.md",
-    "What the Owl Says/Game/调律工具箱.md",
     "Study/UCL Module/24-25/How Did Revolutionary Cadre Deployment Shape Regional Economic Inequality in Mid-20th Century China.md",
     "Study/SciencePo 25-26/S2/59478 Culture&Society/S3 Culture autonomous from society.md",
     "Study/Noctuae Celsum/Article/Idea/Does AI privilege in one culture than another.md",
     "Study/Noctuae Celsum/Article/Article Notes/Why Has not Democracy Slowed Rising Inequality.md",
-    "Career/Thinktank/TAI/Project-SCS/0501 proposa2 meeting.md",
     "Career/Thinktank/TAI/Project-SCS/未命名.base",
-    "Career/Thinktank/TAI/Project-SCS/0515.md",
-    "Career/Application/Further Study/FS Application todo.md",
-    "Career/Thinktank/TAI/Project-SCS/SCS policy document base.md",
-    "Study/SciencePo 25-26/Final.md",
-    "Career/Thinktank/TAI/Project-SCS/SCS企业信用修复机制项目背景.md",
+    "components/view/DashBoard.components",
     "Unorganized/Attachment/Pasted image 20260424092032.png",
     "Unorganized/Attachment/Pasted image 20260408174911.png",
     "Unorganized/Attachment/Pasted image 20260401145814.png",
@@ -506,7 +448,7 @@
     "Unorganized/Attachment/S6 Power - Foucult-2.png",
     "Unorganized/Attachment/S6 Power - Foucult-1.png",
     "Unorganized/Attachment/S6 Power - Foucult.png",
-    "未命名.canvas",
+    "Unorganized/Attachment/EU-ASEAN.png",
     "Minerva's Tide/Cast/参考.canvas",
     "00. 读书笔记汇总页面/读书笔记-终极版.canvas",
     "00. 观影笔记汇总页面/观影笔记-终极版.canvas"
