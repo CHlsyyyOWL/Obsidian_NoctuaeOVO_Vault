@@ -93,7 +93,8 @@
               "title": "调律工具箱"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "components/view/DashBoard.md",
+                "file": "components/view/Academia.components",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DashBoard 的大纲"
+              "title": "Academia 的大纲"
             }
           }
         ]
@@ -258,9 +259,19 @@
               "icon": "blocks",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "9a4449ceb0cf8305",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "937007dce105ea21",
@@ -288,8 +299,8 @@
             "state": {
               "type": "tags-overview-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "tags-overview-view"
+              "icon": "tag",
+              "title": "Tags overview"
             }
           },
           {
@@ -340,8 +351,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -375,14 +385,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "102cc1af371bfa9f",
+  "active": "f954ce9536b11d40",
   "lastOpenFiles": [
+    "components/view/DashBoard.md",
+    "components/view/Academia.components",
     "What the Owl Says/Game/调律工具箱.md",
     "components/view/Minerva's Tide.components",
     "What the Owl Says/Minerva's Tide/Stories/主线.md",
     "What the Owl Says/Game/The Return of Obra Dinn.md",
-    "components/view/Academia.components",
-    "components/view/DashBoard.md",
     "What the Owl Says/Minerva's Tide/Story Bible.md",
     "copilot-custom-prompts/Summarize.md",
     "What the Owl Says/Game/中元节DLC.md",
