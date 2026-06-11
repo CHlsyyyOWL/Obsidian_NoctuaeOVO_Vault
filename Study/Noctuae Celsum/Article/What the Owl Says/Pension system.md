@@ -5,6 +5,8 @@ Date: 2025-06-23
 WOS:
   - Idea
 Progress:
+  - 进行中
+Module: LSE100
 ---
 ## 网络舆情
 纽约时报评论斩杀线 https://cn.nytimes.com/business/20260113/china-american-poverty/
@@ -139,7 +141,7 @@ Progress:
 **Phase 3: 2019-2024 (COVID + cost-of-living)**
 - COVID: Temporary £20/week Universal Credit boost (to Oct 2021)
 - Removal of boost: Political controversy, but maintained
-- Cost-of-living crisis: Energy support grants (flat rate, non-means-tested)
+- Cost-of-living crisis: Energy support grants (flat rate, non-means-tested)å
 - Final year (2024): Means-tested Winter Fuel Payment (break from protection)
 - Electoral result: Labour wins (austerity unpopular)
 **Underlying logic**: **Fiscal constraint → welfare must shrink to restore "responsibility"**
