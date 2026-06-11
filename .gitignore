@@ -1,1 +1,11 @@
+# Obsidian workspace state (device-specific, always conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
+# Plugin state files that change per-device
+.obsidian/plugins/rss-dashboard/data.json
+.obsidian/plugins/obsidian-day-planner/data.json
+
+# Word temp files
+~$*
+*.tmp
