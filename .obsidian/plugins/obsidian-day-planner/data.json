@@ -64,7 +64,7 @@
         "url": "https://www.ucl.ac.uk/timetable/ics/1NTA6K29VAKG7HW",
         "color": "#ffd294"
       },
-      "text": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>UCL Timetable</title>\n    <link rel=\"shortcut icon\" href=\"/favicon.ico\" />\n    <link rel=\"apple-touch-icon-precomposed\" href=\"/favicon-152.png\">\n    <script type=\"module\" crossorigin src=\"/assets/index-BQeAPe5A.js\"></script>\n    <link rel=\"stylesheet\" crossorigin href=\"/assets/index-DHvQYH12.css\">\n  </head>\n  <body>\n    <div id=\"root\"></div>\n  </body>\n</html>\n"
+      "text": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>UCL Timetable</title>\n    <link rel=\"shortcut icon\" href=\"/favicon.ico\" />\n    <link rel=\"apple-touch-icon-precomposed\" href=\"/favicon-152.png\">\n    <script type=\"module\" crossorigin src=\"/assets/index-iRgbtMP2.js\"></script>\n    <link rel=\"stylesheet\" crossorigin href=\"/assets/index-DHvQYH12.css\">\n  </head>\n  <body>\n    <div id=\"root\"></div>\n  </body>\n</html>\n"
     },
     {
       "icalConfig": {
