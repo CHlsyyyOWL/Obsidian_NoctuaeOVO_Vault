@@ -19,7 +19,7 @@ Module: LSE100
 	- 许多读者在评论中表示对美国的贫困状况感到震惊，同时也对中国的制度心怀感恩。有网友评论：“至少我们还有兜底。”
 	- 并非所有人都认同这套叙事。部分评论人士甚至将“斩杀线”的说法套用在国内政策上，其中就包括河北省北部地区出台的一项政策——该政策大幅提高了农村家庭的冬季取暖费用。
 
-
+# Note
 ## Core Thesis
 
 Welfare state comparative literature用statutory provisions作为衡量welfare development的核心指标，这个方法论选择embed了一个premise: legalization等同于institutionalization，法律写了什么制度就是什么。本文argue这个等式在特定制度环境下不成立，并提出三个导致legalization和institutionalization分离的conditions。China's pension system (2015-2024) 提供empirical evidence。
@@ -128,3 +128,96 @@ This claim is only true when the local government can afford it. That is the leg
 - 决定: condition 3的fiscal federalism support是否需要额外reference (Oi 1992, Wong 2009)
 - 决定: challenge Esping-Andersen/Pierson/Starke的measures时措辞如何calibrate (undergraduate presenter需要hedge)
 
+
+# Speaker Note
+
+### [Slide 1 — Title]
+
+Good morning, everyone. I am jiatong and I have just finished my exchange at Sciencepo. Today I would like to talk about a common misunderstanding regarding welfare country and the legalization trap. 
+To make it simple, you can also take it as where A government can write welfare rights into law, and still completely fail to deliver them. My evidence comes from China's pension system, between 2015 and 2024.
+
+
+### [Slide 2 — The Numbers]
+
+So let me start with the numbers, because the numbers set up the whole puzzle.
+
+In China, the rural basic pension is about s roughly 20 to 30  dollars per month, no more than a cup of morning coffee. To be more specific, only in Shanghai and Beijing you can have 200-300 dollars monthly to fund your life after retirement, only 4 province of the 31 offer 30-60 dollars per month, and the rest 25 province are who could barely afford paying the basic pension. Here is the simplest way to see the problem. China runs its own poverty line, called dibao. In 2024 the rural dibao averaged about 594 yuan a month. So the state itself says you need around 594 yuan just to get by. But the base rural pension is only about 143 yuan. That is less than half of the government's own floor. And a retired civil servant gets about 6,000 yuan a month. Same country, same year, thirty times more
+
+Now here is the second number. In 2024, official audits found that 13 provinces had quietly diverted 40.6 billion yuan out of pension funds to repay government debt and salaries. That means there will be 24 million retired labor did not get their pension properly. 
+Maybe one will think, well. they can live on their kids? their kids are now adults and will earn enough income to support the whole family? 
+
+but here is the thing. 600 million people in China earn around 10,000 yuan a year. That is close to 40 percent of the whole population. For most of them, one serious illness means financial ruin. here seems we have another problem: where is the health insurance? Well if a government have to use pension funds to pay debt, how will they have enough health insurance fund? 
+
+So on paper the constitution guarantees protection. But the numbers tell a very different story. That gap is what I want to explain.
+
+---
+
+### [Slide 3 — Law Is Not Reality]
+
+To explain it, I need to point to a problem in how we usually study welfare. The problem is simple. We tend to treat the law as if it were reality. But the law is not the same thing as reality.
+
+Think about the two scholars who shaped this whole field. Esping-Andersen, back in 1990, sorted welfare states by reading what the law says. Coverage rules, replacement rates, who qualifies. Then Pierson, in 1994, measured welfare cuts the same way. For him, if the law did not change, then no cut had happened.
+
+Both of them share one assumption. They assume the written law is a good stand-in for what the state actually does. And for rich democracies, that assumption usually holds.
+
+But my argument is that the assumption breaks down. And it breaks down under three specific conditions. So let me walk you through them.
+
+---
+
+### [Slide 4 — The Three Conditions]
+
+Here are the three conditions that pull the law and reality apart.
+
+The first one is about legitimacy. A state wants written rights, because written rights make it look caring and modern. But real enforcement also creates real limits on its power. So when looking good and keeping control start to conflict, the state does the easy thing. It writes the right, and then it does not enforce it.
+
+The second condition is about delegation. The central government sets the principle. But local governments decide the actual numbers, through administrative rules rather than law. So you get a strong promise on paper, and weak enforcement on the ground. And that is not an accident. It is built into the design.
+
+The third condition is about money. The rights are written at the center, but the funding sits with local government. And nothing in the law forces the center to cover a local shortfall. So the right only works when the local government can afford it. In other words, the law becomes a ceiling, not a floor.
+
+---
+
+### [Slide 5 — China, 2024, All Three at Once]
+
+Now let me show you all three conditions working together, in China, in a single year.
+
+Start with the legitimacy story. In 2024, Chinese state media ran a campaign around one phrase, the slash line, in Chinese zhǎnshā xiàn. The idea was that in America, one accident or one illness can wipe a family out. Beijing Daily and Southern Daily pushed it as a trending topic on Weibo. Then the Party journal Qiushi made it part of official language. And the message was clear. China has the Social Insurance Law, it has Article 45 of the constitution, so China will not let anyone be slashed. Notice the move here. The law exists, and that existence alone is doing all the work. No enforcement required.
+
+But now look at what the same year's audits actually found. 40.6 billion yuan diverted out of pension funds, across 13 provinces. The central law set the right, and local governments quietly moved the money. The rural pension stayed at 140 to 210 yuan, and that amount was set by provincial policy documents, not by law. And as land-sale revenue collapsed in 2024, local budgets shrank, so pensions simply did not rise in real terms.
+
+This is the key point. Welfare was cut, but no statute ever changed. So Pierson's method cannot even see it. The law still looks untouched.
+
+---
+
+### [Slide 6 — Beyond China]
+
+You might think this is just a China story. It is not. The same pattern shows up across very different political systems. So let me give you three quick examples.
+
+Take India. The Indian constitution promises livelihood and social support. But Article 37 says those promises cannot be enforced by any court. So the legitimacy is written in, and the obligation is written out. That is condition one, sitting right there in the text.
+
+Take Brazil. The 1988 constitution lists social rights in great detail. Health, food, housing, education, all of it. But the actual benefit depends on what each city can pay. So the same right gives you one outcome in São Paulo, and a completely different outcome in rural Maranhão. That is condition three, the money problem.
+
+Take South Africa. The constitution guarantees housing and healthcare. But in the Grootboom case in 2000, the court said the state only has to take reasonable steps within available resources. And who decides what counts as reasonable? The state does. So that is condition two, a strong promise with deliberately vague enforcement.
+
+Four very different systems. A party-state, a federal democracy, a post-authoritarian democracy, and a post-apartheid democracy. But the same structure underneath. So this is not about China being strange or unique. It is about a design pattern that travels.
+
+---
+
+### [Slide 7 — What This Means for Research]
+
+So what does all this mean for how we study welfare. My argument fits in one line. We should measure what states do, not just what they write.
+
+This changes two things. First, classification. Esping-Andersen's method, based on written rules, overstates how protective these systems really are. On paper, China, India, Brazil and South Africa can look close to rich democracies. In practice, they are not.
+
+Second, retrenchment. Pierson misses what I call invisible retrenchment. When budgets shrink and benefits quietly fail to keep up, that is a real cut, even when no law has changed. So the thing we measure cannot be legal change alone.
+
+---
+
+### [Slide 8 — Close]
+
+Let me come back to where I started. State media said, China's system will not let anyone be slashed. And here is my answer. That claim is only true when the local government can afford it. Once the money runs out, written rights cannot enforce themselves. And that is the legalization trap.
+
+So I will leave you with three takeaways. First, a law can give a state legitimacy without ever requiring delivery. Second, welfare can be cut without touching a single statute. And third, if we want to understand welfare honestly, we have to measure both the law and the machinery that makes the law real.
+
+As populations age and budgets tighten everywhere, this matters far beyond China. Writing the right is the easy part. Making it survive a fiscal shock is the real test.
+
+Thank you.
