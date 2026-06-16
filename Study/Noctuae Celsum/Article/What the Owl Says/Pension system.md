@@ -137,7 +137,7 @@ Good morning, everyone. I am jiatong and I have just finished my exchange at Sci
 To make it simple, you can also take it as where A government can write welfare rights into law, and still completely fail to deliver them. My evidence comes from China's pension system, between 2015 and 2024.
 
 
-### [Slide 2 — The Numbers]
+### [Slide 2 — The Numbers] 修改内容 数字 ppt里强调数字差异对比
 
 So let me start with the numbers, because the numbers set up the whole puzzle.
 
@@ -152,7 +152,7 @@ So on paper the constitution guarantees protection. But the numbers tell a very 
 
 ---
 
-### [Slide 3 — Law Is Not Reality]
+### [Slide 3 — Law Is Not Reality] 可以讲的稍微再详细一点
 
 To explain it, I need to point to a problem in how we usually study welfare. The problem is simple. We tend to treat the law as if it were reality. But the law is not the same thing as reality.
 
@@ -164,7 +164,7 @@ But my argument is that the assumption breaks down. And it breaks down under thr
 
 ---
 
-### [Slide 4 — The Three Conditions]
+### [Slide 4 — The Three Conditions] 哪三个condition？“legitmacy”可不是condition condition是一个事务形成的条件 什么条件会导致法律和执行层面分离？比如地域辽阔管不到（皇权不下乡）或者国内差异化严重地域不平等 上面无法制定出统一制度只能地方自理？还是文化传统依赖使得家长式权威从来没有离开过中国？结合其他国家的例子 稍微验证一下以上条件 也是以上猜想 然后写上去 可以不局限于我提出的 
 
 Here are the three conditions that pull the law and reality apart.
 
@@ -177,7 +177,8 @@ The third condition is about money. The rights are written at the center, but th
 ---
 
 ### [Slide 5 — China, 2024, All Three at Once]
-
+ 这个故事开头就讲过了太俗套 增加开头没有讲的细节 比如这部分养老金被挪用去哪里了？讲讲为什么三保都保不了 工资都发不出来 因为土地出让金收入下降 怪经济？怪房地产？怪地方太过于依赖土地出让金作为主要财政收入的懒惰路径依赖？怪央地关系不和谐导致地方除了收苛捐杂税只能自找出路？钱用去哪里了？医保？医保为什么不够？老龄化？老龄化是一个condition吗？这是第一个部分，然后第二个部分就顺着现象讲原理，讲这些分析如何回扣到我们提出的三个condition，这一块论证可以分为两三张ppt，需要的经济数据图表也可以提出我去画
+ 
 Now let me show you all three conditions working together, in China, in a single year.
 
 Start with the legitimacy story. In 2024, Chinese state media ran a campaign around one phrase, the slash line, in Chinese zhǎnshā xiàn. The idea was that in America, one accident or one illness can wipe a family out. Beijing Daily and Southern Daily pushed it as a trending topic on Weibo. Then the Party journal Qiushi made it part of official language. And the message was clear. China has the Social Insurance Law, it has Article 45 of the constitution, so China will not let anyone be slashed. Notice the move here. The law exists, and that existence alone is doing all the work. No enforcement required.
@@ -188,7 +189,7 @@ This is the key point. Welfare was cut, but no statute ever changed. So Pierson'
 
 ---
 
-### [Slide 6 — Beyond China]
+### [Slide 6 — Beyond China] 顺着上面的逻辑 这些国家的现象如何回扣三个condition？一个国家三句话 现在有点太简单
 
 You might think this is just a China story. It is not. The same pattern shows up across very different political systems. So let me give you three quick examples.
 
