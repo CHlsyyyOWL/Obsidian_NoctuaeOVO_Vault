@@ -8,6 +8,10 @@ Progress:
   - 进行中
 Module: LSE100
 ---
+ppt：![[The_Legalization_Trap.pdf]]
+
+![[index.html]]
+
 ## 网络舆情
 纽约时报评论斩杀线 https://cn.nytimes.com/business/20260113/china-american-poverty/
 	主要内容: 认为斩杀线是中国宣传手段, 转移注意力,文章隐晦的指出斩杀线在中国也存在, 只是更为隐晦. 如何定义斩杀线这一概念并学术化是一个挑战
