@@ -12,7 +12,7 @@ Module: LSE100
 
 _LSE Knowledge Beyond Boundaries 2026 · Jiatong Liu_
 
-Good morning, everyone. My name is Jiatong Liu. I am a second year student at UCL and have just finished my exchange in Sciencepo. Today I am very honorable to open the panel discussion.  
+Good afternoon, everyone. My name is Jiatong Liu. I am a second year student at UCL and have just finished my exchange in Sciencepo. Today I am very honorable to open the panel discussion.  
 
 Today I want to talk about a common misunderstanding of the welfare state that what I called it the legalization trap. Which is syaing that a government can write welfare rights into law, and still fail to deliver them. My evidence comes from China's pension system, between 2015 and 2024 and a few other countries in the Asia-Pacific as the pattern is much wider than that. 
 
@@ -108,7 +108,6 @@ Take Brazil. Brazil's 1988 constitution lists social rights in great detail. Hea
 
 Take South Africa. Its constitution guarantees housing and healthcare. But in the Grootboom case in 2000, the court ruled that the state only has to take reasonable steps within available resources. So the money condition and the discretion motive are written right into the law itself. And who decides what counts as reasonable? The state does.
 
-So look at the whole set. A party-state, a federal democracy, a younger democracy, and a post-apartheid democracy. Four very different systems, and the same conditions keep reappearing in different mixes. So this is not about China being strange or unique. It is a design pattern, and it travels.
 
 ---
 
