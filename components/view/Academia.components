@@ -9,7 +9,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-02-26T17:48:03.277Z",
-      "updateAt": "2026-04-20T09:47:46.816Z",
+      "updateAt": "2026-06-25T14:41:48.151Z",
       "components": [
         {
           "componentId": "679686ed-8748-4238-8aa6-af24d6fce689",
@@ -24,7 +24,7 @@
               "x": 0,
               "y": 8,
               "w": 8,
-              "h": 33
+              "h": 40
             }
           }
         },
@@ -999,8 +999,8 @@
       "showTitle": true,
       "showShadow": false,
       "createAt": "2026-03-05T14:48:18.537Z",
-      "updateAt": "2026-06-02T22:04:00.889Z",
-      "viewType": "list",
+      "updateAt": "2026-06-25T14:43:03.274Z",
+      "viewType": "table",
       "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
       "properties": [
         {
@@ -1010,6 +1010,14 @@
           "isShow": true,
           "wrap": false,
           "options": {}
+        },
+        {
+          "id": "f28b1ece-3ed5-4734-b42b-af9e5ab35886",
+          "name": "${file.mtime}",
+          "isShow": true,
+          "type": "text",
+          "options": {},
+          "alias": ""
         },
         {
           "id": "e44fd163-0016-42fe-9e9a-a11d9fd67531",
@@ -1024,6 +1032,14 @@
           "isShow": true,
           "type": "multiSelect",
           "options": {}
+        },
+        {
+          "id": "4f0490d3-d5e3-400c-a155-f7452e2f2b0e",
+          "name": "Date",
+          "isShow": true,
+          "type": "text",
+          "options": {},
+          "alias": ""
         }
       ],
       "templates": [
@@ -1035,7 +1051,7 @@
         }
       ],
       "groups": [],
-      "colorfulGroups": true,
+      "colorfulGroups": false,
       "viewOptions": {
         "openPageIn": "tab",
         "openPageAfterCreate": true,
@@ -1066,6 +1082,7 @@
         "orders": [
           "__$uncategorizedGroup",
           "Toolkit",
+          "ApplicationFS",
           "Module Essay",
           "TAI",
           "Idea",
