@@ -1,7 +1,7 @@
 {
   "version": 1,
   "states": {
-    "https://www.nytimes.com/video/insider/100000011030047/our-top-editor-on-subpoenas-of-times-journalists.html": {
+    "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o": {
       "tags": [
         {
           "name": "Video",
@@ -9,7 +9,7 @@
         }
       ]
     },
-    "https://www.bbc.co.uk/news/videos/c07y7r91vz9o": {
+    "https://www.bbc.co.uk/news/videos/c74gzknyyz2o": {
       "tags": [
         {
           "name": "Video",
@@ -17,7 +17,7 @@
         }
       ]
     },
-    "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo": {
+    "https://www.bbc.co.uk/news/videos/cly949k3g1do": {
       "tags": [
         {
           "name": "Video",
@@ -25,7 +25,7 @@
         }
       ]
     },
-    "https://www.bbc.co.uk/news/videos/cpd3d0d6zqzo": {
+    "https://www.bbc.co.uk/news/videos/cgje5l292g2o": {
       "tags": [
         {
           "name": "Video",
@@ -33,19 +33,11 @@
         }
       ]
     },
-    "https://www.bbc.co.uk/news/videos/cx2425dmpl3o": {
+    "https://feeds.simplecast.com/7e9bb266-dc12-48da-864f-4fa3d88c4ff0": {
       "tags": [
         {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://www.bbc.co.uk/news/videos/cd959ygx8g7o": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
+          "name": "Podcast",
+          "color": "#8e44ad"
         }
       ]
     },
@@ -234,14 +226,6 @@
       ]
     },
     "https://feeds.simplecast.com/43f52dde-26be-4a9e-b740-b7bcd3ef2fb5": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "https://feeds.simplecast.com/ac146ab1-80d5-43ac-8256-5c9f8e752faa": {
       "tags": [
         {
           "name": "Podcast",
@@ -649,6 +633,14 @@
         }
       ]
     },
+    "https://philosophybites.libsyn.com/2846c381-dbfb-44d9-b77e-8c4f91ffffbf": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
     "https://philosophybites.libsyn.com/4f513117-0847-4f4c-8d9b-3a8a8bbaabd6": {
       "tags": [
         {
@@ -840,16 +832,8 @@
           "color": "#8e44ad"
         }
       ]
-    },
-    "https://philosophybites.libsyn.com/5d80ce55-9fcb-4a6b-bc72-cf41c667b55b": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
     }
   },
-  "_syncNonce": "1785128941373-3",
+  "_syncNonce": "1785128949671-5",
   "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
 }

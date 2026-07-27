@@ -2,8 +2,33 @@
   "version": 1,
   "feedId": "a4c754f1-65c9-446e-9a42-eeee0ee2ce7d",
   "feedUrl": "https://philosophybites.libsyn.com/rss",
-  "updatedAt": 1785128941359,
+  "updatedAt": 1785128949658,
   "items": [
+    {
+      "title": "Jing Hu on Songzi on Insults and Shame",
+      "link": "https://philosophybites.libsyn.com/jing-hu-on-songzi-on-insults-and-shame",
+      "description": "<p class=\"MsoNormal\">The Chinese philosopher Songzi (382 BCE – 305 BCE) maintained that the appropriate response to insults was indifference, not aggression. Jing Hu, a philosopher at Concordia University, Montreal puts his thinking about insults and about the related concept of shame in context, and explains his ideas about the ethics of interpersonal relations. <br /> <br /> This episode was supported by the Ideas Workshop, part of the Open Society Foundations</p>",
+      "content": "<p class=\"MsoNormal\">The Chinese philosopher Songzi (382 BCE – 305 BCE) maintained that the appropriate response to insults was indifference, not aggression. Jing Hu, a philosopher at Concordia University, Montreal puts his thinking about insults and about the related concept of shame in context, and explains his ideas about the ethics of interpersonal relations. This episode was supported by the Ideas Workshop, part of the Open Society Foundations</p>",
+      "pubDate": "Tue, 21 Jul 2026 09:17:00 +0000",
+      "guid": "https://philosophybites.libsyn.com/2846c381-dbfb-44d9-b77e-8c4f91ffffbf",
+      "feedTitle": "Philosophy Bites",
+      "feedUrl": "https://philosophybites.libsyn.com/rss",
+      "coverImage": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg",
+      "summary": "The Chinese philosopher Songzi (382 BCE – 305 BCE) maintained that the appropriate response to insults was indifference, not aggression. Jing Hu, a philosopher at Concordia University, Montreal puts his thinking about in...",
+      "author": "Edmonds and Warburton",
+      "mediaType": "podcast",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": "",
+      "enclosure": {
+        "url": "https://traffic.libsyn.com/secure/philosophybites/Jing_Hu_on_Songzi_on_Insults_and_Shame.m4a?dest-id=14010",
+        "type": "audio/mp4",
+        "length": "17926644"
+      },
+      "audioUrl": "https://traffic.libsyn.com/secure/philosophybites/Jing_Hu_on_Songzi_on_Insults_and_Shame.m4a?dest-id=14010",
+      "fallbackIconUrl": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg"
+    },
     {
       "title": "Rebecca Newberger Goldstein on Mattering",
       "link": "https://philosophybites.libsyn.com/rebecca-newberger-goldstein-on-mattering",
@@ -542,31 +567,6 @@
       "image": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg",
       "category": "",
       "episodeType": "",
-      "fallbackIconUrl": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg"
-    },
-    {
-      "title": "Ellie Robson on Mary Midgley on Animals",
-      "link": "https://philosophybites.libsyn.com/ellie-robson-on-mary-midgley-on-animals",
-      "description": "<p>Mary Midgley didn't begin publishing until she was 59 years old, but nevertheless made a significant impact and had a distinctive approach. In this episode of Philosophy Bites Ellie Robson discusses some of her key ideas about our relationship with other animals. </p>",
-      "content": "<p>Mary Midgley didn't begin publishing until she was 59 years old, but nevertheless made a significant impact and had a distinctive approach. In this episode of Philosophy Bites Ellie Robson discusses some of her key ideas about our relationship with other animals. </p>",
-      "pubDate": "Sun, 17 Aug 2025 10:05:00 +0000",
-      "guid": "https://philosophybites.libsyn.com/5d80ce55-9fcb-4a6b-bc72-cf41c667b55b",
-      "feedTitle": "Philosophy Bites",
-      "feedUrl": "https://philosophybites.libsyn.com/rss",
-      "coverImage": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg",
-      "summary": "Mary Midgley didn't begin publishing until she was 59 years old, but nevertheless made a significant impact and had a distinctive approach. In this episode of Philosophy Bites Ellie Robson discusses some of her key ideas...",
-      "author": "Edmonds and Warburton",
-      "mediaType": "podcast",
-      "explicit": false,
-      "image": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg",
-      "category": "",
-      "episodeType": "",
-      "enclosure": {
-        "url": "https://traffic.libsyn.com/secure/philosophybites/Ellie_Robson_on_Mary_Midgley_on_Animals.mp3?dest-id=14010",
-        "type": "audio/mpeg",
-        "length": "12587493"
-      },
-      "audioUrl": "https://traffic.libsyn.com/secure/philosophybites/Ellie_Robson_on_Mary_Midgley_on_Animals.mp3?dest-id=14010",
       "fallbackIconUrl": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg"
     }
   ]

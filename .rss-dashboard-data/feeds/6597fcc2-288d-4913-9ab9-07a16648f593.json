@@ -2,8 +2,24 @@
   "version": 1,
   "feedId": "6597fcc2-288d-4913-9ab9-07a16648f593",
   "feedUrl": "https://ourworldindata.org/atom.xml",
-  "updatedAt": 1785128941352,
+  "updatedAt": 1785128949653,
   "items": [
+    {
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "description": "Data centers consume around 1.5% of global electricity, but demand is very geographically concentrated.<br><br><a href=\"https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/1bda728d-dc32-4ca7-32f8-dcb5be9a4b00/w=1024\"/></a>",
+      "content": "Data centers consume around 1.5% of global electricity, but demand is very geographically concentrated.<br><br><a href=\"https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/1bda728d-dc32-4ca7-32f8-dcb5be9a4b00/w=1024\"/></a>",
+      "pubDate": "2026-07-20T00:00:00.000Z",
+      "guid": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "feedTitle": "Our World in Data",
+      "feedUrl": "https://ourworldindata.org/atom.xml",
+      "coverImage": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/1bda728d-dc32-4ca7-32f8-dcb5be9a4b00/w=1024",
+      "summary": "Data centers consume around 1.5% of global electricity, but demand is very geographically concentrated.",
+      "author": "Hannah Ritchie",
+      "mediaType": "article",
+      "explicit": false,
+      "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/1bda728d-dc32-4ca7-32f8-dcb5be9a4b00/w=1024"
+    },
     {
       "title": "We have a new Urbanization topic page",
       "link": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
