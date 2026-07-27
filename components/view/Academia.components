@@ -1556,7 +1556,7 @@
       "showTitle": true,
       "showShadow": false,
       "createAt": "2026-03-05T14:48:18.537Z",
-      "updateAt": "2026-07-27T05:10:34.340Z",
+      "updateAt": "2026-07-27T06:47:14.545Z",
       "viewType": "list",
       "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
       "properties": [
@@ -1631,7 +1631,8 @@
           "Career/Thinktank/TAI/Nagata-cho council"
         ],
         "hiddens": [
-          "Career/Thinktank/TAI/Nagata-cho council"
+          "Career/Thinktank/TAI/Nagata-cho council",
+          "Career/Thinktank/TAI/CN-JP Econ Forum"
         ],
         "collapseds": []
       },

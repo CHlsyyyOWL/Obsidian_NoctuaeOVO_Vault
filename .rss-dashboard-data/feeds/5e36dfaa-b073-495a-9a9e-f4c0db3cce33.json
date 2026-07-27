@@ -2,7 +2,7 @@
   "version": 1,
   "feedId": "5e36dfaa-b073-495a-9a9e-f4c0db3cce33",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "updatedAt": 1785128949601,
+  "updatedAt": 1785132541630,
   "items": [
     {
       "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
@@ -113,13 +113,13 @@
       "guid": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o",
       "feedTitle": "BBC News - World",
       "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "coverImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg",
+      "coverImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ed/live/5bc7b570-8980-11f1-b2ab-0dd01740f9f6.jpg",
       "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
       "author": "",
       "mediaType": "article",
       "duration": "",
       "explicit": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ed/live/5bc7b570-8980-11f1-b2ab-0dd01740f9f6.jpg",
       "category": "",
       "episodeType": "",
       "fallbackIconUrl": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
