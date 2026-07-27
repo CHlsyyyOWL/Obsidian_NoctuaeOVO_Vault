@@ -2,8 +2,24 @@
   "version": 1,
   "feedId": "6597fcc2-288d-4913-9ab9-07a16648f593",
   "feedUrl": "https://ourworldindata.org/atom.xml",
-  "updatedAt": 1785128949653,
+  "updatedAt": 1785139741039,
   "items": [
+    {
+      "title": "We published a new topic page on economic inequality",
+      "link": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
+      "description": "Learn how inequality is measured, who produces key databases, and what the data tells us.<br><br><a href=\"https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8572fbf8-1c9c-4176-a865-12735e86a000/w=1024\"/></a>",
+      "content": "Learn how inequality is measured, who produces key databases, and what the data tells us.<br><br><a href=\"https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8572fbf8-1c9c-4176-a865-12735e86a000/w=1024\"/></a>",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "guid": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
+      "feedTitle": "Our World in Data",
+      "feedUrl": "https://ourworldindata.org/atom.xml",
+      "coverImage": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8572fbf8-1c9c-4176-a865-12735e86a000/w=1024",
+      "summary": "Learn how inequality is measured, who produces key databases, and what the data tells us.",
+      "author": "Joe Hasell",
+      "mediaType": "article",
+      "explicit": false,
+      "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8572fbf8-1c9c-4176-a865-12735e86a000/w=1024"
+    },
     {
       "title": "How much energy do data centers and artificial intelligence use?",
       "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",

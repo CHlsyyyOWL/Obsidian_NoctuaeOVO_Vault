@@ -25,14 +25,6 @@
         }
       ]
     },
-    "https://www.bbc.co.uk/news/videos/cgje5l292g2o": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
     "https://feeds.simplecast.com/7e9bb266-dc12-48da-864f-4fa3d88c4ff0": {
       "tags": [
         {
@@ -834,6 +826,6 @@
       ]
     }
   },
-  "_syncNonce": "1785136145979-9",
+  "_syncNonce": "1785139741055-11",
   "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
 }
