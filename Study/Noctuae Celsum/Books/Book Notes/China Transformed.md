@@ -1,7 +1,9 @@
 ---
 tags: ["politics/comparative"]
 Date: 2025-09-21
-Book Notes: "进行中"
+Literature: Book
+aliases:
+  - China transformed: historical change and the limits of European experience
 ---
 # 📂General Info
 

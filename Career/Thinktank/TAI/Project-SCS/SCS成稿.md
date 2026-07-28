@@ -10,7 +10,7 @@ Progress:
 # 补读文献
 **Governing Credit in the Digital Age: Public Perceptions and Engagement in China's Credit Systems** (Chen et al., 2026, _Regulation & Governance_)
 
-核心发现：Chinese citizens 对不同 credit systems 参与度差异显著，商业信用 (Sesame) 参与最深，行政信用参与最少。这一发现直接支持你论文的两条论证。一是 SCS 是 fragmented system 而非单一系统，为你 Section 5 municipal 层级差异分析提供 citizen-side 证据。二是不同 credit systems 之间的 differential engagement 结构性存在，你的 institutional pluralism 论点因此有 empirical backing。用于 Section 3 或 Section 6 讨论 SCS variegation 时的核心引用。
+期刊本身是本文最应该关注的目标之一（Krause et al. 2023 也在这个刊），2026 年 5 月发表说明是最新研究。N=5538 大规模调查，混合方法。核心发现：Chinese citizens 对不同 credit systems 参与度差异显著，商业信用 (Sesame) 参与最深，行政信用参与最少。这一发现直接支持你论文的两条论证。一是 SCS 是 fragmented system 而非单一系统，为你 Section 5 municipal 层级差异分析提供 citizen-side 证据。二是不同 credit systems 之间的 differential engagement 结构性存在，你的 institutional pluralism 论点因此有 empirical backing。用于 Section 3 或 Section 6 讨论 SCS variegation 时的核心引用。
 
 **A brief prehistory of China's social credit system** (Min Jiang, 2020, _Communication & the Public_)
 

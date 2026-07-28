@@ -1,7 +1,11 @@
 ---
-tags: ["economics","politics"]
+tags:
+  - economics
+  - politics
 Date: 2025-09-21
-Book Notes: "进行中"
+Literature: Book
+aliases:
+  - Asian power and politics: The cultural dimensions of authority
 ---
 # 📂General Info
 

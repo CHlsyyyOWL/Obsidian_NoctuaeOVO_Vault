@@ -302,7 +302,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-03-21T15:37:41.023Z",
-      "updateAt": "2025-03-21T15:37:41.023Z",
+      "updateAt": "2026-07-28T03:34:07.174Z",
       "viewType": "gallary",
       "newPageNameFormat": "{{date: YYMMDD}}",
       "properties": [
@@ -313,6 +313,24 @@
           "isShow": true,
           "wrap": false,
           "options": {}
+        },
+        {
+          "id": "a107b588-0454-4174-b139-8ec7222e176e",
+          "name": "Date",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {},
+          "alias": ""
+        },
+        {
+          "id": "2a534d6d-214f-4bb4-a98e-afe1fd197a42",
+          "name": "未命名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {},
+          "alias": ""
         }
       ],
       "templates": [],
@@ -354,7 +372,7 @@
             "type": "filter",
             "operator": "contains",
             "property": "${file.path}",
-            "value": "Study/Noctuae Celsum/Books",
+            "value": "Study/Noctuae Celsum/Books/Books documents",
             "conditions": []
           }
         ]
@@ -637,12 +655,12 @@
       "id": "ce97174b-2179-4ad5-962d-57b73395a5df",
       "type": "multi",
       "titleAlign": "center",
-      "tabTitle": "Books",
+      "tabTitle": "Literature",
       "maxWidthRatio": -1,
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-06-18T07:25:07.032Z",
-      "updateAt": "2025-06-18T07:25:07.032Z",
+      "updateAt": "2026-07-28T03:20:57.217Z",
       "components": [
         {
           "componentId": "f4a776c8-0a23-4452-b682-f72be036e239"
@@ -653,7 +671,8 @@
       ],
       "layoutType": "tab",
       "locked": false,
-      "layoutOptions": {}
+      "layoutOptions": {},
+      "title": "Literature"
     },
     {
       "id": "ad24500e-a274-439e-bc9a-8c8e7d8e5483",
@@ -664,8 +683,8 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-06-25T08:40:56.250Z",
-      "updateAt": "2025-06-25T08:40:56.250Z",
-      "viewType": "kanban",
+      "updateAt": "2026-07-28T03:36:01.224Z",
+      "viewType": "table",
       "newPageNameFormat": "{{date: YYYY-MM-DD}}",
       "properties": [
         {
@@ -677,34 +696,22 @@
           "options": {}
         },
         {
-          "id": "03ff0229-4498-464a-b770-86e8e9fb6669",
-          "name": "tags",
-          "isShow": false,
-          "type": "select",
-          "options": {
-            "formula": ""
-          }
-        },
-        {
-          "id": "3e55a505-ec4d-45f1-b5de-518ecead1cc3",
-          "name": "Article Notes",
-          "isShow": false,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
-          "id": "428e4ffb-5e5b-4f49-9bce-010cbf8e803c",
-          "name": "Book Notes",
-          "isShow": false,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
-          "id": "4d492b75-4ad2-472d-a2f2-dbf4026b3e92",
-          "name": "tags 1",
+          "id": "4a02d757-9e18-4ff9-966a-aaeb2b339833",
+          "name": "Date",
+          "type": "text",
           "isShow": true,
-          "type": "multiSelect",
-          "options": {}
+          "wrap": false,
+          "options": {},
+          "alias": ""
+        },
+        {
+          "id": "f03374fa-f982-4f47-ab2a-a1b422bb83cd",
+          "name": "Progress",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {},
+          "alias": ""
         }
       ],
       "templates": [],
@@ -755,7 +762,7 @@
       "newPageLocation": {
         "location": "Study/Noctuae Celsum/Books/Book Notes"
       },
-      "groupBy": "Book Notes",
+      "groupBy": "",
       "showTitle": false
     },
     {

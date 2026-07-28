@@ -2,8 +2,33 @@
   "version": 1,
   "feedId": "9dc16015-399c-493f-9fd2-f477ba96be16",
   "feedUrl": "https://feeds.simplecast.com/wgl4xEgL",
-  "updatedAt": 1785128949632,
+  "updatedAt": 1785150537119,
   "items": [
+    {
+      "title": "Savage Landscapes (with Cal Flyn)",
+      "link": "https://www.econtalk.org/savage-landscapes-with-cal-flyn/",
+      "description": "<p>What is wilderness when seven billion people share the planet and nowhere remains truly untouched? Author and journalist Cal Flyn discusses her book <i>The Savage Landscape</i> with EconTalk host Russ Roberts, weaving together journeys to some of Earth's most remote places, including a live volcanic eruption in Iceland she hiked toward despite the danger. Flyn rejects the myth of pristine, unpeopled wilderness, revealing that the wildest-looking landscapes have been shaped by humans for centuries. She explores spiritual quests at Mount Sinai, the return of predators to Europe, the uncomfortable economics of trophy hunting, and why we secretly crave discomfort in an age of endless comfort.</p>",
+      "content": "<p>What is wilderness when seven billion people share the planet and nowhere remains truly untouched? Author and journalist Cal Flyn discusses her book <i>The Savage Landscape</i> with EconTalk host Russ Roberts, weaving together journeys to some of Earth's most remote places, including a live volcanic eruption in Iceland she hiked toward despite the danger. Flyn rejects the myth of pristine, unpeopled wilderness, revealing that the wildest-looking landscapes have been shaped by humans for centuries. She explores spiritual quests at Mount Sinai, the return of predators to Europe, the uncomfortable economics of trophy hunting, and why we secretly crave discomfort in an age of endless comfort.</p>",
+      "pubDate": "Mon, 27 Jul 2026 10:30:00 +0000",
+      "guid": "https://feeds.simplecast.com/3749efd5-2ddf-4faf-9aee-3f70e6bc1780",
+      "feedTitle": "EconTalk",
+      "feedUrl": "https://feeds.simplecast.com/wgl4xEgL",
+      "coverImage": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
+      "summary": "What is wilderness when seven billion people share the planet and nowhere remains truly untouched? Author and journalist Cal Flyn discusses her book The Savage Landscape with EconTalk host Russ Roberts, weaving together ...",
+      "author": "webmaster@econlib.org (EconTalk: Russ Roberts)",
+      "mediaType": "podcast",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": "",
+      "enclosure": {
+        "url": "https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/975729e5-ee44-4be4-862e-f052aa642b15/group-item/e6ac265f-b5d2-44ac-8e48-7ad0605483d7/128_default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
+        "type": "audio/mpeg",
+        "length": "60230898"
+      },
+      "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/975729e5-ee44-4be4-862e-f052aa642b15/group-item/e6ac265f-b5d2-44ac-8e48-7ad0605483d7/128_default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
+      "fallbackIconUrl": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"
+    },
     {
       "title": "Dwayne Betts on the Iliad",
       "link": "https://www.econtalk.org/dwayne-betts-on-the-iliad/",
@@ -602,31 +627,6 @@
         "length": "65828008"
       },
       "audioUrl": "https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/3d21cde3-7d25-417b-986f-469fda61df09/audio/d9c529b2-a426-499a-af0a-2d6bda621331/default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
-      "fallbackIconUrl": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"
-    },
-    {
-      "title": "How to Flourish (with Daniel Coyle)",
-      "link": "https://www.econtalk.org/how-to-flourish-with-daniel-coyle/",
-      "description": "<p>Author Daniel Coyle talks with EconTalk's Russ Roberts on the art of flourishing: why it's a natural phenomenon rather than mechanical; how taking life's \"yellow doors\"--or detours from a straight, expected path--is often the key to a flourishing life; and why true flourishing can only occur in the context of relationships. They also discuss how the basic principles of flourishing have empowered people--from men trapped in a Chilean mine to senior citizens reliving their youth--to achieve remarkable things. Finally, they offer an exercise you can do for recognizing the ways that others have helped us to thrive.</p>",
-      "content": "<p>Author Daniel Coyle talks with EconTalk's Russ Roberts on the art of flourishing: why it's a natural phenomenon rather than mechanical; how taking life's \"yellow doors\"--or detours from a straight, expected path--is often the key to a flourishing life; and why true flourishing can only occur in the context of relationships. They also discuss how the basic principles of flourishing have empowered people--from men trapped in a Chilean mine to senior citizens reliving their youth--to achieve remarkable things. Finally, they offer an exercise you can do for recognizing the ways that others have helped us to thrive.</p>",
-      "pubDate": "Mon, 2 Feb 2026 11:30:00 +0000",
-      "guid": "https://feeds.simplecast.com/43f52dde-26be-4a9e-b740-b7bcd3ef2fb5",
-      "feedTitle": "EconTalk",
-      "feedUrl": "https://feeds.simplecast.com/wgl4xEgL",
-      "coverImage": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
-      "summary": "Author Daniel Coyle talks with EconTalk's Russ Roberts on the art of flourishing: why it's a natural phenomenon rather than mechanical; how taking life's \"yellow doors\"--or detours from a straight, expected path--is ofte...",
-      "author": "webmaster@econlib.org (EconTalk: Russ Roberts)",
-      "mediaType": "podcast",
-      "explicit": false,
-      "image": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
-      "category": "",
-      "episodeType": "",
-      "enclosure": {
-        "url": "https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/1a6397c9-34bb-4253-88b5-1563e339f410/audio/0fd664fc-dee6-424f-bb3c-0d190dbe6b0c/default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
-        "type": "audio/mpeg",
-        "length": "72632611"
-      },
-      "audioUrl": "https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/1a6397c9-34bb-4253-88b5-1563e339f410/audio/0fd664fc-dee6-424f-bb3c-0d190dbe6b0c/default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
       "fallbackIconUrl": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"
     }
   ]
