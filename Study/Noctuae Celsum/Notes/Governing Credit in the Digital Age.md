@@ -10,8 +10,8 @@ aliases:
 # 📂General Info
 
 **Topic**：Governing Credit in the Digital Age: Public Perceptions and Engagement in China's Credit Systems
-**Author**：
-**Source**：
+**Author**：Mo Chen | Carmen Loefflad | Jens Grossklags
+**Source**：Regulation and governance
 **Zotero URL**：
 
 **Comments**：
