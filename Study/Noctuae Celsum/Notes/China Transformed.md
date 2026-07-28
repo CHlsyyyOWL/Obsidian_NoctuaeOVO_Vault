@@ -1,9 +1,10 @@
 ---
-tags: ["politics/comparative"]
+tags:
+  - politics/comparative
 Date: 2025-09-21
-Literature: Book
+Literature: BookNote
 aliases:
-  - China transformed: historical change and the limits of European experience
+  - "China transformed: historical change and the limits of European experience"
 ---
 # 📂General Info
 

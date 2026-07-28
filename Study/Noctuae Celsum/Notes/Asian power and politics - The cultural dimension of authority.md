@@ -3,9 +3,9 @@ tags:
   - economics
   - politics
 Date: 2025-09-21
-Literature: Book
+Literature: PaperNote
 aliases:
-  - Asian power and politics: The cultural dimensions of authority
+  - "Asian power and politics: The cultural dimensions of authority"
 ---
 # 📂General Info
 

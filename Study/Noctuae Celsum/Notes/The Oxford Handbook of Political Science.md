@@ -3,7 +3,7 @@ tags:
   - economics
   - politics
 Date: 2025-06-25
-Literature: Book
+Literature: BookNote
 aliases:
   - 牛津政治科学手册
 ---
