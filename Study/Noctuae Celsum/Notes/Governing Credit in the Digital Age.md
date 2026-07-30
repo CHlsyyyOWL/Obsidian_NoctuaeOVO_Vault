@@ -14,7 +14,7 @@ aliases:
 **Source**：Regulation and governance
 **Zotero URL**：
 
-**Comments**：
+**Comments**：本文聚焦于民众对于scs制度的参与程度，普遍反应参与business credit大于参与personal credit，方法比结论更值得参考，qualitative+quantiative的结合
 
 ---
 # 📖Menu
