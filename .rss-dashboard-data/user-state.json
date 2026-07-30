@@ -1,7 +1,7 @@
 {
   "version": 1,
   "states": {
-    "https://www.bbc.co.uk/news/videos/c98v94dmmz0o": {
+    "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo": {
       "tags": [
         {
           "name": "Video",
@@ -9,31 +9,7 @@
         }
       ]
     },
-    "https://www.bbc.co.uk/news/videos/c1l1d429m8eo": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://www.bbc.co.uk/news/videos/cy745x171rjo": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://www.bbc.co.uk/news/videos/c89npw4q3g4o": {
+    "https://www.bbc.co.uk/news/videos/cly8xvvj8yro": {
       "tags": [
         {
           "name": "Video",
@@ -842,6 +818,6 @@
       ]
     }
   },
-  "_syncNonce": "1785385879523-1",
-  "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
+  "_syncNonce": "1785385889521-3",
+  "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
 }
