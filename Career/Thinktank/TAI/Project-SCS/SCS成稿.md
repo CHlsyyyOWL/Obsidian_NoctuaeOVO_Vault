@@ -9,17 +9,18 @@ Progress:
 ---
 # The Substantive Criteria Vacuum: How Central Under-Specification and Provincial Non-Response Preserve Discretion under China's 2025 Credit Repair Framework
 
-**Draft v6, solo authored.** Structure updated per Chelsea's confirmations: Problematique independent as Section 2, Section 3.2 with three-paragraph flow on historical continuity, Section 3 to Section 5 without sub-headings, Section 7 restructured as four patterns. Terminology chain: **Strategic Under-specification (central) + Selective Non-Response (provincial) → Institutional Vacuum (outcome)**. Target length 7,500 to 8,000 words. Harvard referencing.
+**Draft v7, solo authored (with Section 2 Background delegated to Sofia).** Structure updated: Background split off as independent Section 2, other sections renumbered accordingly. Terminology chain: **Strategic Under-specification (central) + Selective Non-Response (provincial) → Institutional Vacuum (outcome)**. Target length 7,500 to 8,000 words. Harvard referencing.
 
 **符号说明**
 
 - 无标记段落：直接复制自你现有 MD 或 PPT 材料
 - **(改写)** 前缀：我在你原文基础上做了调整，粗体部分是我修改的地方
 - 【新写】前缀：完全需要你自己写的段落，跟着中文说明写
+- **【交给 Sofia】** 前缀：这一节交给 Sofia 写，任务范围见配套的独立任务文件
 
 ---
 
-## Abstract 待完成
+## Abstract
 
 【新写】Abstract 一段 200 到 250 词。写作顺序：一句话说 SCS 从惩戒到修复的制度转型背景，一句话点出 2025 到 2026 credit repair 国家框架下的省级实施差异这个 puzzle，两句话说本文用 Ma (2024) 的 obligation-enforcement 编码方法比较 Zhejiang 和 Liaoning 两省的实施。然后一句话给核心 finding：本文识别了一个 institutional vacuum，由中央的 strategic under-specification 与省级的 selective non-response 共同产生，具体位于 substantive criteria 这个未被任何行政层级定义的判断位置。最后一句话说 contribution：本文把 Ma 户籍改革发现的 legalization without institutionalization 结论扩展到市场治理，并识别了这一分离的具体 institutional site。全段现在时陈述，不用未来时表述。
 
@@ -35,9 +36,9 @@ Legal codification does not by itself guarantee that institutions constrain stat
 
 China presents a distinctive form of this pattern. Rather than producing broad national statutes and confronting an enforcement gap, the Chinese state develops institutional design through ministerial orders, provincial decrees, and municipal experiments while formal national legislation is often delayed or absent (Heilmann, 2008; Tsai, Wang and Lin, 2021; Ma, 2024). The result is a governance architecture in which central authorities set direction through deliberately ambiguous framework documents and subnational governments produce heterogeneous responses that fill some spaces and leave others open (Ang, 2016; Zhou, 2017, 2022). Whether this architecture produces the same discretion-preserving outcomes as the more familiar Latin American or South Asian versions of institutional weakness, or whether it operates through mechanisms distinctive to Chinese central-local relations, has not been systematically examined in the credit governance domain.
 
-The introduction of the credit repair mechanism marks a shift in China's corporate social credit system from punitive enforcement toward a more institutionalized rule-based compliance framework. The 2025 Administrative Measures for Credit Repair (NDRC Order No. 36, effective April 1, 2026) establish the first nationwide legal framework for restoring the credit standing of enterprises. This development follows a decade of system construction that proceeded in three broad phases. A foundation period from 2014 to 2020 was guided by the Planning Outline for the Construction of a Social Credit System. An expansion and enforcement period from 2020 to 2024 saw blacklisting reach massive scale. A regulatory refinement period from 2025 to 2026 began formalizing procedures for both punishment and repair.
+【新写】本节 1.3 段：case introduction 短段。任务：一段话说明本文以 credit repair 改革作为观察窗口。参考写作：
 
-The scale of the punitive phase created the conditions for reform. By 2019, Chinese courts had placed over 14.5 million entities on defaulting debtor lists, and travel restrictions had affected over 17 million individuals. Over 40 government bodies coordinated joint sanctions, meaning that a single blacklist entry could automatically trigger restrictions across multiple sectors. This mass punishment did not automatically produce behavioral correction but instead created a growing pool of economically blocked entities unable to participate in normal market activity. The 2020 Guiding Opinions on Further Improving the Social Credit System explicitly acknowledged the need for a credit repair mechanism, signaling a shift from viewing sanctions as a terminal state toward treating them as part of a regulatory cycle.
+The 2025 to 2026 corporate credit repair reform provides a well-suited observation window for examining this question. Introduced through the Administrative Measures for Credit Repair (NDRC Order No. 36, effective April 1, 2026) and its market-supervision counterpart (SAMR Order No. 107), the reform establishes the first nationwide legal framework for restoring the credit standing of enterprises previously placed on defaulting debtor lists. Section 2 develops the historical and institutional background of this reform. The remainder of the Introduction states the central argument, method, and contribution.
 
 【新写】本节 1.4 段：central argument 段。任务：显式亮出术语链和中心论点。参考写作：
 
@@ -45,33 +46,39 @@ This paper argues that the 2025 to 2026 credit repair reform produces an institu
 
 【新写】本节 1.5 段：method and contribution。参考写作：
 
-The paper applies the obligation-enforcement typology to three central baseline documents (State Council General Office Notice 2025 No. 22, NDRC Order No. 36, SAMR Order No. 107) plus the Zhejiang and Liaoning provincial responses. The contribution is threefold. First, the paper provides the first systematic comparison of provincial credit repair implementation under the 2025 framework. Second, it extends Ma's finding on household registration reform to market governance, showing that legalization without institutionalization is a pattern that operates across policy domains oriented in structurally different directions. Third, and most consequentially, it identifies the substantive criteria vacuum as the specific institutional site through which discretion is preserved, and shows that this site operates independently of whether provinces produce elaborate formal codification. The mechanism is falsifiable. If any subsequent provincial statute codifies substantive criteria for repair decisions with actionable specificity, the mechanism identified here would fail to describe the emerging institutional pattern.
+The paper applies the obligation-enforcement typology developed by Ma (2024) to three central baseline documents (State Council General Office Notice 2025 No. 22, NDRC Order No. 36, SAMR Order No. 107) plus the Zhejiang and Liaoning provincial responses. The contribution is threefold. First, the paper provides the first systematic comparison of provincial credit repair implementation under the 2025 framework. Second, it extends Ma's finding on household registration reform to market governance, showing that legalization without institutionalization is a pattern that operates across policy domains oriented in structurally different directions. Third, and most consequentially, it identifies the substantive criteria vacuum as the specific institutional site through which discretion is preserved, and shows that this site operates independently of whether provinces produce elaborate formal codification. The mechanism is falsifiable. If any subsequent provincial statute codifies substantive criteria for repair decisions with actionable specificity, the mechanism identified here would fail to describe the emerging institutional pattern.
 
-【新写】本节 1.6 段：roadmap。三到四句话即可。Section 2 states the problematique and specifies the research question. Section 3 reviews scholarship on institutional weakness, Chinese central-local dynamics, and SCS governance. Section 4 sets out the theoretical framework, defines core terminology, and states hypotheses. Section 5 describes the research design. Section 6 codes the two provincial cases. Section 7 discusses the primary finding and three secondary observations. Section 8 concludes.
+【新写】本节 1.6 段：roadmap。四到五句话即可。Section 2 develops the historical background of China's SCS from 2014 to 2026. Section 3 states the problematique and specifies the research question. Section 4 reviews scholarship on institutional weakness, Chinese central-local dynamics, and SCS governance. Section 5 sets out the theoretical framework, defines core terminology, and states hypotheses. Section 6 describes the research design. Section 7 codes the two provincial cases. Section 8 discusses the primary finding and three secondary observations. Section 9 concludes.
 
 ---
 
-## 2. Problematique
+## 2. Background: The Development of China's SCS 2014-2026
 
-【新写】本节 2.1 段约 250 词。任务：把普世性问题陈述清楚。参考写作结构：
+**【交给 Sofia】** 本节全部内容由 Sofia 独立撰写，任务范围详见配套文件 `Sofia_task_brief_Section2_Background.md`。目标词数 600 到 800 词。功能是纯描述性梳理 SCS 三阶段发展、2019 blacklist 峰值数据、2020 转向信号、2025-2026 三份国家文件的时间线和分工、Jiang (2020) 论证的历史根源。交稿后你审读并做标点纪律清理与承接段落衔接。
+
+---
+
+## 3. Problematique
+
+【新写】本节 3.1 段约 250 词。任务：把普世性问题陈述清楚。参考写作结构：
 
 Institutionalization does not follow automatically from legalization. Across cases as different as Latin American constitutional rights (Brinks, Levitsky and Murillo, 2019), Indian informal welfare regimes (Holland, 2017), and post-communist transition economies (Khanna and Palepu, 2010), formal legal frameworks routinely fail to produce the institutional constraint their text nominally implies. The gap between legalization and institutionalization appears in three recurring contexts. First, in emerging economies where legal capacity has developed faster than administrative implementation capacity. Second, in political systems where central legislation is used strategically to signal reform commitments without disturbing existing distributional arrangements. Third, in governance architectures where central and local authorities operate under different incentive structures and produce sequentially non-aligned responses to the same legal text.
 
-【新写】本节 2.2 段约 200 词。任务：把 general framing 收缩到中国 specificity。参考写作：
+【新写】本节 3.2 段约 200 词。任务：把 general framing 收缩到中国 specificity。参考写作：
 
 China occupies a distinctive position within this comparative landscape. Institutional codification proceeds primarily through ministerial orders and provincial decrees rather than through National People's Congress legislation. National-level laws on major policy areas including social credit have been drafted and re-drafted for over a decade without passage. This is not a matter of legislative capacity, since the NPC produces substantial legislation in other domains. It reflects an institutional choice to conduct policy development through sub-legislative instruments that preserve interpretive flexibility across administrative tiers. Whether this choice systematically produces discretion-preserving outcomes at the level of concrete regulatory decisions, and whether the mechanism converges on a specific institutional site across otherwise different provincial responses, is a question that existing scholarship on Chinese governance has not directly addressed.
 
-【新写】本节 2.3 段约 150 词。任务：明确研究问题。参考写作：
+【新写】本节 3.3 段约 150 词。任务：明确研究问题。参考写作：
 
 This paper takes the 2025 to 2026 corporate credit repair reform as an observation window through which to examine this question. The reform is well suited to the purpose for three reasons. First, it is recent enough that provincial responses can be observed as they form rather than as path-dependent equilibria. Second, it involves both a national framework and structurally different provincial responses, allowing within-China comparison under a constant national baseline. Third, it operates in market governance rather than social policy, providing a different policy domain from Ma's (2024) household registration analysis and thereby testing whether the discretion-preserving mechanism operates across policy domains with opposing central-local incentive alignments. The specific research question is whether provincial implementation differences under the 2025 framework converge on an identifiable institutional site at which formal codification and effective institutional constraint diverge.
 
 ---
 
-## 3. Literature Review
+## 4. Literature Review
 
-### 3.1 Institutional Weakness in Comparative Perspective
+### 4.1 Institutional Weakness in Comparative Perspective
 
-【新写】本节 3.1 约 400 词。任务：把 institutional weakness 议题的既有文献梳理清楚，为本文的中国分析建立普世性基础。写作结构：
+【新写】本节 4.1 约 400 词。任务：把 institutional weakness 议题的既有文献梳理清楚，为本文的中国分析建立普世性基础。写作结构：
 
 第一段：introduce institutional weakness as a comparative politics research agenda。Brinks, Levitsky and Murillo (2019) 的 Cambridge Elements 是这条议题过去五年的核心综合。他们提出 institutional weakness 的三种形态：insignificance (规则被遵守但不影响行为), non-compliance (国家精英选择不执行), instability (规则频繁变动)。用一到两句话说明这三个类型的边界。
 
@@ -79,25 +86,25 @@ This paper takes the 2025 to 2026 corporate credit repair reform as an observati
 
 第三段：说明本文与这些框架的关系。本文观察到的现象位于立法阶段而非执法阶段，因此不能完全归入 Holland 的 forbearance。本文与 Brinks 等人的 insignificance 有部分重叠——规则被制定但不覆盖核心内容——但差异在于中国的机制展现出跨行政层级的系统性协同，即中央和地方在各自层级都做同类留白，这不是单一决策者的 forbearance 而是纵向治理架构的 institutional feature。本文因此在既有 institutional weakness 议题里定位为一个新的 mechanism identification。
 
-### 3.2 Chinese Central-Local Dynamics
+### 4.2 Chinese Central-Local Dynamics
 
-【新写】本节 3.2 第一段约 150 词。任务：一到两句话建立中央地方分离的历史传统，作为当代讨论的 grounding。**只要一段，不展开**。参考写法：
+【新写】本节 4.2 第一段约 150 词。任务：一到两句话建立中央地方分离的历史传统，作为当代讨论的 grounding。**只要一段，不展开**。参考写法：
 
 The pattern of centralized directives combined with heavily localized implementation is not a recent development in Chinese governance. In the late imperial period, county magistrates received broad instructions from higher levels and worked through local gentry to translate them into concrete action, producing what Fei Xiaotong (1948) described as a granular society in which state authority reached the sub-county level only through negotiated intermediation. The pattern was reproduced in the early reform era through what Chinese officials themselves termed "crossing the river by feeling for stones" (摸着石头过河), an incrementalist approach in which policy directions were set centrally while implementation modes were left to local experimentation. This tradition frames the more systematic contemporary mode of central-local coordination reviewed below.
 
-【新写】本节 3.2 第二段约 300 词。任务：把"小马过河到当代顶层设计+试验田+领导小组"这条现代政策传统讲清楚。这一段是重点。参考写法：
+【新写】本节 4.2 第二段约 300 词。任务：把"小马过河到当代顶层设计+试验田+领导小组"这条现代政策传统讲清楚。参考写法：
 
 Since the 1990s, this incrementalism has evolved into a more systematic mode of policymaking with three institutional components. Central leadership sets broad direction through top-level design (顶层设计), framework documents that specify goals without specifying operational content. Selected localities carry out pilot programs (试点) that test institutional forms, with successful pilots eligible for national generalization. Central leading small groups (中央领导小组) coordinate cross-departmental oversight without producing binding rules. Heilmann (2008) identifies this pattern as "experimentation under hierarchy," documenting how central authorities set the direction and monitor outcomes while selected localities test institutional forms whose results feed back into national policy. Ang (2016) extends this line through the concept of "directed improvisation," arguing that Chinese subnational governments operate under central direction while exercising substantial improvisational autonomy, producing sub-national variation as a structural feature rather than a transitional condition. Tsai, Wang and Lin (2021) document this pattern in the SCS domain specifically. Their fieldwork with mainland officials shows how local implementers had to interpret deliberately vague central directives and selectively implement provisions according to political risk. Business-facing credit regulation advanced most rapidly because it carried the lowest political risk, while citizen-facing credit scoring remained at a preliminary stage. The vagueness of the 2014 Planning Outline was not a drafting failure but a functional feature enabling this selective implementation.
 
-【新写】本节 3.2 第三段约 250 词。任务：把这一路径依赖收敛到本文的 substantive criteria vacuum 论证。参考写法：
+【新写】本节 4.2 第三段约 250 词。任务：把这一路径依赖收敛到本文的 substantive criteria vacuum 论证。参考写法：
 
 The behavioral logic underlying this pattern has been theorized in two adjacent frameworks. Zhou Xueguang (2017, 2022) identifies a fundamental tension between centralized authority and effective local administration across a vast, internally diverse territory. His concept of variable coupling holds that policy is made uniformly at the center while implementation is designed to be flexible, with the center retaining goal-setting and inspection authority while delegating operational discretion. Zhou Li-An (2014) develops the behavioral corollary through the concept of administrative subcontracting (行政发包制). The center packages policy tasks and delegates them to local governments, who gain implementation autonomy but bear the associated risks. Local officials therefore have a rational interest in preserving ambiguity rather than demanding precise central standards, because precise standards constrain their flexibility without reducing their accountability. This tradition has both enabling and constraining implications for the credit repair reform analyzed in this paper. The enabling side is well documented, since the mode has produced substantial policy learning and allowed rapid adaptation across highly diverse local conditions. The constraining side is less examined. When the mode is applied to institutional codification rather than economic experimentation, the central preference for framework language and the local preference for interpretive discretion converge on producing text that is procedurally elaborate but substantively open. Ma (2024) provides the most recent empirical demonstration of this convergence through analysis of 492 household registration reform documents from 2011 to 2021, identifying a pattern in which formal hardening at higher administrative ranks coexists with substantial discretion at implementation. Ma's finding produces the working hypothesis for the present paper.
 
-### 3.3 SCS Scholarship
+### 4.3 SCS Scholarship
 
-【新写】本节 3.3 约 350 词。任务：梳理 SCS 研究并定位本文的 gap。写作结构：
+【新写】本节 4.3 约 350 词。任务：梳理 SCS 研究并定位本文的 gap。写作结构：
 
-第一段：SCS as historical continuity。Jiang (2020) 追溯 SCS 的三重历史根源（帝国官员档案、共产党 dang'an 制度、2010 年代早期未通过的道德档案立法）。用一到两句话说明 Jiang 的贡献是把 SCS 放在中国治理档案传统的连续谱系中。用一句话说本文接续这一视角，把 credit repair 作为该谱系在市场治理域的最新表现。这个引用也支撑 problematique 里的"中国制度化不轻易通过全国性立法"论断。
+第一段：SCS as historical continuity。Jiang (2020) 追溯 SCS 的三重历史根源。**这里注意：Section 2 Background 已经引入了 Jiang 的历史谱系论述作为叙事骨干。这里的引用要转向理论定位——Jiang 把 SCS 放在中国治理档案传统的连续谱系中的分析价值，以及本文如何接续这一视角把 credit repair 作为该谱系在市场治理域的最新表现**。避免重复 Section 2 已经讲过的历史事实。
 
 第二段：SCS as variegated rather than monolithic。Drinhausen and Brussee (2021 MERICS), Liu and Rona-Tas (2024), Caprotti, Xu and Chien (2024) 三条 institutional-side 证据。Caprotti 三人明确提出 variegation 概念，说明 municipal 层级各不相同且不能被中央统合。用一句话说本文把 variegation 视角从 municipal 层下沉到 provincial 层。此外可以在这一段末尾用一句话说明 Chen, Loefflad and Grossklags (2026) 的 N=5538 调查从 citizen engagement 侧提供了 SCS 系统整体多层次多类型的补充观察。这里明确说这条证据涉及的是 personal credit systems 差异，不直接进入本文的 corporate credit repair 分析，但作为 SCS 整体图景的背景引用。
 
@@ -105,7 +112,7 @@ The behavioral logic underlying this pattern has been theorized in two adjacent 
 
 ---
 
-## 4. Theoretical Framework and Hypotheses
+## 5. Theoretical Framework and Hypotheses
 
 【新写】本节第一段约 250 词。任务：介绍 Ma (2024) 框架并显式讲清楚 obligation 和 enforcement 两个概念的含义。参考写作：
 
@@ -135,7 +142,7 @@ The paper tests three hypotheses derived from the literature. H1 (Development Ad
 
 ---
 
-## 5. Methodology
+## 6. Methodology
 
 【新写】本节第一段约 300 词。任务：介绍编码方法并显式讲清楚 strong 和 weak 的编码方式。参考写作：
 
@@ -143,19 +150,21 @@ The paper codes each policy document on six indicators. Issuer rank captures the
 
 【新写】本节第二段约 300 词。任务：说明 case selection 依据。参考写作：
 
-The paper uses Zhejiang and Liaoning as a most-different systems comparison on the three hypotheses. MERICS (2021, updated 2022) mapping data on SCS-related document output across provinces shows dramatic regional variation, with economically developed coastal provinces producing more than 40 policy documents and several northeastern and western provinces producing fewer than 10 during the 2003 to 2020 window. Zhejiang and Liaoning occupy opposite positions in this distribution. On H1, Zhejiang's GDP per capita of approximately 141,000 yuan in 2025 is roughly twice Liaoning's 80,000 yuan, and Zhejiang's digital economy accounts for 35 percent of total provincial output compared to 24 percent for Liaoning. On H2, Zhejiang's private sector accounts for over 80 percent of non-agricultural employment while Liaoning retains a dominant state-owned enterprise structure. On H3, Zhejiang produced more than 40 SCS-related documents during 2003 to 2020 while Liaoning produced fewer than 10. Despite these structural differences, both provinces face the same national framework established by NDRC Order No. 36, SAMR Order No. 107, and State Council General Office Notice 2025 No. 22. The comparison therefore isolates the effect of provincial structural conditions on implementation choices while holding the national framework constant. A third province, Sichuan, is not coded in this paper but is referenced in Section 7 as an anomaly for H1. Sichuan's GDP per capita in 2024 was approximately 82,000 yuan, comparable to Liaoning's 80,000 yuan, yet Sichuan's SCS policy document output places it in a higher tier than several wealthier eastern provinces. The Sichuan anomaly is used analytically without full coding to argue that H1 alone cannot account for provincial variation.
+The paper uses Zhejiang and Liaoning as a most-different systems comparison on the three hypotheses. MERICS (2021, updated 2022) mapping data on SCS-related document output across provinces shows dramatic regional variation, with economically developed coastal provinces producing more than 40 policy documents and several northeastern and western provinces producing fewer than 10 during the 2003 to 2020 window. Zhejiang and Liaoning occupy opposite positions in this distribution. On H1, Zhejiang's GDP per capita of approximately 141,000 yuan in 2025 is roughly twice Liaoning's 80,000 yuan, and Zhejiang's digital economy accounts for 35 percent of total provincial output compared to 24 percent for Liaoning. On H2, Zhejiang's private sector accounts for over 80 percent of non-agricultural employment while Liaoning retains a dominant state-owned enterprise structure. On H3, Zhejiang produced more than 40 SCS-related documents during 2003 to 2020 while Liaoning produced fewer than 10. Despite these structural differences, both provinces face the same national framework established by NDRC Order No. 36, SAMR Order No. 107, and State Council General Office Notice 2025 No. 22. The comparison therefore isolates the effect of provincial structural conditions on implementation choices while holding the national framework constant. A third province, Sichuan, is not coded in this paper but is referenced in Section 8 as an anomaly for H1. Sichuan's GDP per capita in 2024 was approximately 82,000 yuan, comparable to Liaoning's 80,000 yuan, yet Sichuan's SCS policy document output places it in a higher tier than several wealthier eastern provinces. The Sichuan anomaly is used analytically without full coding to argue that H1 alone cannot account for provincial variation.
 
 【新写】本节第三段约 200 词。任务：说明数据来源与 scope。参考写作：
 
-The analysis relies on publicly available policy documents at three administrative tiers (national, provincial, municipal), on official platform documentation, and on secondary reporting. Decision-level data on repair approvals, processing times in practice, and substantive criteria applied in specific cases is not currently published by provincial platforms. The scope of this paper is therefore limited to de jure policy design rather than decision practice. Whether the substantive criteria vacuum identified in the codified texts also characterises actual repair decisions is a distinct empirical question addressed in Section 7. This scope constraint is not a limitation to be minimized but a boundary that determines what the paper can and cannot claim. Findings about de jure institutional design cannot be directly extrapolated to de facto discretion patterns without additional evidence. The paper's contribution is to establish the de jure baseline against which future de facto analysis can be conducted.
+The analysis relies on publicly available policy documents at three administrative tiers (national, provincial, municipal), on official platform documentation, and on secondary reporting. Decision-level data on repair approvals, processing times in practice, and substantive criteria applied in specific cases is not currently published by provincial platforms. The scope of this paper is therefore limited to de jure policy design rather than decision practice. Whether the substantive criteria vacuum identified in the codified texts also characterises actual repair decisions is a distinct empirical question addressed in Section 8. This scope constraint is not a limitation to be minimized but a boundary that determines what the paper can and cannot claim. Findings about de jure institutional design cannot be directly extrapolated to de facto discretion patterns without additional evidence. The paper's contribution is to establish the de jure baseline against which future de facto analysis can be conducted.
 
 ---
 
-## 6. Empirical Analysis
+## 7. Empirical Analysis
 
-### 6.1 The National Baseline
+### 7.1 The National Baseline
 
-The reform package consists of three central documents that any province must integrate. State Council General Office Notice 2025 No. 22, issued 22 June 2025, sets the macro framework. It specifies a ten-working-day overall timeline for credit repair processing, a three-working-day acceptance window, and a seven-working-day decision window. NDRC Order No. 36, issued 20 November 2025 and effective 1 April 2026, governs credit repair across all administrative domains. The order classifies misconduct as minor, general, or severe, with sectoral departments permitted to add categories of severe misconduct. Application conditions require correction of conduct, fulfilment of obligations, and a public credit pledge. The order establishes an administrative appeal channel through the Credit China website. SAMR Order No. 107, issued 21 November 2025 and effective 25 December 2025, governs credit repair within the market supervision domain only. The order uses the same trichotomy but quantifies monetary thresholds at 50,000 yuan for businesses and 5,000 yuan for individuals. Application conditions require active rectification, elimination of harm, and absence of recurrence in the same category. The order routes disputes to administrative review or court proceedings only.
+**说明**：Section 2 Background 已经介绍了三份国家文件的时间线和分工。本节聚焦于三份文件的编码分析而非重复时间线介绍。开头可以直接进入编码。参考写作：
+
+The three central documents introduced in Section 2 differ substantially on the obligation and enforcement dimensions relevant to this paper's coding framework.
 
 **Table 2. Obligation and Enforcement Coding of the National Baseline**
 
@@ -171,9 +180,9 @@ The reform package consists of three central documents that any province must in
 |Enforcement rating|Moderate|Strong|Strong|
 |Four-type classification|Type 2 borderline|Type 2|Type 4|
 
-(改写) The two ministerial orders differ in where substantive discretion is located. NDRC Order 36 delegates substantive discretion to sectoral departments by leaving phrases such as "corrected misconduct" and "other severe categories" open. SAMR Order 107 retains substantive discretion within the order itself through phrases such as "active rectification eliminating harm" and "same category violation." **The two orders differ in the location of preserved discretion but converge in preserving it. Neither order defines the terms on which repair decisions are actually made. This convergence at the substantive criteria row is the first observation supporting the vacuum hypothesis of Section 4.**
+(改写) The two ministerial orders differ in where substantive discretion is located. NDRC Order 36 delegates substantive discretion to sectoral departments by leaving phrases such as "corrected misconduct" and "other severe categories" open. SAMR Order 107 retains substantive discretion within the order itself through phrases such as "active rectification eliminating harm" and "same category violation." **The two orders differ in the location of preserved discretion but converge in preserving it. Neither order defines the terms on which repair decisions are actually made. This convergence at the substantive criteria row is the first observation supporting the vacuum hypothesis of Section 5.**
 
-### 6.2 Zhejiang Implementation
+### 7.2 Zhejiang Implementation
 
 Zhejiang issued Provincial Government Decree No. 406 in March 2025, six months before the publication of NDRC Order No. 36. The decree institutionalises credit repair at provincial level with statutory force, fixing jurisdictional boundaries, intake procedures, and decision timelines. The accompanying Credit Repair One Thing implementation scheme builds a unified intake platform on the Zhelibàn digital service infrastructure.
 
@@ -181,7 +190,7 @@ At municipal level, Hangzhou has layered two further mechanisms. The Three Docum
 
 Zhejiang GDP per capita is approximately 141,000 yuan in 2025, ranking among the top five provinces nationally. Private sector employment exceeds 80 percent of total non-agricultural employment. Export-oriented enterprises constitute a substantial fraction of provincial corporate activity.
 
-(改写) **Prior empirical evidence from Zhejiang provides additional context on how political considerations enter the credit governance infrastructure.** Lin and Milhaupt (2023) analysed corporate social credit scores for 531 A-share listed companies in Zhejiang, the only province to have published such scores publicly. **They found that politically connected firms received systematically higher scores regardless of ownership type or state equity share. The result was driven by a "social responsibility" category (18.5 percent of the total score) that awards points for government-issued honors, charitable donations to Party-sanctioned causes, and volunteer service in Party-recognized activities. Neither better-governed nor more profitable firms scored higher. This finding indicates that Zhejiang's advanced credit governance infrastructure already embeds political considerations within scoring outcomes, which is directly relevant to the substantive criteria vacuum discussed in Section 7.**
+(改写) **Prior empirical evidence from Zhejiang provides additional context on how political considerations enter the credit governance infrastructure.** Lin and Milhaupt (2023) analysed corporate social credit scores for 531 A-share listed companies in Zhejiang, the only province to have published such scores publicly. **They found that politically connected firms received systematically higher scores regardless of ownership type or state equity share. The result was driven by a "social responsibility" category (18.5 percent of the total score) that awards points for government-issued honors, charitable donations to Party-sanctioned causes, and volunteer service in Party-recognized activities. Neither better-governed nor more profitable firms scored higher. This finding indicates that Zhejiang's advanced credit governance infrastructure already embeds political considerations within scoring outcomes, which is directly relevant to the substantive criteria vacuum discussed in Section 8.**
 
 **Table 3. Obligation and Enforcement Coding of the Zhejiang Implementation**
 
@@ -199,7 +208,7 @@ Zhejiang GDP per capita is approximately 141,000 yuan in 2025, ranking among the
 
 (改写) The Zhejiang profile shows formal codification at provincial level through a decree with statutory force, combined with a unified digital platform that integrates intake, processing, and feedback. **The codification is extensive across procedural and formal elements. It is systematically absent at the substantive criteria row. This asymmetry within Zhejiang's own institutional response is the second observation supporting the vacuum hypothesis.** At municipal level, Hangzhou layers procedural innovations that extend the communicative scope of credit governance and add a temporal stage between violation determination and enforcement.
 
-### 6.3 Liaoning Implementation
+### 7.3 Liaoning Implementation
 
 Liaoning has not issued any provincial statute on credit repair as of mid-2026. The provincial response has run through two distinct tracks. The Credit Certificate Substitution reform, jointly implemented in September 2025 by the Provincial Development and Reform Commission, the Public Security Department, and the Provincial Data Administration, replaces no-violation certifications with specialised credit reports. The platform had issued approximately 1,300 specialised reports replacing roughly 68,000 certifications by late 2025. The reform sits adjacent to credit repair rather than overlapping with it.
 
@@ -223,7 +232,7 @@ Liaoning GDP per capita is approximately 80,000 yuan in 2025. State-owned enterp
 
 (改写) The Liaoning profile shows the absence of provincial statute on credit repair specifically, combined with substantial provincial-level activity in the adjacent Credit Certificate Substitution domain. **This selective non-response pattern reveals that Liaoning's absence of credit repair legislation is not a general institutional passivity but a specific choice about which domains to codify. Provincial legislative attention has been directed to adjacent credit domains but not to credit repair itself.** At municipal level, Dalian and Shenyang produce processing-time innovations that compress administrative timelines within their territorial scope without altering substantive criteria.
 
-### 6.4 Cross-Provincial Comparison
+### 7.4 Cross-Provincial Comparison
 
 (改写) Figure 2 places the coded cases on the four-type matrix. Zhejiang's Decree No. 406 and SAMR Order 107 occupy Type 4 (strong obligation, strong enforcement). NDRC Order 36 and Hangzhou municipal instruments occupy Type 2 (weak to moderate obligation, strong enforcement). Liaoning provincial-level response occupies Type 1 to Type 2 borderline (weak obligation, weak to moderate enforcement).
 
@@ -233,25 +242,31 @@ At the platform infrastructure level, Zhejiang operates the Zhelibàn unified in
 
 At the municipal innovation level, both provinces produce active local experimentation, but the form differs. Hangzhou's innovations (Three Documents Together, Execution Observation Period) extend the communicative scope and temporal structure of credit governance. Dalian and Shenyang's innovations (24-hour completion, immediate approval) compress administrative timelines within their territorial scope without altering substantive criteria.
 
-(改写) **Three features of this comparison require analytical attention. First, both provincial profiles leave substantive criteria for repair decisions ("corrected violation," "fulfilled obligations") undefined at the provincial level. This is true in Zhejiang despite Decree No. 406's extensive procedural codification. It is also true in Liaoning despite the absence of any provincial statute. Second, the municipal innovations in both provinces either expand discretion (Hangzhou's Execution Observation Period adds a stage of official judgment) or compress processing time without touching substance (Dalian and Shenyang). Neither province's municipal experiments codify substantive criteria that the provincial or national framework left open. Third, three administrative tiers (national, provincial, municipal) all leave the same policy element open. This vertical convergence of non-specification, occurring at the same textual location across three tiers of governance, is the empirical foundation for the substantive criteria vacuum hypothesis developed in Section 7.**
+(改写) **Three features of this comparison require analytical attention. First, both provincial profiles leave substantive criteria for repair decisions ("corrected violation," "fulfilled obligations") undefined at the provincial level. This is true in Zhejiang despite Decree No. 406's extensive procedural codification. It is also true in Liaoning despite the absence of any provincial statute. Second, the municipal innovations in both provinces either expand discretion (Hangzhou's Execution Observation Period adds a stage of official judgment) or compress processing time without touching substance (Dalian and Shenyang). Neither province's municipal experiments codify substantive criteria that the provincial or national framework left open. Third, three administrative tiers (national, provincial, municipal) all leave the same policy element open. This vertical convergence of non-specification, occurring at the same textual location across three tiers of governance, is the empirical foundation for the substantive criteria vacuum hypothesis developed in Section 8.**
 
 ---
 
-## 7. Analysis: Four Patterns of Chinese Policy Implementation
+## 8. Analysis: Four Patterns of Chinese Policy Implementation
 
-### 7.1 Substantive Criteria Vacuum (Primary Finding)
+### 8.1 Substantive Criteria Vacuum (Primary Finding)
 
-【新写】本节 7.1 约 500 词。任务：陈述本文的一级结论。这是全文最核心的段落，写作时要保持第三层收缩显性。参考写作结构：
+【新写】本节 8.1 约 500 词。任务：陈述本文的一级结论。写作时保持第三层收缩显性。参考写作结构：
 
 第一段：restate the mechanism。要点：本文识别的核心机制是 substantive criteria vacuum，由中央的 strategic under-specification 与省级的 selective non-response 共同产生。substantive criteria vacuum 位于所有政策要素中的一个具体行——决定申请人能否获得修复的判断词。这一行在国家 (NDRC 36 与 SAMR 107)、省级 (Zhejiang Decree 406) 和市级 (Hangzhou 三书同达与执行观察期、Dalian 24 小时、Shenyang 即时审批) 三个层级都保持未定义。三个层级的留白不是随机分布而是系统性发生在同一位置。这一空间构成 institutional vacuum，即决策发生但没有任何成文规则约束决策依据。
 
 第二段：hypothesis assessment 简明版。要点：三个假说的检验结果全部指向 substantive criteria vacuum 的稳健性。H1 部分成立，Zhejiang 的高发展水平使得省级立法早于国家框架六个月出台，但即使这一先行立法也没有定义 substantive criteria。四川异常点表明 H1 单独不足以解释省级变异。H2 与观察一致但缺 firm-level data 无法直接验证。H3 通过 Liaoning 的选择性立法模式获得间接支持。**核心论点是无论哪个假说更能解释 procedural divergence，substantive criteria vacuum 都在所有观察省份出现**。
 
 第三段：mechanism 的可证伪性和 robustness 排除三个 rival explanations。要点：本文识别的机制是可证伪的。如果任何后续省级立法把 substantive criteria 定义到 operational specificity，本文识别的机制就会 fail 描述新的制度模式。要排除三个 rival explanations。第一是 drafting lag（省份还没时间去具体化），第二是 regulatory deference（省份故意把具体化交给国家），第三是观望假说（辽宁在等浙江路径成熟再模仿）。第一二个假说通过 municipal 层证据排除——市级也没有填补留白反而扩展了裁量。第三个假说通过三条证据排除：时序上 Zhejiang 路径已运作 15 个月而 Liaoning 立法议程仍无信号；Liaoning 在 adjacent 领域主动立法说明不是被动等待；Dalian 2021 市级立法先例说明立法能力存在。综合三条证据，Liaoning 的省级不立法是 selective non-response 而非 institutional delay。
+	Sel 论文对你的 substantive criteria vacuum 论证有一个具体功能：**减轻你在 Section 8.1 承担的 intentionality 证明负担**。
+	你 v7 里 Section 8.1 第三段排除了三个 rival explanations（drafting lag、regulatory deference、观望假说），核心论证是 substantive criteria 的留白是 deliberate 而非偶然。但"deliberate"这个措辞承担了一个证明负担——你需要证明省级政府是有意保留裁量，而不仅仅是政策还没成熟。
+	Sel 提供的路径是：**不主张"有意"，而是主张"consistent with a longer pattern of assembled policy narratives"**。因为 Sel 证明了 SCS 从 1990 年代就是三条独立叙事拼装的产物，vagueness 有 constitutive 的历史根源。你可以借用这个观察说，当前省级 substantive criteria 层的 vagueness 与 SCS 政策域自形成起就是 multi-narrative bundled 结构一致，因此 vagueness 不能被单独归为省级立法能力不足或制度不成熟。
+	具体嵌入位置是 Section 8.1 第三段结尾，加一到两句话。参考写作：
+	**"The ambiguity at the substantive criteria row is also consistent with Sel's (2024) genealogy of SCS as a policy domain assembled from three distinct narrative streams (financial supervision, economic fraud, moral construction) since its 1990s origins. The constitutive plurality of these narratives means that vagueness at the substantive judgment layer has structural roots in the policy's formation, not merely in provincial drafting capacity. This weakens the drafting-lag reading further."**
+	这一段的功能不是替换你原本的 robustness 论证，而是**在既有排除的三个 rival explanations 之外，加一层历史 genealogy 的支撑**。你不需要为此重写 Section 8.1，只需要加两句话。
 
-### 7.2 Experimentation Under Hierarchy (Secondary Observation)
+### 8.2 Experimentation Under Hierarchy (Secondary Observation)
 
-【新写】本节 7.2 约 350 词。任务：陈述二级观察一——试验田模式在两省案例中的体现。参考写作结构：
+【新写】本节 8.2 约 350 词。任务：陈述二级观察一——试验田模式在两省案例中的体现。参考写作结构：
 
 第一段：把 Zhejiang 的先行立法放在 Heilmann (2008) experimentation under hierarchy 框架里。Zhejiang Decree 406 早于 NDRC Order 36 六个月出台的时序是 experimentation under hierarchy 的典型体现。省级承担 institutional experimentation，中央保留 direction-setting 和 pattern-recognition 权力。Zhelibàn 数字平台是 institutional experimentation 的具体载体。用一句话说 Ang (2016) 的 directed improvisation 框架同样解释这一时序。
 
@@ -259,21 +274,21 @@ At the municipal innovation level, both provinces produce active local experimen
 
 第三段：experimentation under hierarchy 与本文核心机制的关系。要点：experimentation 与 substantive criteria vacuum 并不冲突。experimentation 发生在程序、平台、时间等 codifiable 维度上。substantive criteria 从来不在 experimentation 的范围内。这个观察让本文的 primary finding 与 Heilmann-Ang 框架相容而非竞争——experimentation 解释 procedural 变异，substantive criteria vacuum 解释 non-experimentation 的一致模式。这两个 mechanism 在同一政策改革中并行运作。
 
-### 7.3 Top-Level Design and Bypassing National Legislation (Secondary Observation)
+### 8.3 Top-Level Design and Bypassing National Legislation (Secondary Observation)
 
-【新写】本节 7.3 约 500 词。任务：陈述二级观察二——顶层设计与绕开全国立法。这一节比 v5 扩展，加入"通过地方法规绕开国家立法"的显式讨论。参考写作结构：
+【新写】本节 8.3 约 500 词。任务：陈述二级观察二——顶层设计与绕开全国立法。参考写作结构：
 
 第一段：Tsai, Wang, Lin (2021) 的 "top-level design and local discretion" 框架直接对应本文观察到的顶层设计模式。中央通过 NDRC 36 和 SAMR 107 两个部门规章设定框架方向而不通过全国人大立法，这一 institutional choice 本身就是 top-level design。全国人大层面至今没有《社会信用法》酝酿了将近十年但从未出台。这个"高层不通过立法"的选择是路径依赖的具体表现。
 
 第二段：路径依赖具体运作。要点：中央选择通过 State Council Notice、Ministerial Orders 等规范性文件而非法律推进 SCS。这一选择在 SCS 领域延续了十二年 (2014 Planning Outline 到 2026 NDRC 36)。credit repair 是 SCS 领域首批把规范性文件提升到部门规章层级的动作，但仍然停在部门规章而非法律。这一层级选择本身在 Jiang (2020) 论证的中国 dang'an 制度传统里就有历史根源——档案制度从帝国时期到共产党执政一直通过行政规范而非法律运作。credit repair 通过部门规章推进的选择是这一传统的当代表现。
 
-第三段：通过地方法规绕开国家立法的机制。要点：**这一段是新增的显式讨论**。要点：国家层级模糊性不是被动 tolerated 而是主动设计。当国家规定与地方规定出现张力时，实际操作中往往以地方规定为准。此处可以举一个国家法与地方规冲突的具体例子作为类比（**摩托车上高速的例子留位置给你自己补，或者你可以选另一个更容易核实的例子，比如烟花爆竹禁放的国家规定与地方执行差异、共享单车管理的国家指导与地方细则冲突**）。这一段的论点是：国家层级刻意保留模糊性，让地方规定在具体操作中承担实质规则的功能。这不是国家能力缺失，而是把 regulatory space 主动让渡给地方作为治理工具。credit repair 恰好是这一机制的当代具体表现——国家部门规章保留 substantive criteria 模糊，省级立法可以填也可以不填，都在国家框架允许的范围内。
+第三段：通过地方法规绕开国家立法的机制。要点：**这一段留位置给你补摩托车上高速的类比或找一个替代案例（比如烟花爆竹禁放的国家规定与地方执行差异、共享单车管理的国家指导与地方细则冲突）**。这一段的论点是：国家层级刻意保留模糊性，让地方规定在具体操作中承担实质规则的功能。这不是国家能力缺失，而是把 regulatory space 主动让渡给地方作为治理工具。credit repair 恰好是这一机制的当代具体表现——国家部门规章保留 substantive criteria 模糊，省级立法可以填也可以不填，都在国家框架允许的范围内。
 
 第四段：路径依赖与 substantive criteria vacuum 的关系。要点：路径依赖决定了 codification 的 institutional vehicle 是部门规章而非法律。部门规章天然给部委保留更大的定义弹性。国家人大立法通常需要更明确的实质定义，因为立法程序涉及多方协商和公众审议。选择部门规章而非法律，就是选择一个可以合法保留 substantive criteria 弹性的 institutional vehicle。**路径依赖因此不是 substantive criteria vacuum 的替代解释而是它的 institutional 前提条件**。
 
-### 7.4 Widening Provincial Divergence (Secondary Observation)
+### 8.4 Widening Provincial Divergence (Secondary Observation)
 
-【新写】本节 7.4 约 400 词。任务：陈述二级观察三——省级响应差异带来的不平等加深。参考写作结构：
+【新写】本节 8.4 约 400 词。任务：陈述二级观察三——省级响应差异带来的不平等加深。参考写作结构：
 
 第一段：观察陈述。要点：Zhejiang 早于国家框架六个月出台省级立法，Liaoning 至 2026 年中仍无省级立法。这一时间差意味着 Zhejiang 企业享受成文化 credit repair 保护的时间比 Liaoning 企业早 15 个月以上。Zhejiang 因此获得 institutional 优势——企业交易成本降低、修复申请预期稳定、跨省投资信心增强。这些优势通过 credit repair 的成文化实现，不需要额外制度投入。
 
@@ -285,7 +300,7 @@ At the municipal innovation level, both provinces produce active local experimen
 
 ---
 
-## 8. Conclusion
+## 9. Conclusion
 
 【新写】Conclusion 约 500 词，三段结构。
 
@@ -351,21 +366,29 @@ Zhou, X. (2017, revised 2022) _The Logic of Governance in China: An Organization
 
 ## 补读清单
 
-以下五本或几篇如果时间允许可以扫读，功能是把你论文的 argument 定位到更大的 discipline 讨论里，reviewer 会看你 references 里有没有这些书出现。**已列入 references 的不重复。**
+**Ang, Y.Y. (2020) _China's Gilded Age: The Paradox of Economic Boom and Vast Corruption_. Cambridge University Press.** 与 2016 那本互补，如果你 Section 8.4 要谈 provincial divergence 与 corruption 的关系可能用得上。Ang 现在在 JHU，这本引用对你 JHU 申请战略也有价值。
 
-**Ang, Y.Y. (2020) _China's Gilded Age: The Paradox of Economic Boom and Vast Corruption_. Cambridge University Press.** 与 2016 那本互补，如果你 Section 7.4 要谈 provincial divergence 与 corruption 的关系可能用得上。Ang 现在在 JHU，这本引用对你 JHU 申请战略也有价值。
+**Holland (2016) 那篇 APSR 文章。** 只需读 abstract 加 introduction。核心概念 forbearance 你在 Section 4.1 就要用到。如果时间紧张，可以只读文章不读书。
 
-**Holland (2016) 那篇 APSR 文章。** 只需读 abstract 加 introduction。核心概念 forbearance 你在 Section 3.1 就要用到。如果时间紧张，可以只读文章不读书。
+**Heilmann (2008) 那篇 SCID 文章。** 只需读 abstract 加 introduction 加 conclusion。核心概念 experimentation under hierarchy 你在 Section 8.2 用到。Heilmann 那本 _Red Swan_ (2018) 是这个论证的书稿版本，不需读除非你想深入。
 
-**Heilmann (2008) 那篇 SCID 文章。** 只需读 abstract 加 introduction 加 conclusion。核心概念 experimentation under hierarchy 你在 Section 7.2 用到。Heilmann 那本 _Red Swan_ (2018) 是这个论证的书稿版本，不需读除非你想深入。
+**Brinks, Levitsky, Murillo (2019) Cambridge Elements。** 61 页短册子，两小时可以读完。核心章节是 Chapter 1 定义 institutional weakness 三种形态，Chapter 2 论 sources of weakness。Section 4.1 引用来自这本。
 
-**Brinks, Levitsky, Murillo (2019) Cambridge Elements。** 61 页短册子，两小时可以读完。核心章节是 Chapter 1 定义 institutional weakness 三种形态，Chapter 2 论 sources of weakness。Section 3.1 引用来自这本。
+**Zhou Xueguang (2022) _The Logic of Governance in China_。** 这本你 references 已经有了但可能没读过。如果你 Section 4.2 里要真正用 variable coupling 概念，至少读 Chapter 1 加 Chapter 4 (那两章是全书 conceptual core)。
 
-**Zhou Xueguang (2022) _The Logic of Governance in China_。** 这本你 references 已经有了但可能没读过。如果你 Section 3.2 里要真正用 variable coupling 概念，至少读 Chapter 1 加 Chapter 4 (那两章是全书 conceptual core)。
+**Tsai, Wang, Lin (2021) "Hobbling Big Brother" 那篇。** 你 references 已经有了但也需要精读。他们对 mainland 官员的采访方法和"crossing the river"术语你在 Section 4.2 和 Section 8.3 都要引用，最好通读一遍以准确理解他们的论证细节。
 
-**Tsai, Wang, Lin (2021) "Hobbling Big Brother" 那篇。** 你 references 已经有了但也需要精读。他们对 mainland 官员的采访方法和"crossing the river"术语你在 Section 3.2 和 Section 7.3 都要引用，最好通读一遍以准确理解他们的论证细节。
+**Jiang (2020) "A Brief Prehistory" 那篇。** Sofia 写 Section 2 Background 的主要历史来源。你自己也需要通读一遍以准确 review Sofia 的稿子。15 页短论文，一小时可读完。
 
-**Fei Xiaotong (1948) 《乡土中国》。** 你 Section 3.2 用到 granular society 概念。如果你要在正文里用 Fei 的具体表述，至少读英译本《From the Soil》第一章。中文原本更简短，如果你时间紧可以扫读中文版。
+**Fei Xiaotong (1948) 《乡土中国》。** 你 Section 4.2 用到 granular society 概念。如果你要在正文里用 Fei 的具体表述，至少读英译本《From the Soil》第一章。中文原本更简短，如果你时间紧可以扫读中文版。
+
+
+
+**Sel, P. (2024) From Financial Supervision to Morality Construction: Political Narratives of the Social Credit System Policy Process. _The China Review_, 24(3), pp. 275–304.** 30 页正文。免费全文在 ResearchGate：[https://www.researchgate.net/publication/385837404_From_Financial_Supervision_to_Morality_Construction_Political_Narratives_of_the_Social_Credit_System_Policy_Process](https://www.researchgate.net/publication/385837404_From_Financial_Supervision_to_Morality_Construction_Political_Narratives_of_the_Social_Credit_System_Policy_Process) . Project MUSE 版本（可能需要机构订阅）：[https://muse.jhu.edu/pub/250/article/936984/pdf](https://muse.jhu.edu/pub/250/article/936984/pdf) . 精读优先级仅次于 Ma 2024 和 Tsai/Wang/Lin 2021。你只需读 introduction、结论、以及讨论三条叙事的核心段落即可，不必读完 30 页。
+
+**Ahl, B. and Backer, L.C. (2024) Special Issue Introduction: Law and Social Credit in China. _The China Review_, 24(3).** 专刊导读，可以让你看到欧洲 SCS 研究网络的当前引用生态和术语约定。免费 PDF：[https://gssc.uni-koeln.de/sites/gssc/Slider/Ahl_China_Review_Vol._24__No._3_Aug._2024.pdf](https://gssc.uni-koeln.de/sites/gssc/Slider/Ahl_China_Review_Vol._24__No._3_Aug._2024.pdf) . 精读优先级低于 Sel 那篇。1 小时可扫读完，核心目的是核对你 references 里的作者与该专刊主流是否对齐。
+
+**Sel, P. (2025) The Digital Masons: Technology Providers and Social Credit System Construction in China. _Journal of Chinese Political Science_.** Sel 的后续论文，研究技术提供商在 SCS 建构中的角色。**这一篇与你 credit repair 议题不直接相关，可作为你了解 Sel 研究议程的辅助，不必优先读**。DOI: 10.1007/s11366-024-09905-2 。
 
 ---
 
@@ -381,20 +404,20 @@ Zhou, X. (2017, revised 2022) _The Logic of Governance in China: An Organization
 
 论证顺序：先给结论，再给证据。段落里 claim → data → interpretation 的顺序。
 
-**术语一致性**：全文使用 Strategic Under-specification / Selective Non-Response / Institutional Vacuum / Substantive Criteria 四个术语。第一次出现时都在 Section 4 定义清楚，之后各处引用都指向 Section 4 定义。**不允许在其他章节临时替换为同义表述**。
+**术语一致性**：全文使用 Strategic Under-specification / Selective Non-Response / Institutional Vacuum / Substantive Criteria 四个术语。第一次出现时都在 Section 5 定义清楚，之后各处引用都指向 Section 5 定义。**不允许在其他章节临时替换为同义表述**。
 
-**收缩层次显性**：核心结论句必须落在第三层或第四层（识别具体 institutional site + 具体 empirical 案例）。特别检查 Section 1.4、Section 4 第三段、Section 7.1、Section 8，这四处最容易滑回第一层的"中国治理保留裁量"宏观表述。
+**收缩层次显性**：核心结论句必须落在第三层或第四层。特别检查 Section 1.4、Section 5 第三段、Section 8.1、Section 9，这四处最容易滑回第一层的"中国治理保留裁量"宏观表述。
 
-**Case selection**：Section 5 第二段必须显式说明 most-different systems design 与三个 H 的映射。
+**Case selection**：Section 6 第二段必须显式说明 most-different systems design 与三个 H 的映射。
 
-**Substantive Criteria 定义**：Section 4 第二段必须列出所有具体判断词 (已改正违法行为、履行相应义务、消除危害后果、主动纠正、消除危害、无同类违法行为再犯) 并说明这些词在哪些文件里出现且都未被定义。
+**Substantive Criteria 定义**：Section 5 第二段必须列出所有具体判断词并说明这些词在哪些文件里出现且都未被定义。
 
-**Intentionality**：Section 7.1 第三段必须处理 drafting lag、regulatory deference、观望假说三个 rival explanations。观望假说通过时序 + adjacent 领域立法 + Dalian 市级先例三条证据排除。
+**Intentionality**：Section 8.1 第三段必须处理 drafting lag、regulatory deference、观望假说三个 rival explanations。
 
-**Scope**：Section 5 第三段必须写清楚 de jure vs de facto 分界。
+**Scope**：Section 6 第三段必须写清楚 de jure vs de facto 分界。
 
-**摩托车类比或替代案例**：Section 7.3 第三段留了位置给你补一个国家法与地方规冲突的具体案例。使用前必须自己核实法律条文和地方规定。如果找不到合适案例，这一段的论点仍然成立，但会缺少一个具体的类比锚点。
+**摩托车类比或替代案例**：Section 8.3 第三段留了位置给你补一个国家法与地方规冲突的具体案例。使用前必须自己核实法律条文和地方规定。
 
-**Fei Xiaotong 引用格式**：Section 3.2 第一段引用 Fei (1948)。中文原本引用格式：费孝通（1948）《乡土中国》上海：观察社。英译本引用格式：Fei, X. (1948, trans. Hamilton and Wang 1992) _From the Soil_. Berkeley: University of California Press. 按你手头能拿到的版本引用即可。
+**Sofia 交稿后的整合**：Sofia 交 Section 2 Background 之后你需要做三件事。第一，标点纪律清理（去掉所有 semicolon、em dash、正文里的 colon）。第二，检查 Section 3.3 SCS Scholarship 里 Jiang 引用没有重复 Section 2 的历史事实。第三，检查 Section 1.3 转场句"Section 2 develops the historical and institutional background"是否与 Sofia 实际写出的 Section 2 内容匹配，如不匹配调整转场句。
 
 **投稿前 references 核实**：Chen, Loefflad, Grossklags (2026) 已核实。Tsai, Wang, Lin (2021) 已核实。所有其他引用作者名、期刊卷号、页码 draft 完成后再统一核对一次。
