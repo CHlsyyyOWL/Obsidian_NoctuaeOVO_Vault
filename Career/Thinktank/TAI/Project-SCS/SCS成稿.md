@@ -202,23 +202,7 @@ Liaoning GDP per capita is approximately 80,000 yuan in 2025. State-owned enterp
 
 (改写) The Liaoning profile shows the absence of provincial statute on credit repair specifically, combined with substantial provincial-level activity in the adjacent Credit Certificate Substitution domain. **This selective non-response pattern reveals that Liaoning's absence of credit repair legislation is not a general institutional passivity but a specific choice about which domains to codify. Provincial legislative attention has been directed to adjacent credit domains but not to credit repair itself.** At municipal level, Dalian and Shenyang produce processing-time innovations that compress administrative timelines within their territorial scope without altering substantive criteria.
 
-### 7.4 Cross-Provincial Comparison 
-
-<font color="#ff0000">如果改成打分制度，辽宁和浙江的数据分析图再重新做，可以做一个数据增长图？额外精力，一张每年新增多少文件，一个每个月自从三大文件的第一个出台后，每个图三个bar，省市县，这里放打分之后的对比图</font>
-
-(改写) Figure 2 places the coded cases on the four-type matrix. Zhejiang's Decree No. 406 and SAMR Order 107 occupy Type 4 (strong obligation, strong enforcement). NDRC Order 36 and Hangzhou municipal instruments occupy Type 2 (weak to moderate obligation, strong enforcement). Liaoning provincial-level response occupies Type 1 to Type 2 borderline (weak obligation, weak to moderate enforcement).
-
-At the provincial regulatory level, Zhejiang has codified credit repair through a provincial decree with statutory force, while Liaoning has not. Zhejiang's Decree No. 406 fixes timelines, intake procedures, and jurisdictional boundaries. Liaoning's provincial response has been concentrated in the adjacent Credit Certificate Substitution reform rather than in a credit repair statute.
-
-At the platform infrastructure level, Zhejiang operates the Zhelibàn unified intake platform with tracking and feedback functions, while Liaoning relies on the national Credit China platform as the default interface for credit repair specifically. Liaoning's separate platform-building effort has been directed at the Credit Certificate Substitution infrastructure.
-
-At the municipal innovation level, both provinces produce active local experimentation, but the form differs. Hangzhou's innovations (Three Documents Together, Execution Observation Period) extend the communicative scope and temporal structure of credit governance. Dalian and Shenyang's innovations (24-hour completion, immediate approval) compress administrative timelines within their territorial scope without altering substantive criteria.
-
-(改写) **Three features of this comparison require analytical attention. First, both provincial profiles leave substantive criteria for repair decisions ("corrected violation," "fulfilled obligations") undefined at the provincial level. This is true in Zhejiang despite Decree No. 406's extensive procedural codification. It is also true in Liaoning despite the absence of any provincial statute. Second, the municipal innovations in both provinces either expand discretion (Hangzhou's Execution Observation Period adds a stage of official judgment) or compress processing time without touching substance (Dalian and Shenyang). Neither province's municipal experiments codify substantive criteria that the provincial or national framework left open. Third, three administrative tiers (national, provincial, municipal) all leave the same policy element open. This vertical convergence of non-specification, occurring at the same textual location across three tiers of governance, is the empirical foundation for the substantive criteria vacuum hypothesis developed in Section 8.**
-
----
-
-s'd'x'ca's'da'f'sa'd'f## 8. Analysis: Four Patterns of Chinese Policy Implementation
+sdxcasdafsadf## 8. Analysis: Four Patterns of Chinese Policy Implementation
 
 ### 8.1 Substantive Criteria Vacuum (Primary Finding)
 
