@@ -218,7 +218,7 @@ At the municipal innovation level, both provinces produce active local experimen
 
 ---
 
-## 8. Analysis: Four Patterns of Chinese Policy Implementation
+s'd'x'ca's'da'f'sa'd'f## 8. Analysis: Four Patterns of Chinese Policy Implementation
 
 ### 8.1 Substantive Criteria Vacuum (Primary Finding)
 
