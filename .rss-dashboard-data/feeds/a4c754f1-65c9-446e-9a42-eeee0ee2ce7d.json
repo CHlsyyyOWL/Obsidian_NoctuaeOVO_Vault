@@ -2,8 +2,33 @@
   "version": 1,
   "feedId": "a4c754f1-65c9-446e-9a42-eeee0ee2ce7d",
   "feedUrl": "https://philosophybites.libsyn.com/rss",
-  "updatedAt": 1785128949658,
+  "updatedAt": 1785486743584,
   "items": [
+    {
+      "title": "Peter Singer on Ending Innocent Lives",
+      "link": "https://philosophybites.libsyn.com/peter-singer-on-ending-innocent-lives",
+      "description": "<p data-pm-slice=\"1 1 []\">The utilitarian philosopher Peter Singer has controversial views about when it is acceptable to end a human life. In conversation with David Edmonds he explains his approach, using examples from a range of areas, including infanticide. Some listeners may find some aspects of this discussion disturbing.</p>",
+      "content": "<p data-pm-slice=\"1 1 []\">The utilitarian philosopher Peter Singer has controversial views about when it is acceptable to end a human life. In conversation with David Edmonds he explains his approach, using examples from a range of areas, including infanticide. Some listeners may find some aspects of this discussion disturbing.</p>",
+      "pubDate": "Thu, 30 Jul 2026 09:18:00 +0000",
+      "guid": "https://philosophybites.libsyn.com/9d778af7-e210-4250-8dff-f757fe53b20e",
+      "feedTitle": "Philosophy Bites",
+      "feedUrl": "https://philosophybites.libsyn.com/rss",
+      "coverImage": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg",
+      "summary": "The utilitarian philosopher Peter Singer has controversial views about when it is acceptable to end a human life. In conversation with David Edmonds he explains his approach, using examples from a range of areas, includi...",
+      "author": "Edmonds and Warburton",
+      "mediaType": "podcast",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": "",
+      "enclosure": {
+        "url": "https://traffic.libsyn.com/secure/philosophybites/Peter_Singer_on_Ending_Innocent_Lives.m4a?dest-id=14010",
+        "type": "audio/mp4",
+        "length": "23581678"
+      },
+      "audioUrl": "https://traffic.libsyn.com/secure/philosophybites/Peter_Singer_on_Ending_Innocent_Lives.m4a?dest-id=14010",
+      "fallbackIconUrl": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg"
+    },
     {
       "title": "Jing Hu on Songzi on Insults and Shame",
       "link": "https://philosophybites.libsyn.com/jing-hu-on-songzi-on-insults-and-shame",
@@ -548,25 +573,6 @@
         "length": "16836851"
       },
       "audioUrl": "https://traffic.libsyn.com/secure/philosophybites/Sanchez_MixSes.mp3?dest-id=14010",
-      "fallbackIconUrl": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg"
-    },
-    {
-      "title": "Carlos Alberto Sánchez on Mexican Philosophy",
-      "link": "https://philosophybites.libsyn.com/carlos-alberto-snchez-on-mexican-philosophy",
-      "description": "<p>What is distinctive about Mexican philosophy? How much is it linked to its geopolitical context? Carlos Alberto Sanchez, author of Blooming in the Ruins, a book about major themes in 20th century Mexican philosophy discusses this topic in conversation with David Edmonds.</p> <p>This episode was supported by the Ideas Workshop, part of Open Society Foundations.</p>",
-      "content": "<p>What is distinctive about Mexican philosophy? How much is it linked to its geopolitical context? Carlos Alberto Sanchez, author of Blooming in the Ruins, a book about major themes in 20th century Mexican philosophy discusses this topic in conversation with David Edmonds.</p> <p>This episode was supported by the Ideas Workshop, part of Open Society Foundations.</p>",
-      "pubDate": "2025-09-02 15:22:00",
-      "guid": "https://philosophybites.libsyn.com/carlos-alberto-snchez-on-mexican-philosophy",
-      "feedTitle": "Philosophy Bites",
-      "feedUrl": "https://philosophybites.libsyn.com/rss",
-      "coverImage": "",
-      "summary": "What is distinctive about Mexican philosophy? How much is it linked to its geopolitical context? Carlos Alberto Sanchez, author of Blooming in the Ruins, a book about major themes in 20th century Mexican philosophy discu...",
-      "author": "",
-      "mediaType": "podcast",
-      "explicit": false,
-      "image": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg",
-      "category": "",
-      "episodeType": "",
       "fallbackIconUrl": "https://static.libsyn.com/p/assets/6/6/2/9/6629afb289ae5c80/philo_bites.jpg"
     }
   ]
