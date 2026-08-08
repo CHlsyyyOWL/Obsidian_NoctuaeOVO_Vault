@@ -1,0 +1,839 @@
+{
+  "version": 1,
+  "states": {
+    "https://www.bbc.co.uk/news/videos/clye173d533o": {
+      "tags": [
+        {
+          "name": "Video",
+          "color": "#d04747"
+        }
+      ]
+    },
+    "https://www.bbc.co.uk/news/videos/c9q91dnljpeo": {
+      "tags": [
+        {
+          "name": "Video",
+          "color": "#d04747"
+        }
+      ]
+    },
+    "https://www.bbc.co.uk/news/videos/c9d8662gyx5o": {
+      "tags": [
+        {
+          "name": "Video",
+          "color": "#d04747"
+        }
+      ]
+    },
+    "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o": {
+      "tags": [
+        {
+          "name": "Video",
+          "color": "#d04747"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/59a20b9e-2bde-4d30-8a6e-1663f714a28c": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/3749efd5-2ddf-4faf-9aee-3f70e6bc1780": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/7e9bb266-dc12-48da-864f-4fa3d88c4ff0": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/e8ab53ae-d91a-4a02-95fa-eb2f4f202dff": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/1e6d5ad4-d2a0-43d5-bd40-7ba728ceb17b": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/a91e6ac1-95f2-45dd-afe7-d6c19cbd93f0": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/03f0cab5-6cf6-4805-8e92-0457f606eb60": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/751294f4-baee-4962-b2dc-7c42433c9f42": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/4d165eae-0124-4910-9273-e528410b8995": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/10aa0938-6426-4ad2-b3e3-d1bcea915fc5": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/1f18c97d-24a8-45f6-b6c1-345024d54a79": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/10d1d13c-3c04-4538-8830-42823dc09cd0": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/f41502b9-84de-42dd-9199-a32da69dcf3b": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/538284e9-911f-4b56-b72e-fbf5fecd8845": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/54855620-0280-4b4e-8c6a-7b1acedf6b1d": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/c1efc661-c70e-4bb7-96d9-abe77dea6488": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/83965796-a10f-412b-b9ae-0b906a01cf51": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/f82357e8-36df-4d72-9a7d-490c6083b1c8": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/2a621e39-cd5a-4c60-b75b-ccb3eb491309": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/c1fafef0-6885-4289-a0d4-1b0fe5e2ecaa": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/84039269-3e8f-4e23-8656-b29cebc0587b": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/f4e69597-51f2-4ce3-9252-c92d775ab435": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/3c3d7d70-b47b-4d06-bd80-afe433378530": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/4d67b808-cbc4-4dc6-a283-89c2b6b9565b": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://feeds.simplecast.com/7433d212-911a-4abd-b058-4943b6bbb44e": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/38a388e1-90e2-44ea-8581-4ef7537a64e4": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/live-event-in-nyc-thursday-may-14": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/c212286e-cf9d-48d5-89d5-cf804209b370": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/frauncis-tavern-july-5-patreon-qa-july-14": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/81b64c27-af0d-4180-9839-c4db407aa671": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/1129-liberty-equality-humanity": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/48e887b3-9a9f-4c93-8cb7-12d7cc06802c": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/1128-bloody-sunset": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/17956c95-4da4-496f-99ed-09e3b334cf2d": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/1127-the-revolutuionary-underground": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/4359456f-0bd5-45de-9ef6-30803613d57a": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/1126-the-invasion-of-mars": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/fa354f60-bb59-4a6b-bbe3-1609aef74b61": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/1125-the-disaster": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/f94308ae-d146-4d8f-8cb6-47ea515d28b9": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/1124-the-trial-of-the-earthworms": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/8b22e062-3ba8-438e-a25c-d1195f823037": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/1123-the-trail-of-the-earthlings": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/51b4d4aa-9d65-4f89-a5e6-4e79b2441450": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/1122-leopolds-leviathan": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/fc03f5f5-d96d-4e84-87c3-757f273a353e": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/1121-the-republic-of-mars": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/b93aae5e-3cd4-455c-bf95-09023d094876": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/743e4402-add3-495b-a642-87ffa24027fc": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://revolutionspodcast.libsyn.com/7f654b64-b571-4d98-9f73-889c89ec3e53": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002ym24": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002ym24": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002ybbq": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002ybbq": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002y1bt": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002y1bt": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002xrpb": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002xrpb": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002xdlb": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002xdlb": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002x45x": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002x45x": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002wv56": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002wv56": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002sfvg": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002sfvg": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002s4dg": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002s4dg": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002rqlt": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "http://www.bbc.co.uk/programmes/m002rqlt": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002rdqp": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002r4rn": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002qrks": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002qjbw": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "urn:bbc:podcast:m002fvkv": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/9d778af7-e210-4250-8dff-f757fe53b20e": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/2846c381-dbfb-44d9-b77e-8c4f91ffffbf": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/4f513117-0847-4f4c-8d9b-3a8a8bbaabd6": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/074f470b-9b42-465c-bfed-4ae3d7a70d65": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/fa7e018a-1c7c-49c4-ab93-9b78249c7315": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/cf78f8e9-459c-4237-ab3e-a1ae931d0a5b": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/56bbec23-24b7-43d6-99e8-a678b79c4005": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/alexander-guerrero-on-lottocracy": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/d8a88fd0-31ab-4b41-b876-b28deb09e6d1": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/tarun-khaitan-on-decolonising-institutions": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/3fbb03ce-01ae-455f-9b8e-27ab0c12e061": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/janet-radcliffe-richards-on-what-is-philosophy": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/8d0974e8-bf4c-4065-be16-8fd891e1b6b0": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/chike-jeffers-on-afrikana-philosphy": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/3e7dc20d-16d0-4426-8905-f77c7158879a": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/angie-hobbs-on-plato-on-power": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/c9ce2756-b562-48ff-9151-b6e6a4dd6543": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/samuel-scheffler-on-grief-and-time": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/9ea2eaaa-db68-49b3-aee7-c73707d8a0d7": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/edouard-machery-on-variations-in-responses-to-thought-experiments": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/16d219c2-2513-469e-b8b4-1be054af9651": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/lewis-gordon-on-frantz-fanon": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/049fd74a-8489-4231-8396-ff7287cf63d3": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/david-edmonds-on-peter-singers-shallow-pond-thought-experiment": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    },
+    "https://philosophybites.libsyn.com/1fd730fd-4f4a-4320-b66a-b836070e2b55": {
+      "tags": [
+        {
+          "name": "Podcast",
+          "color": "#8e44ad"
+        }
+      ]
+    }
+  },
+  "_syncNonce": "1785880898477-31",
+  "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
+}
