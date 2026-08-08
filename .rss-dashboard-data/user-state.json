@@ -1,7 +1,7 @@
 {
   "version": 1,
   "states": {
-    "https://www.bbc.co.uk/news/videos/clye173d533o": {
+    "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo": {
       "tags": [
         {
           "name": "Video",
@@ -9,7 +9,7 @@
         }
       ]
     },
-    "https://www.bbc.co.uk/news/videos/c9q91dnljpeo": {
+    "https://www.bbc.co.uk/news/videos/c70glx1ww78o": {
       "tags": [
         {
           "name": "Video",
@@ -17,7 +17,7 @@
         }
       ]
     },
-    "https://www.bbc.co.uk/news/videos/c9d8662gyx5o": {
+    "https://www.bbc.co.uk/news/videos/c1j1eg31y6no": {
       "tags": [
         {
           "name": "Video",
@@ -25,7 +25,7 @@
         }
       ]
     },
-    "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o": {
+    "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o": {
       "tags": [
         {
           "name": "Video",
@@ -433,6 +433,14 @@
         }
       ]
     },
+    "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video": {
+      "tags": [
+        {
+          "name": "Video",
+          "color": "#d04747"
+        }
+      ]
+    },
     "urn:bbc:podcast:m002ym24": {
       "tags": [
         {
@@ -832,128 +840,8 @@
           "color": "#8e44ad"
         }
       ]
-    },
-    "https://www.bbc.co.uk/news/videos/cdx7lg950gdo": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://www.bbc.co.uk/news/videos/cly8xvvj8yro": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://feeds.simplecast.com/77b851f1-44d8-4298-98df-3c6b343c0f0a": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "https://revolutionspodcast.libsyn.com/766622a2-2493-4a26-9dda-d2bb4851b254": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m002fjnx": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m002f8mk": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m002dzg9": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m002dnjq": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m002dbt4": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m002d0cn": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m00298p2": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m002900x": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m0028sxw": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
-    },
-    "urn:bbc:podcast:m0028jlg": {
-      "tags": [
-        {
-          "name": "Podcast",
-          "color": "#8e44ad"
-        }
-      ]
     }
   },
-  "_syncNonce": "1785501099810-39",
-  "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
+  "_syncNonce": "1786182164878-33",
+  "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
 }
