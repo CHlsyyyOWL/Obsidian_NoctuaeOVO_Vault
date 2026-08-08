@@ -297,12 +297,12 @@
       "id": "f4a776c8-0a23-4452-b682-f72be036e239",
       "type": "dynamicDataView",
       "titleAlign": "center",
-      "tabTitle": "Book",
+      "tabTitle": "Shelf",
       "maxWidthRatio": -1,
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-03-21T15:37:41.023Z",
-      "updateAt": "2025-03-21T15:37:41.023Z",
+      "updateAt": "2026-07-28T05:21:53.091Z",
       "viewType": "gallary",
       "newPageNameFormat": "{{date: YYMMDD}}",
       "properties": [
@@ -313,6 +313,24 @@
           "isShow": true,
           "wrap": false,
           "options": {}
+        },
+        {
+          "id": "a107b588-0454-4174-b139-8ec7222e176e",
+          "name": "Date",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {},
+          "alias": ""
+        },
+        {
+          "id": "2a534d6d-214f-4bb4-a98e-afe1fd197a42",
+          "name": "未命名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {},
+          "alias": ""
         }
       ],
       "templates": [],
@@ -354,7 +372,7 @@
             "type": "filter",
             "operator": "contains",
             "property": "${file.path}",
-            "value": "Study/Noctuae Celsum/Books",
+            "value": "Study/Noctuae Celsum/Books/Books documents",
             "conditions": []
           }
         ]
@@ -363,7 +381,8 @@
         "location": "Study/Noctuae Celsum/Books/Book Notes"
       },
       "components": [],
-      "showTitle": false
+      "showTitle": false,
+      "title": "Shelf"
     },
     {
       "id": "d7eea145-14a0-49eb-a71c-715a54899d8f",
@@ -637,12 +656,12 @@
       "id": "ce97174b-2179-4ad5-962d-57b73395a5df",
       "type": "multi",
       "titleAlign": "center",
-      "tabTitle": "Books",
+      "tabTitle": "Literature",
       "maxWidthRatio": -1,
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-06-18T07:25:07.032Z",
-      "updateAt": "2025-06-18T07:25:07.032Z",
+      "updateAt": "2026-07-28T03:20:57.217Z",
       "components": [
         {
           "componentId": "f4a776c8-0a23-4452-b682-f72be036e239"
@@ -653,7 +672,8 @@
       ],
       "layoutType": "tab",
       "locked": false,
-      "layoutOptions": {}
+      "layoutOptions": {},
+      "title": "Literature"
     },
     {
       "id": "ad24500e-a274-439e-bc9a-8c8e7d8e5483",
@@ -664,10 +684,21 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-06-25T08:40:56.250Z",
-      "updateAt": "2025-06-25T08:40:56.250Z",
-      "viewType": "kanban",
+      "updateAt": "2026-07-28T05:29:10.151Z",
+      "viewType": "table",
       "newPageNameFormat": "{{date: YYYY-MM-DD}}",
       "properties": [
+        {
+          "id": "4a02d757-9e18-4ff9-966a-aaeb2b339833",
+          "name": "Date",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {
+            "width": "80"
+          },
+          "alias": ""
+        },
         {
           "id": "__componentsTitleProperty_0x7c00",
           "name": "文件名",
@@ -677,39 +708,43 @@
           "options": {}
         },
         {
-          "id": "03ff0229-4498-464a-b770-86e8e9fb6669",
-          "name": "tags",
-          "isShow": false,
-          "type": "select",
+          "id": "51a3f66f-ebc1-4de1-a897-2db64144baf5",
+          "name": "Literature",
+          "isShow": true,
+          "type": "text",
           "options": {
-            "formula": ""
+            "width": "94"
           }
         },
         {
-          "id": "3e55a505-ec4d-45f1-b5de-518ecead1cc3",
-          "name": "Article Notes",
-          "isShow": false,
-          "type": "multiSelect",
-          "options": {}
+          "id": "f03374fa-f982-4f47-ab2a-a1b422bb83cd",
+          "name": "Progress",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {
+            "width": "112"
+          },
+          "alias": ""
         },
         {
-          "id": "428e4ffb-5e5b-4f49-9bce-010cbf8e803c",
-          "name": "Book Notes",
-          "isShow": false,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
-          "id": "4d492b75-4ad2-472d-a2f2-dbf4026b3e92",
-          "name": "tags 1",
+          "id": "e2633032-19cf-4e2c-9915-3b4e4c38e879",
+          "name": "aliases",
           "isShow": true,
           "type": "multiSelect",
           "options": {}
         }
       ],
-      "templates": [],
+      "templates": [
+        {
+          "id": "31cf9a1d-be77-4745-8c87-ef268d83934f",
+          "path": "Vault Tool Box/Templates/Tp_Literature.md",
+          "name": "Tp_Literature.md",
+          "type": "templater"
+        }
+      ],
       "groups": [],
-      "colorfulGroups": true,
+      "colorfulGroups": false,
       "viewOptions": {
         "openPageIn": "tab",
         "openPageAfterCreate": true,
@@ -734,7 +769,9 @@
         "format": "none",
         "statics": [],
         "orders": [],
-        "hiddens": [],
+        "hiddens": [
+          "__$uncategorizedGroup"
+        ],
         "collapseds": []
       },
       "filter": {
@@ -743,20 +780,21 @@
         "operator": "and",
         "conditions": [
           {
-            "id": "8b786090-b5a2-476e-9a64-34e014803c86",
+            "id": "c0005596-6cd4-4f0a-8c75-6150af19860b",
             "type": "filter",
             "operator": "contains",
             "property": "${file.path}",
-            "value": "Study/Noctuae Celsum/Books/Book Notes",
+            "value": "Study/Noctuae Celsum/Notes",
             "conditions": []
           }
         ]
       },
       "newPageLocation": {
-        "location": "Study/Noctuae Celsum/Books/Book Notes"
+        "location": "Study/Noctuae Celsum/Notes"
       },
-      "groupBy": "Book Notes",
-      "showTitle": false
+      "groupBy": "Literature",
+      "showTitle": false,
+      "defaultTemplate": "31cf9a1d-be77-4745-8c87-ef268d83934f"
     },
     {
       "id": "f0becc81-9bad-4bbd-b96d-9b76602b2f21",
@@ -1406,7 +1444,7 @@
       "showTitle": true,
       "showShadow": false,
       "createAt": "2026-03-12T12:58:43.171Z",
-      "updateAt": "2026-06-11T12:35:05.186Z",
+      "updateAt": "2026-07-27T07:16:21.642Z",
       "maxHeight": 300,
       "contentAlign": "left",
       "markdownsSource": "content",

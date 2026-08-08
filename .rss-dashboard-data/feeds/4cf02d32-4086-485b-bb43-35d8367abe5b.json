@@ -2,7 +2,7 @@
   "version": 1,
   "feedId": "4cf02d32-4086-485b-bb43-35d8367abe5b",
   "feedUrl": "https://openai.com/news/rss.xml",
-  "updatedAt": 1785880898445,
+  "updatedAt": 1785490299871,
   "items": [
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -141,8 +141,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "Building abundant intelligence",
@@ -181,8 +180,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "Disrupting a Criminal Scam Operation",
@@ -221,8 +219,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
@@ -241,8 +238,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
@@ -261,8 +257,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
@@ -281,8 +276,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
@@ -301,8 +295,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "Scientific computing in the age of agentic AI",
@@ -321,8 +314,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "How AI is expanding what people do at work",
@@ -341,8 +333,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -361,8 +352,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "Building AI infrastructure with the Effingham County community",
@@ -381,8 +371,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "How news organizations are using AI to advance their vital missions",
@@ -401,8 +390,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "Advancing the next era of national science",
@@ -421,8 +409,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "Introducing OpenAI Presence",
@@ -441,8 +428,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
@@ -461,8 +447,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "Introducing the ChatGPT for small business program",
@@ -481,8 +466,7 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
     },
     {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -501,8 +485,159 @@
       "explicit": false,
       "image": "",
       "category": "",
-      "episodeType": "",
-      "fallbackIconUrl": "https://openai.com/apple-icon.png"
+      "episodeType": ""
+    },
+    {
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "description": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "content": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "guid": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "feedTitle": "OpenAI News",
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "coverImage": "",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "author": "",
+      "mediaType": "article",
+      "duration": "",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": ""
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "content": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "pubDate": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "guid": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "feedTitle": "OpenAI News",
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "coverImage": "",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "author": "",
+      "mediaType": "article",
+      "duration": "",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": ""
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "content": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "guid": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "feedTitle": "OpenAI News",
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "coverImage": "",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "author": "",
+      "mediaType": "article",
+      "duration": "",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": ""
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "content": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "guid": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "feedTitle": "OpenAI News",
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "coverImage": "",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "author": "",
+      "mediaType": "article",
+      "duration": "",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": ""
+    },
+    {
+      "title": "How Codex became a collaborator for OpenAI’s creative team",
+      "link": "https://openai.com/index/codex-collaborator-creative-team",
+      "description": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "content": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "guid": "https://openai.com/index/codex-collaborator-creative-team",
+      "feedTitle": "OpenAI News",
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "coverImage": "",
+      "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "author": "",
+      "mediaType": "article",
+      "duration": "",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": ""
+    },
+    {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "link": "https://openai.com/index/cars24",
+      "description": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "content": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "guid": "https://openai.com/index/cars24",
+      "feedTitle": "OpenAI News",
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "coverImage": "",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "author": "",
+      "mediaType": "article",
+      "duration": "",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": ""
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "content": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "guid": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "feedTitle": "OpenAI News",
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "coverImage": "",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "author": "",
+      "mediaType": "article",
+      "duration": "",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": ""
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "content": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "guid": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "feedTitle": "OpenAI News",
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "coverImage": "",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "author": "",
+      "mediaType": "article",
+      "duration": "",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": ""
     }
   ]
 }

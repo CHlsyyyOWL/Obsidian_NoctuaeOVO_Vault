@@ -3,8 +3,7 @@ tags:
   - economics
   - politics
 Date: 2025-02-27
-Book Notes:
-  - 暂停
+Literature: BookNote
 aliases:
   - 文明的冲突
 ---

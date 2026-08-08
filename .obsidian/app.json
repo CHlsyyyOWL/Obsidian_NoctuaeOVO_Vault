@@ -10,5 +10,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "Unorganized/Attachment",
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true
 }
