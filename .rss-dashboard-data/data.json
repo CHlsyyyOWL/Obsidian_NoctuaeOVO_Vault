@@ -4,7 +4,7 @@
       "title": "The New York Times - Top Stories",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182157858,
+      "lastUpdated": 1786257667166,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -17,10 +17,10 @@
       },
       "siteUrl": "https://www.nytimes.com",
       "lastRefreshDiagnostics": {
-        "fetchedItemCount": 24,
-        "mergedItemCountBeforeRetention": 49,
+        "fetchedItemCount": 14,
+        "mergedItemCountBeforeRetention": 36,
         "retainedItemCount": 25,
-        "retentionRemovedCount": 24,
+        "retentionRemovedCount": 11,
         "skippedByRefreshCutoffCount": 0
       },
       "feedId": "cde47748-6596-4aa5-b628-3606d36b20bc"
@@ -29,7 +29,7 @@
       "title": "BBC News - World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182160022,
+      "lastUpdated": 1786257668586,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -42,10 +42,10 @@
       },
       "siteUrl": "https://www.bbc.co.uk/news/world",
       "lastRefreshDiagnostics": {
-        "fetchedItemCount": 37,
-        "mergedItemCountBeforeRetention": 62,
+        "fetchedItemCount": 32,
+        "mergedItemCountBeforeRetention": 38,
         "retainedItemCount": 25,
-        "retentionRemovedCount": 37,
+        "retentionRemovedCount": 13,
         "skippedByRefreshCutoffCount": 0
       },
       "feedId": "5e36dfaa-b073-495a-9a9e-f4c0db3cce33"
@@ -54,7 +54,7 @@
       "title": "The Economist – Finance & Economics",
       "url": "https://www.economist.com/finance-and-economics/rss.xml",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182159575,
+      "lastUpdated": 1786257667857,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -68,9 +68,9 @@
       "siteUrl": "https://www.economist.com/finance-and-economics",
       "lastRefreshDiagnostics": {
         "fetchedItemCount": 300,
-        "mergedItemCountBeforeRetention": 301,
+        "mergedItemCountBeforeRetention": 300,
         "retainedItemCount": 25,
-        "retentionRemovedCount": 276,
+        "retentionRemovedCount": 275,
         "skippedByRefreshCutoffCount": 0
       },
       "feedId": "9076dc86-715d-4a02-94c3-80688e297ef2"
@@ -79,7 +79,7 @@
       "title": "Foreign Affairs",
       "url": "https://www.foreignaffairs.com/rss.xml",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182157731,
+      "lastUpdated": 1786257667611,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -93,9 +93,9 @@
       "siteUrl": "https://www.foreignaffairs.com/",
       "lastRefreshDiagnostics": {
         "fetchedItemCount": 20,
-        "mergedItemCountBeforeRetention": 32,
+        "mergedItemCountBeforeRetention": 25,
         "retainedItemCount": 25,
-        "retentionRemovedCount": 7,
+        "retentionRemovedCount": 0,
         "skippedByRefreshCutoffCount": 0
       },
       "feedId": "06f945cc-1ba7-43eb-ab08-5baaae23963e"
@@ -104,7 +104,7 @@
       "title": "OpenAI News",
       "url": "https://openai.com/news/rss.xml",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182158777,
+      "lastUpdated": 1786257669542,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -129,7 +129,7 @@
       "title": "EconTalk",
       "url": "https://feeds.simplecast.com/wgl4xEgL",
       "folder": "Podcasts",
-      "lastUpdated": 1786182159548,
+      "lastUpdated": 1786257669339,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -153,7 +153,7 @@
       "title": "Daily JSTOR",
       "url": "http://daily.jstor.org/feed/",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182157992,
+      "lastUpdated": 1786257667131,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -166,9 +166,9 @@
       },
       "lastRefreshDiagnostics": {
         "fetchedItemCount": 10,
-        "mergedItemCountBeforeRetention": 28,
+        "mergedItemCountBeforeRetention": 25,
         "retainedItemCount": 25,
-        "retentionRemovedCount": 3,
+        "retentionRemovedCount": 0,
         "skippedByRefreshCutoffCount": 0
       },
       "siteUrl": "https://daily.jstor.org/",
@@ -178,7 +178,7 @@
       "title": "Revolutions",
       "url": "https://revolutionspodcast.libsyn.com/rss",
       "folder": "Podcasts",
-      "lastUpdated": 1786182159121,
+      "lastUpdated": 1786257668270,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -203,12 +203,12 @@
       "title": "The Guardian - World News",
       "url": "https://www.theguardian.com/world/rss",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182162552,
+      "lastUpdated": 1786257669598,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
-      "mediaType": "video",
-      "iconUrl": "",
+      "mediaType": "article",
+      "iconUrl": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png",
       "keywordRules": {
         "overrideGlobalRules": false,
         "includeLogic": "AND",
@@ -217,9 +217,9 @@
       "siteUrl": "https://www.theguardian.com/world",
       "lastRefreshDiagnostics": {
         "fetchedItemCount": 45,
-        "mergedItemCountBeforeRetention": 70,
+        "mergedItemCountBeforeRetention": 61,
         "retainedItemCount": 25,
-        "retentionRemovedCount": 45,
+        "retentionRemovedCount": 36,
         "skippedByRefreshCutoffCount": 0
       },
       "feedId": "b1a72b94-29f7-460d-ac41-e83b001af048"
@@ -254,7 +254,7 @@
       "title": "Stanford Encyclopedia of Philosophy",
       "url": "https://plato.stanford.edu/rss/sep.xml",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182160661,
+      "lastUpdated": 1786257669551,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -267,9 +267,9 @@
       },
       "lastRefreshDiagnostics": {
         "fetchedItemCount": 15,
-        "mergedItemCountBeforeRetention": 27,
+        "mergedItemCountBeforeRetention": 28,
         "retainedItemCount": 25,
-        "retentionRemovedCount": 2,
+        "retentionRemovedCount": 3,
         "skippedByRefreshCutoffCount": 0
       },
       "feedId": "b6ac1b9a-7d97-406a-bf20-b71e755dbd2b"
@@ -278,7 +278,7 @@
       "title": "Our World in Data",
       "url": "https://ourworldindata.org/atom.xml",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182160750,
+      "lastUpdated": 1786257668577,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -292,9 +292,9 @@
       "siteUrl": "https://ourworldindata.org",
       "lastRefreshDiagnostics": {
         "fetchedItemCount": 10,
-        "mergedItemCountBeforeRetention": 26,
+        "mergedItemCountBeforeRetention": 25,
         "retainedItemCount": 25,
-        "retentionRemovedCount": 1,
+        "retentionRemovedCount": 0,
         "skippedByRefreshCutoffCount": 0
       },
       "feedId": "6597fcc2-288d-4913-9ab9-07a16648f593"
@@ -303,7 +303,7 @@
       "title": "Public Domain Review",
       "url": "https://publicdomainreview.org/feed/",
       "folder": "Uncategorized",
-      "lastUpdated": 1786182160869,
+      "lastUpdated": 1786257671426,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -328,7 +328,7 @@
       "title": "In Our Time: Philosophy",
       "url": "http://podcasts.files.bbci.co.uk/b006qy05.rss",
       "folder": "Podcasts",
-      "lastUpdated": 1786182161054,
+      "lastUpdated": 1786257669744,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -353,7 +353,7 @@
       "title": "Philosophy Bites",
       "url": "https://philosophybites.libsyn.com/rss",
       "folder": "Podcasts",
-      "lastUpdated": 1786182164847,
+      "lastUpdated": 1786257670060,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -389,7 +389,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1786182164848,
+  "lastRefreshTimestamp": 1786257671426,
   "startupRefreshDelaySeconds": 5,
   "maxItems": 25,
   "defaultAutoDeleteDuration": 30,
@@ -598,6 +598,6 @@
   "metadataStorageMode": "vault-location",
   "metadataStorageFolder": ".rss-dashboard-data",
   "metadataStorageSchemaVersion": 2,
-  "_syncNonce": "1786182164876-32",
+  "_syncNonce": "1786257671466-36",
   "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
 }

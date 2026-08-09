@@ -449,13 +449,13 @@
       "updateAt": "2025-06-15T06:40:36.354Z",
       "components": [
         {
+          "componentId": "f0becc81-9bad-4bbd-b96d-9b76602b2f21"
+        },
+        {
           "componentId": "d7eea145-14a0-49eb-a71c-715a54899d8f"
         },
         {
           "componentId": "24e32f1f-83f0-4d4f-90c3-42928dbc1712"
-        },
-        {
-          "componentId": "f0becc81-9bad-4bbd-b96d-9b76602b2f21"
         },
         {
           "componentId": "ce97174b-2179-4ad5-962d-57b73395a5df"
@@ -805,8 +805,8 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-06-25T08:43:39.952Z",
-      "updateAt": "2025-06-25T08:43:39.952Z",
-      "viewType": "list",
+      "updateAt": "2026-08-09T09:58:19.630Z",
+      "viewType": "table",
       "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
       "properties": [
         {
@@ -815,7 +815,9 @@
           "type": "text",
           "isShow": true,
           "wrap": false,
-          "options": {}
+          "options": {
+            "width": "469"
+          }
         },
         {
           "id": "44b6d186-4b94-4959-b9a4-173a8eb318a1",
@@ -825,31 +827,18 @@
           "options": {}
         },
         {
+          "id": "0840c778-38d6-4842-a5fe-66dfe012feaa",
+          "name": "${file.mtime}",
+          "isShow": true,
+          "type": "text",
+          "options": {},
+          "alias": ""
+        },
+        {
           "id": "0dcf1a0f-d3df-43bc-9b90-29d0ec488472",
           "name": "Date",
           "isShow": true,
           "type": "date",
-          "options": {}
-        },
-        {
-          "id": "dce0f3e4-4c1b-4018-89dc-14ca859673ce",
-          "name": "Book Notes",
-          "isShow": true,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
-          "id": "539f0c3c-2b81-43ce-b996-10451f239daf",
-          "name": "Podcast",
-          "isShow": true,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
-          "id": "f5309462-d5d6-4a87-8f88-720f416de469",
-          "name": "Roses Head",
-          "isShow": true,
-          "type": "multiSelect",
           "options": {}
         },
         {
@@ -860,29 +849,8 @@
           "options": {}
         },
         {
-          "id": "73385202-48bd-4231-9e2d-92abd4870454",
-          "name": "ArticleOvO",
-          "isShow": true,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
-          "id": "3609d837-518c-464e-9225-5b6f5deb80c4",
-          "name": "Paper",
-          "isShow": true,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
           "id": "82782a52-4a89-4b89-800a-2af522ccee17",
           "name": "WOS",
-          "isShow": true,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
-          "id": "ef2068dc-96a5-48c6-aed0-5a374ba50452",
-          "name": "Article Notes",
           "isShow": true,
           "type": "multiSelect",
           "options": {}

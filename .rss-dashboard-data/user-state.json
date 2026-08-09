@@ -1,31 +1,15 @@
 {
   "version": 1,
   "states": {
+    "https://www.bbc.co.uk/news/videos/cvg8je12xxeo": {
+      "tags": [
+        {
+          "name": "Video",
+          "color": "#d04747"
+        }
+      ]
+    },
     "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://www.bbc.co.uk/news/videos/c70glx1ww78o": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://www.bbc.co.uk/news/videos/c1j1eg31y6no": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
-    "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o": {
       "tags": [
         {
           "name": "Video",
@@ -433,14 +417,6 @@
         }
       ]
     },
-    "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video": {
-      "tags": [
-        {
-          "name": "Video",
-          "color": "#d04747"
-        }
-      ]
-    },
     "urn:bbc:podcast:m002ym24": {
       "tags": [
         {
@@ -842,6 +818,6 @@
       ]
     }
   },
-  "_syncNonce": "1786182164878-33",
+  "_syncNonce": "1786257671468-37",
   "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
 }
