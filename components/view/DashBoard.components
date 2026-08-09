@@ -9,7 +9,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-06-22T07:34:19.488Z",
-      "updateAt": "2026-06-10T11:08:10.740Z",
+      "updateAt": "2026-08-09T10:51:28.417Z",
       "components": [
         {
           "componentId": "479b34dc-c7b1-4929-b5e9-d007fef37b3a",
@@ -24,7 +24,7 @@
               "x": 0,
               "y": 0,
               "w": 12,
-              "h": 9
+              "h": 11
             }
           }
         },
@@ -38,9 +38,9 @@
               "h": 4
             },
             "laptop": {
-              "x": 8,
-              "y": 9,
-              "w": 4,
+              "x": 6,
+              "y": 11,
+              "w": 2,
               "h": 4
             }
           }
@@ -55,9 +55,9 @@
               "h": 4
             },
             "laptop": {
-              "x": 8,
-              "y": 13,
-              "w": 2,
+              "x": 6,
+              "y": 15,
+              "w": 1,
               "h": 4
             }
           }
@@ -72,9 +72,9 @@
               "h": 4
             },
             "laptop": {
-              "x": 10,
-              "y": 13,
-              "w": 2,
+              "x": 7,
+              "y": 15,
+              "w": 1,
               "h": 4
             }
           }
@@ -90,7 +90,7 @@
             },
             "laptop": {
               "x": 8,
-              "y": 40,
+              "y": 15,
               "w": 4,
               "h": 4
             }
@@ -107,7 +107,7 @@
             },
             "laptop": {
               "x": 8,
-              "y": 36,
+              "y": 11,
               "w": 4,
               "h": 4
             }
@@ -124,9 +124,9 @@
             },
             "laptop": {
               "x": 0,
-              "y": 18,
-              "w": 8,
-              "h": 26
+              "y": 20,
+              "w": 12,
+              "h": 27
             }
           }
         },
@@ -141,26 +141,9 @@
             },
             "laptop": {
               "x": 0,
-              "y": 9,
-              "w": 8,
+              "y": 11,
+              "w": 6,
               "h": 9
-            }
-          }
-        },
-        {
-          "componentId": "53b38b63-5a5e-4fd3-9d3e-a1ad7238e3b4",
-          "layout": {
-            "mobile": {
-              "x": 0,
-              "y": 8,
-              "w": 4,
-              "h": 4
-            },
-            "laptop": {
-              "x": 8,
-              "y": 17,
-              "w": 4,
-              "h": 19
             }
           }
         }
@@ -350,6 +333,9 @@
         },
         {
           "componentId": "8055b8b2-a407-4c9c-81d0-e857219ae8f3"
+        },
+        {
+          "componentId": "53b38b63-5a5e-4fd3-9d3e-a1ad7238e3b4"
         },
         {
           "componentId": "81bcf229-d8e9-4e4b-97b8-b73f8fd2fc18"
@@ -561,7 +547,7 @@
       "showTitle": true,
       "showShadow": false,
       "createAt": "2026-03-09T10:57:50.296Z",
-      "updateAt": "2026-03-11T07:55:01.087Z",
+      "updateAt": "2026-08-09T10:45:10.394Z",
       "viewType": "gallary",
       "newPageNameFormat": "{{date: YYYY-MM-DD}}",
       "properties": [
@@ -859,15 +845,15 @@
       "id": "53b38b63-5a5e-4fd3-9d3e-a1ad7238e3b4",
       "type": "dynamicDataView",
       "titleAlign": "center",
-      "tabTitle": "",
+      "tabTitle": "Calendar",
       "maxWidthRatio": -1,
       "showBorder": false,
       "showTitle": true,
       "showShadow": false,
       "createAt": "2026-06-02T22:08:11.687Z",
-      "updateAt": "2026-06-02T22:17:33.540Z",
+      "updateAt": "2026-08-09T10:50:21.665Z",
       "viewType": "calendar",
-      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
+      "newPageNameFormat": "{{date: YYYY-MM-DD}}",
       "properties": [
         {
           "id": "__componentsTitleProperty_0x7c00",
@@ -883,9 +869,32 @@
           "isShow": true,
           "type": "date",
           "options": {}
+        },
+        {
+          "id": "310daf56-ecac-427a-a1b3-2a8224499ebc",
+          "name": "tasks",
+          "isShow": true,
+          "type": "taskList",
+          "options": {
+            "showTaskList": true,
+            "showAllTasks": false,
+            "hideTaskFields": false,
+            "timeRecordStyle": "none",
+            "insertPosition": {
+              "position": "BottomOfNote",
+              "headingLine": ""
+            }
+          }
         }
       ],
-      "templates": [],
+      "templates": [
+        {
+          "id": "d656eca9-f01d-4a45-9329-91ab7c420b4c",
+          "path": "Vault Tool Box/Templates/Tp_Daily Notes.md",
+          "name": "Tp_Daily Notes.md",
+          "type": "templater"
+        }
+      ],
       "groups": [],
       "colorfulGroups": false,
       "viewOptions": {
@@ -903,11 +912,12 @@
           "position": "top"
         },
         "pinFiltersToMenuBar": false,
-        "hideHeaderMenu": true,
+        "hideHeaderMenu": false,
         "showGrid": false,
         "heightType": "auto",
         "heightValue": 600,
-        "dateProperty": "Date"
+        "dateProperty": "${file.basename}",
+        "calendarViewType": "week"
       },
       "groupStates": {
         "sort": "nameAsc",
@@ -917,7 +927,12 @@
         "hiddens": [],
         "collapseds": []
       },
-      "groupBy": ""
+      "groupBy": "",
+      "newPageLocation": {
+        "location": "Unorganized/Thino Notes"
+      },
+      "defaultTemplate": "d656eca9-f01d-4a45-9329-91ab7c420b4c",
+      "title": "Calendar"
     },
     {
       "id": "bab9f4a6-5287-4315-8756-ea2fd444c06a",
@@ -982,7 +997,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-09-01T18:43:36.546Z",
-      "updateAt": "2026-06-02T22:20:32.823Z",
+      "updateAt": "2026-08-09T10:49:31.847Z",
       "viewType": "table",
       "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
       "properties": [
@@ -993,12 +1008,12 @@
           "isShow": true,
           "wrap": false,
           "options": {
-            "width": "567"
+            "width": "135"
           }
         },
         {
           "id": "553beaa1-ae01-416a-a1d5-43e32029caaa",
-          "name": "${file.ctime}",
+          "name": "Date",
           "isShow": true,
           "type": "text",
           "options": {},
