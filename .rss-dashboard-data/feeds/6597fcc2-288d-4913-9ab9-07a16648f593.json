@@ -2,8 +2,40 @@
   "version": 1,
   "feedId": "6597fcc2-288d-4913-9ab9-07a16648f593",
   "feedUrl": "https://ourworldindata.org/atom.xml",
-  "updatedAt": 1785139741039,
+  "updatedAt": 1786121403108,
   "items": [
+    {
+      "title": "How primary energy is measured has changed across our charts",
+      "link": "https://ourworldindata.org/primary-energy-measurement-change",
+      "description": "The Energy Institute no longer uses the substitution method to estimate primary energy. Here’s why that matters for our charts on energy.<br><br><a href=\"https://ourworldindata.org/primary-energy-measurement-change\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9a8b8dbc-314b-4366-f601-386556664700/w=1024\"/></a>",
+      "content": "The Energy Institute no longer uses the substitution method to estimate primary energy. Here’s why that matters for our charts on energy.<br><br><a href=\"https://ourworldindata.org/primary-energy-measurement-change\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9a8b8dbc-314b-4366-f601-386556664700/w=1024\"/></a>",
+      "pubDate": "2026-08-07T00:00:00.000Z",
+      "guid": "https://ourworldindata.org/primary-energy-measurement-change",
+      "feedTitle": "Our World in Data",
+      "feedUrl": "https://ourworldindata.org/atom.xml",
+      "coverImage": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9a8b8dbc-314b-4366-f601-386556664700/w=1024",
+      "summary": "The Energy Institute no longer uses the substitution method to estimate primary energy. Here’s why that matters for our charts on energy.",
+      "author": "Hannah Ritchie",
+      "mediaType": "article",
+      "explicit": false,
+      "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9a8b8dbc-314b-4366-f601-386556664700/w=1024"
+    },
+    {
+      "title": "What has driven deforestation in the 21st century?",
+      "link": "https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century",
+      "description": "Agriculture has been the main driver of deforestation, but this has been concentrated in only a few commodities: mostly beef, palm oil, soy, and forestry products.<br><br><a href=\"https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/b63c446f-e9a8-4eca-b979-4e1eafb5a500/w=1024\"/></a>",
+      "content": "Agriculture has been the main driver of deforestation, but this has been concentrated in only a few commodities: mostly beef, palm oil, soy, and forestry products.<br><br><a href=\"https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/b63c446f-e9a8-4eca-b979-4e1eafb5a500/w=1024\"/></a>",
+      "pubDate": "2026-08-03T00:00:00.000Z",
+      "guid": "https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century",
+      "feedTitle": "Our World in Data",
+      "feedUrl": "https://ourworldindata.org/atom.xml",
+      "coverImage": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/b63c446f-e9a8-4eca-b979-4e1eafb5a500/w=1024",
+      "summary": "Agriculture has been the main driver of deforestation, but this has been concentrated in only a few commodities: mostly beef, palm oil, soy, and forestry products.",
+      "author": "Hannah Ritchie",
+      "mediaType": "article",
+      "explicit": false,
+      "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/b63c446f-e9a8-4eca-b979-4e1eafb5a500/w=1024"
+    },
     {
       "title": "We published a new topic page on economic inequality",
       "link": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
@@ -371,38 +403,6 @@
       "mediaType": "article",
       "explicit": false,
       "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/99904e99-0b0b-4342-6177-51f2c29b6900/w=1024"
-    },
-    {
-      "title": "Putting solar panels on land used for biofuels would produce enough electricity for all cars and trucks to go electric",
-      "link": "https://ourworldindata.org/biofuel-land-solar-electric-vehicles",
-      "description": "The world dedicates a Poland-sized area of land to liquid biofuels. Is there a more efficient way to generate energy?<br><br><a href=\"https://ourworldindata.org/biofuel-land-solar-electric-vehicles\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9f05d67d-0d16-4494-86fd-23f5c563c200/w=1024\"/></a>",
-      "content": "The world dedicates a Poland-sized area of land to liquid biofuels. Is there a more efficient way to generate energy?<br><br><a href=\"https://ourworldindata.org/biofuel-land-solar-electric-vehicles\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9f05d67d-0d16-4494-86fd-23f5c563c200/w=1024\"/></a>",
-      "pubDate": "2026-01-12T00:00:00.000Z",
-      "guid": "https://ourworldindata.org/biofuel-land-solar-electric-vehicles",
-      "feedTitle": "Our World in Data",
-      "feedUrl": "https://ourworldindata.org/atom.xml",
-      "coverImage": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9f05d67d-0d16-4494-86fd-23f5c563c200/w=1024",
-      "summary": "The world dedicates a Poland-sized area of land to liquid biofuels. Is there a more efficient way to generate energy?",
-      "author": "Hannah Ritchie",
-      "mediaType": "article",
-      "explicit": false,
-      "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9f05d67d-0d16-4494-86fd-23f5c563c200/w=1024"
-    },
-    {
-      "title": "Medicine and Biotechnology",
-      "link": "https://ourworldindata.org/medicine-biotech",
-      "description": "Innovations in medicines and biotechnology have increased life expectancy and saved many lives. Explore how this happened, and how more progress can be made.<br><br><a href=\"https://ourworldindata.org/medicine-biotech\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9616ed87-e2c7-4b41-ef80-7ac6d428c800/w=1024\"/></a>",
-      "content": "Innovations in medicines and biotechnology have increased life expectancy and saved many lives. Explore how this happened, and how more progress can be made.<br><br><a href=\"https://ourworldindata.org/medicine-biotech\"><img src=\"https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9616ed87-e2c7-4b41-ef80-7ac6d428c800/w=1024\"/></a>",
-      "pubDate": "2025-12-15T00:00:00.000Z",
-      "guid": "https://ourworldindata.org/medicine-biotech",
-      "feedTitle": "Our World in Data",
-      "feedUrl": "https://ourworldindata.org/atom.xml",
-      "coverImage": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9616ed87-e2c7-4b41-ef80-7ac6d428c800/w=1024",
-      "summary": "Innovations in medicines and biotechnology have increased life expectancy and saved many lives. Explore how this happened, and how more progress can be made.",
-      "author": "Tuna Acisu",
-      "mediaType": "article",
-      "explicit": false,
-      "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9616ed87-e2c7-4b41-ef80-7ac6d428c800/w=1024"
     }
   ]
 }

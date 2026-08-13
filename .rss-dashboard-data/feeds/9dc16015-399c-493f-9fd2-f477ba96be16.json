@@ -2,8 +2,33 @@
   "version": 1,
   "feedId": "9dc16015-399c-493f-9fd2-f477ba96be16",
   "feedUrl": "https://feeds.simplecast.com/wgl4xEgL",
-  "updatedAt": 1785150537119,
+  "updatedAt": 1785760171038,
   "items": [
+    {
+      "title": "The Political Economy of Palestine (with Hussein Aboubakr Mansour)",
+      "link": "https://www.econtalk.org/the-political-economy-of-palestine-with-hussein-aboubakr-mansour/",
+      "description": "<p>Most discourses about Israel or Palestine are morality plays of good guys vs bad guys. Egyptian-born Hussein Aboubakr Mansour takes a different approach, seeing the conflict as a self-reproducing system of political and economic extraction where Arab regimes, opposition movements, rival states, Western academics, NGOs, and Gulf monarchies like Qatar all convert Palestinian victimhood into their own forms of power, money, and meaning. Listen as Mansour speaks with EconTalk's Russ Roberts about his childhood in an Egypt organized around the liberation of Palestine and explores why any exit from the system must run not through policy, but rather through the human need for meaning itself.</p>",
+      "content": "<p>Most discourses about Israel or Palestine are morality plays of good guys vs bad guys. Egyptian-born Hussein Aboubakr Mansour takes a different approach, seeing the conflict as a self-reproducing system of political and economic extraction where Arab regimes, opposition movements, rival states, Western academics, NGOs, and Gulf monarchies like Qatar all convert Palestinian victimhood into their own forms of power, money, and meaning. Listen as Mansour speaks with EconTalk's Russ Roberts about his childhood in an Egypt organized around the liberation of Palestine and explores why any exit from the system must run not through policy, but rather through the human need for meaning itself.</p>",
+      "pubDate": "Mon, 3 Aug 2026 10:30:00 +0000",
+      "guid": "https://feeds.simplecast.com/59a20b9e-2bde-4d30-8a6e-1663f714a28c",
+      "feedTitle": "EconTalk",
+      "feedUrl": "https://feeds.simplecast.com/wgl4xEgL",
+      "coverImage": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
+      "summary": "Most discourses about Israel or Palestine are morality plays of good guys vs bad guys. Egyptian-born Hussein Aboubakr Mansour takes a different approach, seeing the conflict as a self-reproducing system of political and ...",
+      "author": "webmaster@econlib.org (EconTalk: Russ Roberts)",
+      "mediaType": "podcast",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": "",
+      "enclosure": {
+        "url": "https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/6f0c9b91-6746-4e8b-86b7-9552a818ff80/group-item/cb3ce0f1-f227-4690-8351-2b0ab5883ccd/128_default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
+        "type": "audio/mpeg",
+        "length": "84490954"
+      },
+      "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/6f0c9b91-6746-4e8b-86b7-9552a818ff80/group-item/cb3ce0f1-f227-4690-8351-2b0ab5883ccd/128_default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
+      "fallbackIconUrl": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"
+    },
     {
       "title": "Savage Landscapes (with Cal Flyn)",
       "link": "https://www.econtalk.org/savage-landscapes-with-cal-flyn/",
@@ -602,31 +627,6 @@
         "length": "59328877"
       },
       "audioUrl": "https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c4ae9090-863f-463f-9386-6fb349fd06b8/audio/87b3e0d4-688b-4d80-bef6-0f3210fe72c4/default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
-      "fallbackIconUrl": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"
-    },
-    {
-      "title": "A Military Analysis of Israel's War in Gaza (with Andrew Fox)",
-      "link": "https://www.econtalk.org/a-military-analysis-of-israels-war-in-gaza-with-andrew-fox/",
-      "description": "<p>What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk's Russ Roberts. He and Roberts explore the challenges of reporting and understanding the war amid the challenges of disinformation, and why Fox believes that the IDF had few tactical alternatives to destroying infrastructure and buildings in the Gaza Strip. Fox also addresses the claims that Israel deliberately targeted Gazan children and wielded starvation as a weapon, and explains why he believes that Israel succeeded in achieving its strategic war goals.</p>",
-      "content": "<p>What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk's Russ Roberts. He and Roberts explore the challenges of reporting and understanding the war amid the challenges of disinformation, and why Fox believes that the IDF had few tactical alternatives to destroying infrastructure and buildings in the Gaza Strip. Fox also addresses the claims that Israel deliberately targeted Gazan children and wielded starvation as a weapon, and explains why he believes that Israel succeeded in achieving its strategic war goals.</p>",
-      "pubDate": "Mon, 9 Feb 2026 11:30:00 +0000",
-      "guid": "https://feeds.simplecast.com/77b851f1-44d8-4298-98df-3c6b343c0f0a",
-      "feedTitle": "EconTalk",
-      "feedUrl": "https://feeds.simplecast.com/wgl4xEgL",
-      "coverImage": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
-      "summary": "What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk's Russ Roberts. He and Roberts explore the c...",
-      "author": "webmaster@econlib.org (EconTalk: Russ Roberts)",
-      "mediaType": "podcast",
-      "explicit": false,
-      "image": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
-      "category": "",
-      "episodeType": "",
-      "enclosure": {
-        "url": "https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/3d21cde3-7d25-417b-986f-469fda61df09/audio/d9c529b2-a426-499a-af0a-2d6bda621331/default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
-        "type": "audio/mpeg",
-        "length": "65828008"
-      },
-      "audioUrl": "https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/3d21cde3-7d25-417b-986f-469fda61df09/audio/d9c529b2-a426-499a-af0a-2d6bda621331/default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
       "fallbackIconUrl": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"
     }
   ]
