@@ -2,8 +2,33 @@
   "version": 1,
   "feedId": "9dc16015-399c-493f-9fd2-f477ba96be16",
   "feedUrl": "https://feeds.simplecast.com/wgl4xEgL",
-  "updatedAt": 1785760171038,
+  "updatedAt": 1786633816134,
   "items": [
+    {
+      "title": "Ben Sasse on Faith, Family, and Facing Death",
+      "link": "https://www.econtalk.org/ben-sasse-on-faith-family-and-facing-death/",
+      "description": "<p>Six months into a stage-four pancreatic cancer diagnosis that gave him 90 days to live, Ben Sasse sits down with EconTalk's Russ Roberts for a conversation that refuses easy comfort. The former U.S. senator and University of Florida president is candid about his physical challenges but the heart of this exchange is elsewhere: what actually matters when time is short. Sasse reflects on faith and mortality, the \"shattering of idols\" like his own workaholism, and his pride in his marriage. Along the way he offers sharp diagnoses of Congress's abdication of responsibility, the crisis inside American universities, and a republic distracted by the \"digital casino\" in its pocket. Funny, unflinching, and deeply human, it closes with a meditation on raging against the dying of the light while walking with your head bowed.</p>",
+      "content": "<p>Six months into a stage-four pancreatic cancer diagnosis that gave him 90 days to live, Ben Sasse sits down with EconTalk's Russ Roberts for a conversation that refuses easy comfort. The former U.S. senator and University of Florida president is candid about his physical challenges but the heart of this exchange is elsewhere: what actually matters when time is short. Sasse reflects on faith and mortality, the \"shattering of idols\" like his own workaholism, and his pride in his marriage. Along the way he offers sharp diagnoses of Congress's abdication of responsibility, the crisis inside American universities, and a republic distracted by the \"digital casino\" in its pocket. Funny, unflinching, and deeply human, it closes with a meditation on raging against the dying of the light while walking with your head bowed.</p>",
+      "pubDate": "Mon, 10 Aug 2026 10:30:00 +0000",
+      "guid": "https://feeds.simplecast.com/edde55b8-62b5-4eaa-99c7-cd7feb42a916",
+      "feedTitle": "EconTalk",
+      "feedUrl": "https://feeds.simplecast.com/wgl4xEgL",
+      "coverImage": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
+      "summary": "Six months into a stage-four pancreatic cancer diagnosis that gave him 90 days to live, Ben Sasse sits down with EconTalk's Russ Roberts for a conversation that refuses easy comfort. The former U.S. senator and Universit...",
+      "author": "webmaster@econlib.org (EconTalk: Russ Roberts)",
+      "mediaType": "podcast",
+      "explicit": false,
+      "image": "",
+      "category": "",
+      "episodeType": "",
+      "enclosure": {
+        "url": "https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/469adebf-cb94-464c-ae2d-c4740496fad8/group-item/33f84de0-b92d-4fb0-8df7-bc0e713076ee/128_default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
+        "type": "audio/mpeg",
+        "length": "78246204"
+      },
+      "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/469adebf-cb94-464c-ae2d-c4740496fad8/group-item/33f84de0-b92d-4fb0-8df7-bc0e713076ee/128_default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
+      "fallbackIconUrl": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"
+    },
     {
       "title": "The Political Economy of Palestine (with Hussein Aboubakr Mansour)",
       "link": "https://www.econtalk.org/the-political-economy-of-palestine-with-hussein-aboubakr-mansour/",
@@ -602,31 +627,6 @@
         "length": "74183019"
       },
       "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/2b4b0a04-a903-425c-9350-cfc267082d59/group-item/f6933b40-c890-4088-bc4c-b172e32ad16b/128_default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
-      "fallbackIconUrl": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"
-    },
-    {
-      "title": "Seiko, Swatch, and the Swiss Watch Industry (with Aled Maclean-Jones)",
-      "link": "https://www.econtalk.org/seiko-swatch-and-the-swiss-watch-industry-with-aled-maclean-jones/",
-      "description": "<p>How did an industry survive a technology that should have made it obsolete? Aled Maclean-Jones explains to EconTalk's Russ Roberts how Japanese quartz watches nearly wiped out Swiss watchmaking with cheaper, more accurate alternatives--and how the Swiss redefined the value of a watch to recover market dominance. Maclean-Jones discusses the Japanese innovations that led to the Swiss industry's collapse; the brilliant decision by a pair of Swiss mavericks to change the narrative around mechanical watches; and the consolidation and standardization of Swiss watchmaking undertaken by Swatch founder Nicolas Hayek.</p>",
-      "content": "<p>How did an industry survive a technology that should have made it obsolete? Aled Maclean-Jones explains to EconTalk's Russ Roberts how Japanese quartz watches nearly wiped out Swiss watchmaking with cheaper, more accurate alternatives--and how the Swiss redefined the value of a watch to recover market dominance. Maclean-Jones discusses the Japanese innovations that led to the Swiss industry's collapse; the brilliant decision by a pair of Swiss mavericks to change the narrative around mechanical watches; and the consolidation and standardization of Swiss watchmaking undertaken by Swatch founder Nicolas Hayek.</p>",
-      "pubDate": "Mon, 16 Feb 2026 11:30:00 +0000",
-      "guid": "https://feeds.simplecast.com/7433d212-911a-4abd-b058-4943b6bbb44e",
-      "feedTitle": "EconTalk",
-      "feedUrl": "https://feeds.simplecast.com/wgl4xEgL",
-      "coverImage": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
-      "summary": "How did an industry survive a technology that should have made it obsolete? Aled Maclean-Jones explains to EconTalk's Russ Roberts how Japanese quartz watches nearly wiped out Swiss watchmaking with cheaper, more accurat...",
-      "author": "webmaster@econlib.org (EconTalk: Russ Roberts)",
-      "mediaType": "podcast",
-      "explicit": false,
-      "image": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
-      "category": "",
-      "episodeType": "",
-      "enclosure": {
-        "url": "https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c4ae9090-863f-463f-9386-6fb349fd06b8/audio/87b3e0d4-688b-4d80-bef6-0f3210fe72c4/default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
-        "type": "audio/mpeg",
-        "length": "59328877"
-      },
-      "audioUrl": "https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c4ae9090-863f-463f-9386-6fb349fd06b8/audio/87b3e0d4-688b-4d80-bef6-0f3210fe72c4/default_tc.mp3?aid=rss_feed&feed=wgl4xEgL",
       "fallbackIconUrl": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"
     }
   ]
