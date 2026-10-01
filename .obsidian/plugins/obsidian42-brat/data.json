@@ -1,13 +1,6 @@
 {
-  "pluginList": [
-    "amatya-aditya/obsidian-rss-dashboard"
-  ],
-  "pluginSubListFrozenVersion": [
-    {
-      "repo": "amatya-aditya/obsidian-rss-dashboard",
-      "version": "latest"
-    }
-  ],
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
@@ -17,6 +10,7 @@
   "loggingVerboseEnabled": false,
   "debuggingMode": false,
   "notificationsEnabled": true,
+  "globalTokenName": "",
   "personalAccessToken": "",
   "selectLatestPluginVersionByDefault": false,
   "allowIncompatiblePlugins": false

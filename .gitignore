@@ -9,3 +9,9 @@
 # Word temp files
 ~$*
 *.tmp
+
+# Removed RSS Dashboard and generated conflict reports
+.rss-dashboard-data/
+.obsidian/plugins/rss-dashboard/
+conflict-files-obsidian-git.md
+.trash/conflict-files-obsidian-git.md
