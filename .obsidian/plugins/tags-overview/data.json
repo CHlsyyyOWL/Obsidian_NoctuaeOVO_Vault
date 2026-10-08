@@ -5,7 +5,7 @@
   "sortFiles": "name",
   "keepFilters": true,
   "displayHeaders": false,
-  "storedFilters": "Task/thinos",
+  "storedFilters": "",
   "showNested": true,
   "showRelatedTags": true,
   "showCalendarDates": true,

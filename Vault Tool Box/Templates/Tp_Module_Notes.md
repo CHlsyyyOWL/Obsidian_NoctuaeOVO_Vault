@@ -1,6 +1,6 @@
 ---
 tags:
-  - France/SciencePo
+  - UK/ucl
 Module:
 Daily Notes:
 ---

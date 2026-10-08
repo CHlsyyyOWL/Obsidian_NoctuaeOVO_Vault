@@ -12,3 +12,4 @@ Daily Notes: 2026-10-08
 🎓DashBoard: [[Academia.components]]
 
 ---
+![[Lecture_timetable_0024.docx]]

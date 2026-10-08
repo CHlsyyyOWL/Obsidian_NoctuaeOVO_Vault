@@ -7,7 +7,7 @@
   ],
   "theme": "moonstone",
   "showRibbon": true,
-  "baseFontSize": 18,
+  "baseFontSize": 21,
   "nativeMenus": false,
   "textFontFamily": "STSong",
   "interfaceFontFamily": "Arial",
