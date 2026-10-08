@@ -9,7 +9,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-06-22T07:34:19.488Z",
-      "updateAt": "2026-08-09T10:51:28.417Z",
+      "updateAt": "2026-10-08T15:20:36.847Z",
       "components": [
         {
           "componentId": "479b34dc-c7b1-4929-b5e9-d007fef37b3a",
@@ -33,7 +33,7 @@
           "layout": {
             "mobile": {
               "x": 0,
-              "y": 16,
+              "y": 12,
               "w": 4,
               "h": 4
             },
@@ -50,7 +50,7 @@
           "layout": {
             "mobile": {
               "x": 0,
-              "y": 20,
+              "y": 16,
               "w": 4,
               "h": 4
             },
@@ -67,7 +67,7 @@
           "layout": {
             "mobile": {
               "x": 0,
-              "y": 24,
+              "y": 20,
               "w": 4,
               "h": 4
             },
@@ -84,7 +84,7 @@
           "layout": {
             "mobile": {
               "x": 0,
-              "y": 28,
+              "y": 24,
               "w": 4,
               "h": 4
             },
@@ -101,7 +101,7 @@
           "layout": {
             "mobile": {
               "x": 0,
-              "y": 32,
+              "y": 28,
               "w": 4,
               "h": 4
             },
@@ -118,7 +118,7 @@
           "layout": {
             "mobile": {
               "x": 0,
-              "y": 12,
+              "y": 8,
               "w": 4,
               "h": 4
             },

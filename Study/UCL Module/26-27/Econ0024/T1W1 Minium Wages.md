@@ -63,4 +63,4 @@ $$ MAXpf(L_j)-wL_j$$
 
 - Card and Krueger (1994,1995) and the "credibility revolution"
 
-## Empirical Design
+Empirical Design
