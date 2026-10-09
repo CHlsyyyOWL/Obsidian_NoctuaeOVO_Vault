@@ -90,51 +90,6 @@ Based on previous analysis of JHU Political Science PhD admissions norms and you
 
 These scores function as a "pass" rather than a differentiator. Beyond 325, the marginal return on additional GRE points is near zero for your target programs. The admission decision at JHU will be driven by writing sample quality, research proposal, supervisor fit with Yuen Yuen Ang, and recommendation letters. GRE is a hygiene check.
 
-## Part 4: Prep Timeline (Starting June 11, 2026)
-
-### Current Situation
-
-Today is June 11, 2026. You are at UCL library, have just submitted the CAS application. The LSE conference presentation on June 17 is the immediate priority, with slides being built this week. The TAI SCS paper is ongoing. The Thornton reading list is partially complete. JHU application deadline is December 1, 2026, which means GRE scores must be available by late November at the latest (accounting for 8 to 10 days score delivery). The GRE diagnostic test via ETS PowerPrep was originally planned for June 8 but has likely been deferred.
-
-### Phase 0: Diagnostic (June 18 to 22, the week after LSE conference)
-
-After the LSE presentation on June 17, take the first ETS PowerPrep practice test under timed, test-like conditions. This establishes a baseline across all three sections and identifies where the gap between current performance and target scores actually lies. The diagnostic determines how the subsequent prep time should be allocated between Verbal and Quantitative.
-
-Action: Download ETS PowerPrep Online (free, two full practice tests available at ets.org). Take one full test in a single sitting. Record section scores.
-
-### Phase 1: Vocabulary Foundation (June 23 to July 20, 4 weeks)
-
-This phase runs concurrently with other work (TAI paper, Thornton reading). Daily vocabulary study can be done during commute, breaks, or as a wind-down activity. The target is to complete one full pass through the "再要你命3000" word list using the 17-day review cycle. The method is to read 2 to 3 lists per day on new material, review previous lists according to the schedule, and log difficult words in a spreadsheet for targeted review.
-
-During this phase, also begin light Text Completion practice (15 to 20 minutes per day) to build familiarity with question format and to reinforce vocabulary in context.
-
-### Phase 2: Intensive Prep (July 21 to August 31, 6 weeks)
-
-This is the main preparation window. Based on the earlier plan discussed, July and August are designated as the primary GRE prep period, running in parallel with any internship or research work.
-
-For Verbal (primary time investment): Complete second and third passes of vocabulary (focusing on flagged words). Do systematic Text Completion practice on Kmf or similar platform, covering 2 to 3 sections per day. Work through Yang Peng's 100 long and difficult sentences (20 per day over 5 days, then review). Practice Reading Comprehension with timed sections.
-
-For Quantitative (secondary time investment): Work through "巍哥170难题3.0" once, marking errors. Review weak concept areas if any emerge. Target: complete within 2 weeks.
-
-For Analytical Writing: Read the ETS published topic pool and outline 10 to 15 Issue topics. Write 3 to 5 full timed practice essays. Focus on structure and time management, not on generating new arguments.
-
-Time allocation: approximately 2 hours per day on GRE (1.5 hours Verbal, 0.5 hours Quantitative), increasing to 3 to 4 hours per day in August if schedule permits.
-
-### Phase 3: Practice Tests and Refinement (September 1 to 14, 2 weeks)
-
-Take the second ETS PowerPrep test and any additional practice tests available. Analyze error patterns and focus review on weak areas. Finalize vocabulary review with "GRE救命800词" (GRE Lifesaver 800 Words) in the final week. Practice section timing strategies, particularly the 10 to 12 minute allocation for Text Completion before moving to Reading Comprehension.
-
-### Phase 4: First Attempt (Mid to Late September 2026)
-
-Register for the first GRE attempt. If taking the test at home, ensure equipment meets all requirements including the second camera device. If using a test center in London, register by mid-July to secure a September slot.
-
-### Phase 5: Contingency Retake (October to November 2026)
-
-If the September score meets or exceeds 325 combined with Q165+ V155+ AW4.0+, GRE is complete. Shift full attention to application materials (SOP, research proposal, writing sample). If scores fall short, use October for targeted review of weak areas and retake in late October or early November. The hard deadline for a retake is approximately November 10 to guarantee score availability before December 1.
-
-### Key Dates Summary
-
-June 17: LSE conference (slides priority this week) June 18 to 22: GRE diagnostic test (PowerPrep) June 23 to July 20: Vocabulary foundation (concurrent with other work) July 21 to August 31: Intensive GRE prep September 1 to 14: Practice tests and final review Mid to late September: First GRE attempt Late October (if needed): Retake December 1: JHU application deadline
 
 ## Part 5: Free Resources
 

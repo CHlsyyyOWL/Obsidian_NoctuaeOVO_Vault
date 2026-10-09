@@ -1790,8 +1790,8 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-03-17T14:21:52.508Z",
-      "updateAt": "2026-06-11T11:15:55.039Z",
-      "viewType": "list",
+      "updateAt": "2026-10-09T14:41:41.354Z",
+      "viewType": "kanban",
       "newPageNameFormat": "{{date: YYYY-MM-DD}}",
       "properties": [
         {
@@ -1879,7 +1879,9 @@
         "format": "none",
         "statics": [],
         "orders": [],
-        "hiddens": [],
+        "hiddens": [
+          "LSE100"
+        ],
         "collapseds": []
       },
       "filter": {

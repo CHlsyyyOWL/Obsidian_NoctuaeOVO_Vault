@@ -1,6 +1,13 @@
 {
-  "pluginList": [],
-  "pluginSubListFrozenVersion": [],
+  "pluginList": [
+    "amatya-aditya/obsidian-rss-dashboard"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "amatya-aditya/obsidian-rss-dashboard",
+      "version": ""
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
