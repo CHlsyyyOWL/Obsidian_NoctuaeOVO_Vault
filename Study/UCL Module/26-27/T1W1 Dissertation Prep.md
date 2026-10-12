@@ -32,4 +32,7 @@ The authors investigate how government-controlled data influence private-sector 
 **Why Selected**
 This paper provides an empirical example of **information-based state–business embeddedness**, illustrating how government-controlled information can reshape private economic activity. It offers a conceptual bridge between Evans's traditional emphasis on productive state–business relationships and SCS as a potential form of digital governance. Unlike government procurement, SCS primarily collects and shares information _about firms_ for regulatory purposes. This distinction raises the question of whether digital information systems can strengthen productive state–market coordination without expanding administrative discretion or political dependence.
 
-How to form a good research question
+## How to form a good research question
+
+1. Find your X and Y in a form of "how X affect Y"
+2. Establish your Theoretical Channel that why you believe " X will affect Y" 
