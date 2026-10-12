@@ -1790,8 +1790,8 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-03-17T14:21:52.508Z",
-      "updateAt": "2026-10-09T14:41:41.354Z",
-      "viewType": "kanban",
+      "updateAt": "2026-10-12T12:08:27.120Z",
+      "viewType": "list",
       "newPageNameFormat": "{{date: YYYY-MM-DD}}",
       "properties": [
         {
