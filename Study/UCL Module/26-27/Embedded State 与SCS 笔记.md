@@ -82,7 +82,7 @@ Bai、Hsieh & Song (2020) 把这一逻辑形式化为“special deals”：Speci
 
 专业文献在 2018 年后基本放弃了“统一评分的奥威尔式系统”叙事，但对 SCS 是什么仍有分歧。【事实】监管法学一派认为 SCS 主要是声誉监管和合规执法工具：Daum (2021) 称其“远非全景监狱”，核心是法律与监管违规记录，是“现有法律的延伸” ([Daum 2021](https://jamestown.org/?p=90724))；Ahl、Backer & Chen (2024) 把社会信用定义为一种让私人主体和国家机关依据信用评估作出决定的治理模式 ([Ahl, Backer & Chen 2024](https://pure.psu.edu/en/publications/law-and-social-credit-in-china-an-introduction/))。信息基础设施一派强调可读性与数据整合：Creemers (2018) 称其为“共享相似逻辑的一组举措”，且技术上“相对粗糙” ([Creemers 2018](https://papers.ssrn.com/abstract=3175792))；Cheung & Chen (2022) 提出“数据国家”概念。碎片化一派强调地方差异：Liu (2019) 认为存在多个社会信用体系，人民银行与发改委对“信用”的理解存在张力 ([Liu 2019](https://ideas.repec.org/a/zbw/econso/223109.html))，Brussee (2023) 认为“连中国政府自己也对这个混乱的项目感到困惑” ([Brussee 2023](https://link.springer.com/10.1007/978-981-99-2189-8))。【推断】你的论文最自然地落在第一派，可以借用第二派的可读性语言，但必须回应第三派，因为地方差异削弱了把 SCS 当作统一“国家战略”的说法。
 
-### 政治关联
+### 政治关联* [[Homework 1]]
 Lin & Milhaupt (2023) 是对你论点最直接的实证挑战。【事实】他们利用截至 2021 年 7 月 1 日浙江 531 家上市公司的公开信用分(回归样本 414 家)，发现平均分 864.39，74.2% 的企业被评为“优秀”；**有政治关联的企业高约 10.5 分(5% 显著性)**，且效应完全来自奖励政府奖项和向党认可事业捐赠的“社会责任”分项；没有证据显示关联企业合规记录更好；国企身份在完整模型中不显著；公司章程含党建条款的企业在财务与税务分项上得分更低。作者自称结论是初步的，只覆盖一个省份 ([Lin & Milhaupt 2023](https://www.cambridge.org/core/product/EC80AC0CC9AE60D3D3C631A707A5CE54/core-reader); [ECGI 版本](https://www.ecgi.global/sites/default/files/2025-08/china-corporate-social-credit-system.pdf))。【推断】这一发现意味着形式上被编码的信息通道可以承载政治忠诚，即“信息化嵌入”被重新人格化或政治化。论文应把它作为竞争性假说来检验，而不是放在脚注里。它同时也给出了一个现成的研究设计：按分项分解信用分，**看政治关联的溢价集中在可编码的合规分项还是依赖裁量的分项。****
 
 ### 转移裁量
