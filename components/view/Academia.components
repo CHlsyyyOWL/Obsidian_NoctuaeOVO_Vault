@@ -396,27 +396,13 @@
       "updateAt": "2026-06-11T11:14:51.413Z",
       "components": [
         {
-          "componentId": "7fc3a811-bbb1-48c8-9977-55da71531fdc",
-          "layout": {
-            "mobile": {
-              "x": 0,
-              "y": 0,
-              "w": 4,
-              "h": 4
-            },
-            "laptop": {
-              "x": 0,
-              "y": 0,
-              "w": 4,
-              "h": 4
-            }
-          }
+          "componentId": "23f7d766-7321-4dbe-b8c5-aa1119057960"
         },
         {
           "componentId": "0aa546ee-f31d-442e-9355-53099f87ed2f"
         },
         {
-          "componentId": "23f7d766-7321-4dbe-b8c5-aa1119057960",
+          "componentId": "7fc3a811-bbb1-48c8-9977-55da71531fdc",
           "layout": {
             "mobile": {
               "x": 0,
