@@ -27,53 +27,33 @@ This paper was selected because it shows that, among 531 listed firms in Zhejian
 ### Research question
 How does the Social Credit System affect connected firms' advantage in bank credit?
 
+**Design** Triple DID
 
-# Research Design
+**Groups**
 
-## Research question
-How does the Social Credit System affect connected firms' advantage in bank credit?
+- P, pilot city vs non-pilot city 2015
+- T, after pilot (2017–2019) vs before (2010–2015)
+- C, connected vs unconnected firm, categorised by 2014 status
 
-## Sample
-- Private (non-state-owned) A-share listed firms, excluding financial and ST firms
-- Firms listed before 2014, so that every firm has pre-reform observations
-- Years 2010–2019, with 2016 dropped as the transition year
+**Y**  $Loan_{it} = \dfrac{\text{Short-term borrowings}_{it} + \text{Long-term borrowings}_{it}}{\text{Total assets}_{it}}$
 
-## Variables
+**Comparison**
 
-**Outcome**
-$$
-Loan_{it} = \frac{\text{Short-term borrowings}_{it} + \text{Long-term borrowings}_{it}}{\text{Total assets}_{it}}
-$$
+- G = loan gap between connected and unconnected firms
+- $\Delta_P = G_{P,after} - G_{P,before}$
+- $\Delta_N = G_{N,after} - G_{N,before}$
+- $\beta = \Delta_P - \Delta_N$
+- $\Delta_N$ removes nationwide trends
+**Hypotheses**
 
-**Treatment**
-- $Pilot_c = 1$ if the firm is registered in a city or district designated as an SCS pilot in 2015 or 2016
-- $Post_t = 1$ for 2017–2019, and 0 for 2010–2015
+- H1, information substitution, $\beta_7 < 0$
+- H2, political control, $\beta_7 \geq 0$
 
-**Political connection** (fixed in 2014, before any designation)
-- $Connected_i = 1$ if the firm's chairman or CEO is a deputy to a people's congress or political consultative conference, or a current or former government official
+**Why 2014 for C** Last full year before first pilot (Aug 2015), and after the 2013 rule on officials holding corporate posts. Robustness, connected if any year 2010–2014.
 
-**Controls** (lagged one year)
-- Log total assets, return on assets, tangible assets ratio, firm age
+**Sample** Private A-share listed non-financial firms, listed before 2014, excl. ST
 
-## Model
-$$
-Loan_{it} = \beta\,(Pilot_c \times Post_t \times Connected_i) + \gamma_1 (Pilot_c \times Post_t) + \gamma_2 (Post_t \times Connected_i) + X_{i,t-1}'\theta + \alpha_i + \delta_t + \varepsilon_{it}
-$$
+**Data**
 
-- $\alpha_i$ firm fixed effects absorb $Pilot_c$, $Connected_i$ and $Pilot_c \times Connected_i$
-- $\delta_t$ year fixed effects absorb $Post_t$
-- Standard errors clustered at the city level
-- $\beta$ measures how much more the loan gap between connected and unconnected firms changes in pilot cities than in non-pilot cities
-
-## Hypotheses
-- **H1 (information substitution)** $\beta < 0$. The loan advantage of connected firms shrinks in pilot cities
-- **H2 (political control)** $\beta \geq 0$. The advantage persists or grows, because the state still controls credit records, rewards and punishments
-
-## Checks
-- **Event study** Replace $Post_t$ with year dummies (2015 as base year) and plot the coefficients. Pre-2016 coefficients should be close to zero
-- **City × year fixed effects** Replace $\delta_t$ and $Pilot_c \times Post_t$ with city × year fixed effects, which absorb all city-level shocks
-- **Alternative connection measure** Use only people's congress and political consultative conference membership
-
-## Data
-- Pilot lists from the NDRC notices of 2015 and 2016
-- Financial statements and executive backgrounds from CSMAR (access to be confirmed), with annual reports from CNINFO as a fallback
+- Pilot lists, NDRC notices 2015 and 2016
+- Loans, assets, executive backgrounds, CSMAR (access to confirm), fallback CNINFO annual reports
