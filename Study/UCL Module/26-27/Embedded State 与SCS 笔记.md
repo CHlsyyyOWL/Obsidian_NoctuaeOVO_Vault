@@ -128,3 +128,182 @@ Lin & Milhaupt (2023) 是对你论点最直接的实证挑战。【事实】他�
 
 由此可以推断，企业层面的 SCS 主要是一个判决执行工具。所以即使上述研究发现的效应是真实的，它们也更可能来自监管数据的共享、检查对象的分级以及法院判决的执行，而不是来自"信任"的建立。这对你的论文有一个直接的启示。如果你要论证 SCS 发挥了 embeddedness 的信息功能，就需要说明是哪一种信息、通过哪条渠道传递给了谁，而不能笼统地说 SCS 增进了信任。
 
+
+### Developmental state theory
+
+**Evans, P.B. (1995)** _Embedded Autonomy: States and Industrial Transformation_. Princeton: Princeton University Press.  
+South Korea combined a coherent Weberian bureaucracy with dense ties to industrial capital and achieved the most successful IT upgrading. Zaire was predatory, while Brazil and India had only partial versions of both conditions and achieved partial results.
+
+**Doner, R.F., Ritchie, B.K. and Slater, D. (2005)** ‘Systemic vulnerability and the origins of developmental states: Northeast and Southeast Asia in comparative perspective’, _International Organization_, 59(2), pp. 327–361.  
+Elites build developmental institutions only when mass unrest, scarce revenue and foreign exchange, and external security threats strike at the same time. South Korea, Taiwan and Singapore faced all three and built developmental states; most of Southeast Asia lacked at least one and did not.
+
+**Kohli, A. (2004)** _State-Directed Development: Political Power and Industrialization in the Global Periphery_. Cambridge: Cambridge University Press.  
+State type was set by colonial legacy. Korea inherited a cohesive-capitalist state from Japanese rule, allied with capital, repressed labour and industrialised fastest; Brazil’s fragmented-multiclass state and Nigeria’s neopatrimonial state performed progressively worse.
+
+**Chibber, V. (2002)** ‘Bureaucratic rationality and the developmental state’, _American Journal of Sociology_, 107(4), pp. 951–989.  
+**Chibber, V. (2003)** _Locked in Place: State-Building and Late Industrialization in India_. Princeton: Princeton University Press.  
+Korea succeeded because a nodal agency, the Economic Planning Board, sat above other ministries, and export-led growth made capitalists accept state discipline. India’s import-substitution strategy let capitalists resist discipline, so the Planning Commission never controlled the line ministries.
+
+**Kang, D.C. (2002)** _Crony Capitalism: Corruption and Development in South Korea and the Philippines_. Cambridge: Cambridge University Press.  
+South Korea and the Philippines had similar levels of corruption. In Korea, a balance of power between state and chaebol made them “mutual hostages” and kept corruption bounded, so growth continued; in the Philippines, oligarchs plundered a weak state and growth failed.
+
+**Rithmire, M. (2023)** _Precarious Ties: Business and the State in Authoritarian Asia_. Oxford: Oxford University Press.  
+Indonesia and Malaysia show mutual alignment between political and business elites. China shifted to mutual endangerment after the 1990s: elites were bound together by corrupt deals, capital flight and financial risk built up, and the state responded by tightening control over private capital.
+
+**Carroll, T. and Jarvis, D.S.L. (2017)** ‘Disembedding autonomy: Asia after the developmental state’, in Carroll, T. and Jarvis, D.S.L. (eds.) _Asia after the Developmental State: Disembedding Autonomy_. Cambridge: Cambridge University Press. [page range not found]  
+After liberalisation and globalisation, Asia’s developmental states have disembedded from industrial capital and now operate mainly as market-regulating states. Evans’s framework no longer describes them.
+
+**Evans, P. (2008)** ‘In search of the 21st century developmental state’, _CGPE Working Paper_ No. 4. Brighton: Centre for Global Political Economy, University of Sussex.  
+Growth now depends on capabilities embodied in people, so the state must embed itself with citizens and communities rather than industrial elites. Its autonomy from private elites should increase, not decrease.
+
+**Evans, P. and Heller, P. (2015)** ‘Human development, state transformation, and the politics of the developmental state’, in Leibfried, S. et al. (eds.) _The Oxford Handbook of Transformations of the State_. Oxford: Oxford University Press, pp. 691–713.  
+Kerala and participatory budgeting in Porto Alegre show that bottom-up deliberative channels improve public service delivery. A capability-oriented developmental state depends on democratic deliberation for its information.
+
+**Ó Riain, S. (2004)** _The Politics of High-Tech Growth: Developmental Network States in the Global Economy_. Cambridge: Cambridge University Press.  
+Ireland’s high-tech success came from a state that built firm networks and linked them to transnational capital, not from bureaucratic direction. This “developmental network state” is a distinct alternative to the East Asian bureaucratic model.
+
+**Rodrik, D. (2004)** ‘Industrial policy for the twenty-first century’, _CEPR Discussion Paper_ No. 4767. London: Centre for Economic Policy Research.  
+Governments cannot know in advance which sectors to support, so industrial policy should be a joint discovery process with firms. Good design requires embedded coordination, carrots and sticks, and exit rules for failed projects.
+
+**Weiss, L. (1998)** _The Myth of the Powerless State_. Cambridge: Polity Press.  
+Globalisation has not eroded state capacity. Japan, Korea and Taiwan kept their capacity to transform industry through “governed interdependence” with firms.
+
+**Scott, J.C. (1998)** _Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed_. New Haven: Yale University Press.  
+States simplify society to make it legible, and in doing so they destroy local practical knowledge (mētis). Disaster follows when high-modernist schemes meet an authoritarian state and a weak civil society.
+
+### Chinese state–business relations and anti-corruption
+
+**Bai, C.-E., Hsieh, C.-T. and Song, Z. (2020)** ‘Special deals with Chinese characteristics’, _NBER Macroeconomics Annual_, 34, pp. 341–379.  
+China’s growth relied on local officials granting special deals to selected firms, which let those firms bypass poor formal institutions. The cost is misallocation and a systematic advantage for connected firms.
+
+**Bai, C.-E., Hsieh, C.-T., Song, Z. and Wang, X. (2020)** ‘The rise of state-connected private owners in China’, _NBER Working Paper_ No. 28170. Also circulated as ‘Special deals from special investors: the rise of state-connected private owners in China’, _BFI Working Paper_ No. 2020-170.  
+Private owners form a hierarchy by how closely their equity ties link them to state owners, and connected owners’ share of registered capital rose by almost 20 percentage points between 2000 and 2019. The authors estimate that this expansion raised private-sector output by 4.2% a year. [sysu](https://lingnan.sysu.edu.cn/ife/node/631)
+
+**Fan, J.P.H., Wong, T.J. and Zhang, T. (2007)** ‘Politically connected CEOs, corporate governance, and post-IPO performance of China’s newly partially privatized firms’, _Journal of Financial Economics_, 84(2), pp. 330–357.  
+Partially privatised firms with politically connected CEOs underperform by almost 18% in three-year post-IPO stock returns and do worse on accounting measures. Their boards have more bureaucrats and fewer professionals.
+
+**Li, H., Meng, L., Wang, Q. and Zhou, L.-A. (2008)** ‘Political connections, financing and firm performance: evidence from Chinese private firms’, _Journal of Development Economics_, 87(2), pp. 283–299.  
+Party membership of private entrepreneurs helps their firms obtain bank loans and is associated with better firm performance. The effect is stronger where market and legal institutions are weaker.
+
+**Ang, Y.Y. and Jia, N. (2014)** ‘Perverse complementarity: political connections and the use of courts among private firms in China’, _Journal of Politics_, 76(2), pp. 318–332.  
+Among more than 3,900 private firms, politically connected firms are more likely to use courts to resolve disputes. Formal law and political connections are complements, not substitutes.
+
+**Wang, Y. (2016)** ‘Beyond local protectionism: China’s state–business relations in the last two decades’, _The China Quarterly_, 226, pp. 319–341.  
+Listed firms increasingly connected themselves to the national government over the past twenty years. This contradicts the common claim that Chinese firms relied mainly on collusion with local politicians. [harvard](https://yuhuawang.scholars.harvard.edu/resource/wang2016finalpdf)
+
+**Giannetti, M., Liao, G., You, J. and Yu, X. (2021)** ‘The externalities of corruption: evidence from entrepreneurial firm performance in China’, _Review of Finance_, 25(3), pp. 629–667.  
+After the anti-corruption campaign, provinces and industries that had been more corrupt saw higher firm TFP and sales growth and a larger share of young firms. Corruption had been holding back entrepreneurial firms.
+
+**Fang, L., Lerner, J., Wu, C. and Zhang, Q. (2023)** ‘Anticorruption, government subsidies, and innovation: evidence from China’, _Management Science_, 69(8), pp. 4363–4388.  
+After corrupt provincial heads and local innovation officials were removed, research subsidies were allocated more by firm merit and less by corruption. Subsidies also became more strongly linked to future innovation. [sufe](https://academicnewsletter.sufe.edu.cn/info/388784)
+
+**Zhong, W. and Zheng, Y. (2025)** ‘Do political connections stifle firm innovation? Natural experimental evidence from China’s anti-corruption campaigns’, _Strategic Management Journal_, 46(5), pp. 1183–1216.  
+Firms that unexpectedly lost political connections when officials were removed in 1999–2015 filed significantly more patent applications. The increase is concentrated in highly competitive markets and in firms with large knowledge stocks. [sufe](https://academicnewsletter.sufe.edu.cn/info/376089)
+
+**Chen, T. and Kung, J.K.-S. (2019)** ‘Busting the “princelings”: the campaign against corruption in China’s primary land market’, _Quarterly Journal of Economics_, 134(1), pp. 185–226.  
+Firms linked to Politburo members’ families bought land at large price discounts, and provincial party secretaries who granted bigger discounts were more likely to be promoted. The discount narrowed after the anti-corruption campaign began. [arxiv](https://arxiv.org/pdf/2502.07692)
+
+**Manso, J. (2025)** ‘Are princelings truly busted? Evaluating transaction discounts in China’s land market’, _arXiv_ preprint 2502.07692.  
+Nearly one-third of Chen and Kung’s transactions are exact duplicates. Without them the princeling price discount remains large and significant, but the post-2012 drop in princeling land purchases is no longer significant, and Chen and Kung’s “log of area” turns out to be area divided by one million. [arxiv](https://arxiv.org/pdf/2502.07692)
+
+**Wang, E.H. (2022)** ‘Frightened mandarins: the adverse effects of fighting corruption on local bureaucracy’, _Comparative Political Studies_. doi:10.1177/00104140211060276. [volume and pages not found]  
+Exploiting the timing of sub-provincial inspections in 2012–2017, inspections reduced the area of land development projects proposed by bureaucrats, and mediation analysis shows this is unlikely to reflect lower actual corruption. Similar effects appear in revenue collection and environmental regulation. [anu](https://researchportalplus.anu.edu.au/en/publications/frightened-mandarins-the-adverse-effects-of-fighting-corruption-o/)
+
+**Wang, P. and Yan, X. (2020)** ‘Bureaucratic slack in China: the anti-corruption campaign and the decline of patronage networks in developing local economies’, _The China Quarterly_, 243. [page range not found]  
+Corruption may have helped a fragmented bureaucracy promote local development. The anti-corruption campaign pushed local cadres into a new coping strategy of bureaucratic slack. [tsinghua](https://www.sppm.tsinghua.edu.cn/__local/C/47/6A/F1CB224A02840B29B436E4C4357_ED26316F_13800.doc?e=.doc)
+
+**Fang, H., Wu, J., Zhang, R. and Zhou, L.-A. (2022)** ‘Understanding the resurgence of the SOEs in China: evidence from the real estate sector’, _NBER Working Paper_ No. 29688.  
+After the anti-corruption campaign, the share of residential land bought by SOEs rose significantly relative to private developers, using industrial land as the control group. Because selling land to private developers carries a bribery stereotype, even “clean” officials favour SOEs over more efficient private competitors. [nber](https://www.nber.org/papers/w29688)
+
+**Tu, W., Zhang, X. and Zheng, X. (2025)** ‘Does anti-corruption enforcement trigger bureaucratic slack in China? The moderating effect of an administrative reform’, _Problems of Post-Communism_, 72(6), pp. 558–570.  
+In a 2011–2016 city panel, harsh anti-corruption enforcement led to slack in promoting the local economy in cities without administrative approval reform. Cities that had carried out the reform showed no slack. [fudan](https://igpp.fudan.edu.cn/igppen/0a/29/c20944a789033/page.htm)
+
+**Pearson, M.M., Rithmire, M. and Tsai, K.S. (2021)** ‘Party-state capitalism in China’, _Current History_, 120(827), pp. 207–213.  
+China’s model is better called party-state capitalism: the Communist Party’s political survival takes priority over development, and party-state power is increasingly used to discipline private capital. This fusion of state and private interests has provoked foreign governments to treat it as a national-security threat. [hkust](https://researchportal.hkust.edu.hk/en/publications/party-state-capitalism-in-china/)
+
+---
+
+### SCS&implementation
+
+**Daum, J. (2021)** ‘Far from a panopticon, social credit focuses on legal violations’, _China Brief_, 21(19). Washington, DC: Jamestown Foundation.  
+Draft national directories of credit inputs and penalties show SCS works as a bureaucratic interface for existing legal and regulatory systems, an extension of the law rather than an independent rule-making authority. All data collection and all punishments require a legal basis. [jamestown](https://jamestown.org/?p=90724\)\)%EF%BC%9BAhl%E3%80%81Backer)
+
+**Ahl, B., Backer, L.C. and Chen, Y. (2024)** ‘Law and social credit in China: an introduction’, _China Review_, 24(3), pp. 1–15.  
+Social credit is a governance mode in which private actors and state agencies base decisions about others on credibility assessments. The special issue’s contributors argue that SCS changes both how law is enforced and the form and function of law itself. [psu](https://pure.psu.edu/en/publications/law-and-social-credit-in-china-an-introduction/)
+
+**Creemers, R. (2018)** ‘China’s social credit system: an evolving practice of control’, _SSRN Working Paper_ 3175792.  
+SCS is a set of initiatives sharing a common logic, not one unified system, and its aim is to strengthen governance and control through information. Its technology is relatively crude.
+
+**Liu, C. (2019)** ‘Multiple social credit systems in China’, _Economic Sociology: The European Electronic Newsletter_, 21(1), pp. 22–32.  
+China runs multiple social credit systems, not one. The People’s Bank of China treats credit as financial creditworthiness, while the NDRC uses a broader notion of trustworthiness and legal compliance.
+
+**Brussee, V. (2023)** _Social Credit: The Warring States of China’s Emerging Data Empire_. Singapore: Palgrave Macmillan.  
+SCS is built separately by localities and departments and is highly fragmented. The central government itself lacks a clear definition of the project.
+
+**Schaefer, K. (2020)** _China’s Corporate Social Credit System: Context, Competition, Technology and Geopolitics_. Report for the U.S.–China Economic and Security Review Commission. Beijing: Trivium China.  
+The corporate SCS is a data-driven regulatory tool, and redlisted firms can receive 63 kinds of benefits. Foreign-invested firms are covered by the system.
+
+**Cheung, A.S.Y. and Chen, Y. (2022)** ‘From datafication to data state: making sense of China’s social credit system and its implications’, _Law & Social Inquiry_, 47(4), pp. 1137–1171.  
+A “data state” is one that monitors, evaluates and controls its subjects through datafication, leaving them little room to defend their autonomy. If SCS integrates its functions and connects to other data-driven governance projects, it would turn China into such a state. [anu](https://researchportalplus.anu.edu.au/en/publications/from-datafication-to-data-state-making-sense-of-chinas-social-cre/)
+
+**Lin, L.Y.-H. and Milhaupt, C.J. (2023)** ‘China’s corporate social credit system: the dawn of surveillance state capitalism?’, _The China Quarterly_, 256, pp. 835–853.  
+Using Zhejiang’s published scores, politically connected firms receive higher CSCS scores, and the gap comes from a “social responsibility” category that rewards government awards and contributions to Party-sanctioned causes. The authors find no evidence that connected firms have better compliance records. [ecgi](https://www.ecgi.global/publications/paper-publications/chinas-corporate-social-credit-system-the-dawn-of-surveillance)
+
+**Trauth-Goik, A. and Sel, P. (2022)** ‘What’s new about China’s new (draft) social credit law?’, _9DashLine_, 21 December.  
+Article 2 of the 2022 draft law defines “untrustworthiness” circularly, and “integrity” is never defined even though nearly half the articles use it. Authorities chose unification over clarification, which preserves the strategic ambiguity that lets the system adapt. [9dashline](https://www.9dashline.com/article/whats-new-about-chinas-new-draft-social-credit-law)
+
+**von Blomberg, M. (2024)** ‘Credibility standards: a new social credit mode of regulation?’, _China Information_. doi:10.1177/0920203X231191098.  
+Credibility-based regulation is discretionary decision-making informed by quantified assessments of regulated subjects’ credibility. Voluntary national standards, drafted with platform companies, industry associations and other non-state actors, are the technical link between central rhetoric and implementation. [citedrive](https://www.citedrive.com/en/discovery/credibility-standards-a-new-social-credit-mode-of-regulation/)
+
+**Chen, M. and Grossklags, J. (2025)** ‘Algorithmic regulation at the city level in China’, _Data & Policy_, 7, e37. doi:10.1017/dap.2025.12.  
+Compliance always carries the largest weight in city enterprise scores (over 40%), but rating thresholds differ: Zhejiang requires 850 for “Excellent” while Yongzhou requires 800, so scores are not fully comparable across regions. The supervision measures attached to ratings are not always disclosed, and non-public local rules may shape implementation. [cambridge](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/57D30B18C3A50C7208B3E6DFF88BBC74/S2632324925000124a.pdf/algorithmic-regulation-at-the-city-level-in-china.pdf)
+
+**von Blomberg, M. and Ahl, B. (2024)** ‘Debating the legality of social credit measures in China: a review of Chinese legal scholarship’, _China Review_, 24(3), pp. 17–46.  
+Chinese legal scholars argue that joint punishment of trust-breakers conflicts with law-based administration, proportionality, the bar on double sanctioning and the prohibition on improper connection. Recent legislation shows signs of responding to this criticism. [cuhk](https://cup.cuhk.edu.hk/image/catalog/journal/jpreview/CR24.3_17-46.pdf)
+
+**Tsai, W.-H., Wang, H.-H. and Lin, R. (2021)** ‘Hobbling big brother: top-level design and local discretion in China’s social credit system’, _The China Journal_, 86, pp. 1–20.  
+In City Z, local officials used their discretion to advance the least risky components first. Commercial integrity moved fastest, while government and civil-servant integrity moved slowest.
+
+**Drinhausen, K. and Brussee, V. (2021)** _China’s Social Credit System in 2021: From Fragmentation towards Integration_. China Monitor. Berlin: MERICS.  
+Only 10–25% of sectoral blacklist records reached the central database. Firms fined around 600 yuan appeared on the same lists as defaulters on billions in loans.
+
+**Liu, C. (2024)** ‘Embedded boundary: how bureaucrats datafy everyday behavior in China’, talk, Department of Sociology, UC Berkeley. [unpublished]  
+A ten-month ethnography with 104 interviews in a northern Chinese city found that officials selectively collected, and sometimes fabricated, credit data.
+
+**Ahmed, S.I. (2022)** _State-Firm Co-production of China’s Social Credit System_. PhD dissertation. University of California, Berkeley.  
+Tech firms co-produced SCS with the state under structured uncertainty: large platforms acted as “credit norm entrepreneurs” and negotiated how their data was used, while hundreds of smaller firms built local databases and scoring platforms. Framing trust as an information-asymmetry problem made SCS ineffective at its own goal of building trust, and the dissertation classifies the outcome as performative governance. [escholarship](https://escholarship.org/uc/item/3t6314sm)
+
+**Ding, I. (2020)** ‘Performative governance’, _World Politics_, 72(4), pp. 525–556.  
+In Hangzhou’s environmental bureaucracy, under-resourced officials stage visible responsiveness to placate citizens rather than meet their demands. The concept comes from environmental governance; its use for SCS is Ahmed’s (2022) extension.
+
+---
+
+### Policy documents
+
+**General Office of the State Council (2020)** _Guiding Opinions on Further Improving Systems for Restraining Untrustworthiness and Building Long-Term Mechanisms for Creditworthiness_ (Guobanfa [2020] No. 49), 18 December.  
+Public credit information must rest on law, regulation or central policy and is managed through catalogues, and no department may add to or expand serious-untrustworthiness lists on its own. Punishments must be proportionate, so that minor violations do not draw heavy penalties.
+
+**National Development and Reform Commission (2025)** _Measures for the Administration of Credit Repair_ (NDRC Order No. 36), 20 November; effective 1 April 2026.  
+Untrustworthiness information is classified as minor, general or serious: minor information is in principle not published (at most three months if a sector regulator deems it necessary), general information is published for three months to one year, and serious information for one to three years. Repair can be requested once the minimum period ends, and publication stops automatically at the maximum, while uncorrected cases are left to sector regulators’ own rules. [cls](https://www.cls.cn/detail/2211260)
+
+---
+
+### 5. SCS pilot-city DID studies
+
+**Cao, Y., Kong, D. and Tao, Y. (2022)** ‘Evaluation on the effect of the pilot reform of the social credit system: from the perspective of corporate social responsibility’, _Journal of Finance and Economics_ [Caijing Yanjiu], 48(2), pp. 93–108. [in Chinese]  
+Using A-share firms in 2009–2017, the pilot reform raised CSR activity by cutting agency costs and information asymmetry. The effect is larger where formal institutions are weaker, which the authors read as SCS substituting for formal institutions, and among non-SOEs and poorly governed firms. [shufe](https://qks.shufe.edu.cn/J/PDFFullDown/443a04d4-ac8c-4ed7-aea7-7a470d4df979)
+
+**Zuo, J., Qiu, B. and Jiang, T. (2023)** ‘Can the construction of the social credit system curb corporate environmental untrustworthiness?’, _Foreign Economics & Management_, 45(3), pp. 101–117. [in Chinese]  
+Among heavy-polluting A-share firms in 2012–2019, environmental violations in pilot areas fell by 13.49% on average, a result that holds after checks for staggered-DID bias. The effect is larger where generalised trust is low and dialect diversity is high. [shufe](https://qks.shufe.edu.cn/J/PDFFullDown/d0ddead8-524d-4440-b85f-3dda82247714?lang=cn)
+
+**Wu, L. and Zhang, Y. (2024)** ‘Social credit system construction and corporate debt dilemmas’, _Finance Research Letters_, 60.  
+Using the tax credit rating system as an external shock, social credit system construction eases corporate debt distress. Your notes say the effect is larger for private and unconnected firms; the abstract does not show this, so check the full text. [repec](https://ideas.repec.org/a/eee/finlet/v60y2024ics1544612323012278.html)
+
+**Guo, S., Wang, Y. and Liu, Y. (2025)** ‘How social credit affects enterprise innovation: evidence from the development of China’s social credit system’, _Technological Forecasting and Social Change_, 213, 124007.  
+Demonstration-city status raised innovation among listed firms in 2011–2019 through credit financing, inter-firm cooperation and government resource allocation. The effect is significant in cities with high marketisation and informatisation and spills over to neighbouring cities. [repec](https://ideas.repec.org/a/eee/tefoso/v213y2025ics0040162525000381.html)
+
+**Zhao, X., Li, H. and Liu, S. (2025)** ‘The power of credit: can the implementation of a social credit system reduce the risk of corporate debt default?’, _Economic Analysis and Policy_, 86, pp. 749–763.  
+Using 62 pilot cities from the 2015, 2016 and 2021 batches, SCS reduced firms’ debt default risk by easing financing constraints, cutting agency costs and improving disclosure. The effect is larger in better legal environments and among non-SOEs. [repec](https://ideas.repec.org/a/eee/ecanpo/v86y2025icp749-763.html)
+
+**Wang, Q.S., Chen, L., Lai, S. and Anderson, H.D.** ‘Credit information sharing, trade credit, and firm performance: quasi-natural experimental evidence from China’. [Your notes cite this as Wang et al. (2026); I found only the working-paper version, so venue and year are unconfirmed.]  
+The pilot reform increased firms’ access to trade credit through lower default risk and better information quality, and the extra trade credit raised ROE and Tobin’s Q. Effects are larger for private firms without
