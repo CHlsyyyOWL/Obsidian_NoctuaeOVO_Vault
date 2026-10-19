@@ -18,7 +18,9 @@ Daily Notes: 2026-10-19
 How does the Social Credit System affect connected firms' advantage in bank credit?
 
 Variables
-- **Y** Bank loans, measured as short-term plus long-term bank borrowing divided by total assets
+- **Y** Bank loans
+-   $\dfrac{Short-term + Long-term}{total Assets}$。
+
 - **X** Pilot × Post × Connected
   - **Pilot** = 1 if the firm is registered in a 2015 or 2016 SCS pilot city
   - **Post** = 1 from the first full year after the city's designation
