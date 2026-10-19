@@ -25,7 +25,7 @@ This paper was selected because it shows that after China’s social credit refo
 
 This paper was selected because it shows that, among 531 listed firms in Zhejiang, politically connected firms receive credit scores about 10.5 points higher, and that the whole gap comes from a social responsibility score (a sub-filed of the SCS scoring system) valorizes awards from the government and contributions to causes sanctioned by the Chinese Communist Party, while connected firms have no better compliance records. This pattern suggests that credit system can still embrace political alignment rather than compliance alone. If credit scores carry political loyalty in this way, then the Social Credit System may preserve or even widen the advantage of connected firms, and therefore needs to test this possibility as a rival hypothesis.
 ### Research question
-How does the Social Credit System affect connected firms' advantage in bank credit?
+How does the Social Credit System affect politically connected firms' advantage in bank credit?
 
 **Design** Triple DID
 
@@ -46,14 +46,12 @@ How does the Social Credit System affect connected firms' advantage in bank cred
 - $\Delta_N$ removes nationwide trends
 **Hypotheses**
 
-- H1, information substitution, $\beta_7 < 0$
-- H2, political control, $\beta_7 \geq 0$
+- H1, information substitution,
+- H2, political control,
 
-**Why 2014 for C** Last full year before first pilot (Aug 2015), and after the 2013 rule on officials holding corporate posts. Robustness, connected if any year 2010–2014.
+2014:  Last full year before first pilot (Aug 2015), and after the 2013 rule on officials holding corporate posts. Robustness, connected if any year 2010–2014.
 
-**Sample** Private A-share listed non-financial firms, listed before 2014, excl. ST
 
 **Data**
-
 - Pilot lists, NDRC notices 2015 and 2016
-- Loans, assets, executive backgrounds, CSMAR (access to confirm), fallback CNINFO annual reports
+- Loans, assets, executive backgrounds, CSMAR,  CNINFO annual reports
