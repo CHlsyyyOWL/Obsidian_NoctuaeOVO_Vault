@@ -1,8 +1,8 @@
 ---
 tags:
   - UK/ucl
-Module:
-Daily Notes:
+Module: ECON0117
+Daily Notes: 2026-10-19
 ---
 ⬇️Download Course Material From UCL
 	https://moodle.ucl.ac.uk/my/
