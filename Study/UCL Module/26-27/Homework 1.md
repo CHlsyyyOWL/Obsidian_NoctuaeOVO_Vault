@@ -27,29 +27,53 @@ This paper was selected because it shows that, among 531 listed firms in Zhejian
 ### Research question
 How does the Social Credit System affect connected firms' advantage in bank credit?
 
-Variables
-- **Y** Bank loans
--   $\dfrac{Short term + Long term}{total Assets}$。
 
-- **X** Pilot × Post × Connected
-  - **Pilot** = 1 if the firm is registered in a 2015 or 2016 SCS pilot city
-  - **Post** = 1 from the first full year after the city's designation
-  - **Connected** = 1 if the chairman was a people's congress or political consultative conference deputy before 2015 ?
+# Research Design
 
-Hypotheses
-- **H1 (information substitution)** The bank credit advantage of connected firms shrinks after SCS designation
-- **H2 (political control)** The advantage persists or grows, because the state still controls credit records, rewards and punishments
+## Research question
+How does the Social Credit System affect connected firms' advantage in bank credit?
 
-Data
-- A-share listed non-financial firms, 2010 to 2019, excluding ST firms
-- Pilot city lists from the NDRC notices of 2015 and 2016
-- Financial and executive data from CSMAR (access to be confirmed), with annual reports from CNINFO as a fallback
+## Sample
+- Private (non-state-owned) A-share listed firms, excluding financial and ST firms
+- Firms listed before 2014, so that every firm has pre-reform observations
+- Years 2010–2019, with 2016 dropped as the transition year
 
-Estimation
-Triple-difference regression with firm and year fixed effects, plus controls for firm size, profitability, age and ownership. City × year fixed effects are added as a robustness check.
+## Variables
 
-Optional extensions
-- Government subsidies as a second outcome, to separate bank decisions from official discretion
-- Heterogeneity by ownership (private vs state-owned) and regional institutional quality
+**Outcome**
+$$
+Loan_{it} = \frac{\text{Short-term borrowings}_{it} + \text{Long-term borrowings}_{it}}{\text{Total assets}_{it}}
+$$
 
-*Listed firms are larger than the firms SCS blacklists mainly target, so results apply most directly to large firms.
+**Treatment**
+- $Pilot_c = 1$ if the firm is registered in a city or district designated as an SCS pilot in 2015 or 2016
+- $Post_t = 1$ for 2017–2019, and 0 for 2010–2015
+
+**Political connection** (fixed in 2014, before any designation)
+- $Connected_i = 1$ if the firm's chairman or CEO is a deputy to a people's congress or political consultative conference, or a current or former government official
+
+**Controls** (lagged one year)
+- Log total assets, return on assets, tangible assets ratio, firm age
+
+## Model
+$$
+Loan_{it} = \beta\,(Pilot_c \times Post_t \times Connected_i) + \gamma_1 (Pilot_c \times Post_t) + \gamma_2 (Post_t \times Connected_i) + X_{i,t-1}'\theta + \alpha_i + \delta_t + \varepsilon_{it}
+$$
+
+- $\alpha_i$ firm fixed effects absorb $Pilot_c$, $Connected_i$ and $Pilot_c \times Connected_i$
+- $\delta_t$ year fixed effects absorb $Post_t$
+- Standard errors clustered at the city level
+- $\beta$ measures how much more the loan gap between connected and unconnected firms changes in pilot cities than in non-pilot cities
+
+## Hypotheses
+- **H1 (information substitution)** $\beta < 0$. The loan advantage of connected firms shrinks in pilot cities
+- **H2 (political control)** $\beta \geq 0$. The advantage persists or grows, because the state still controls credit records, rewards and punishments
+
+## Checks
+- **Event study** Replace $Post_t$ with year dummies (2015 as base year) and plot the coefficients. Pre-2016 coefficients should be close to zero
+- **City × year fixed effects** Replace $\delta_t$ and $Pilot_c \times Post_t$ with city × year fixed effects, which absorb all city-level shocks
+- **Alternative connection measure** Use only people's congress and political consultative conference membership
+
+## Data
+- Pilot lists from the NDRC notices of 2015 and 2016
+- Financial statements and executive backgrounds from CSMAR (access to be confirmed), with annual reports from CNINFO as a fallback
