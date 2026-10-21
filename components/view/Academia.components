@@ -294,97 +294,6 @@
       "title": "UCL 24-25"
     },
     {
-      "id": "f4a776c8-0a23-4452-b682-f72be036e239",
-      "type": "dynamicDataView",
-      "titleAlign": "center",
-      "tabTitle": "Shelf",
-      "maxWidthRatio": -1,
-      "showBorder": false,
-      "showShadow": false,
-      "createAt": "2025-03-21T15:37:41.023Z",
-      "updateAt": "2026-07-28T05:21:53.091Z",
-      "viewType": "gallary",
-      "newPageNameFormat": "{{date: YYMMDD}}",
-      "properties": [
-        {
-          "id": "__componentsTitleProperty_0x7c00",
-          "name": "文件名",
-          "type": "text",
-          "isShow": true,
-          "wrap": false,
-          "options": {}
-        },
-        {
-          "id": "a107b588-0454-4174-b139-8ec7222e176e",
-          "name": "Date",
-          "type": "text",
-          "isShow": true,
-          "wrap": false,
-          "options": {},
-          "alias": ""
-        },
-        {
-          "id": "2a534d6d-214f-4bb4-a98e-afe1fd197a42",
-          "name": "未命名",
-          "type": "text",
-          "isShow": true,
-          "wrap": false,
-          "options": {},
-          "alias": ""
-        }
-      ],
-      "templates": [],
-      "groups": [],
-      "colorfulGroups": false,
-      "viewOptions": {
-        "openPageIn": "tab",
-        "openPageAfterCreate": true,
-        "itemSize": "components--page-card-large",
-        "showPropertyName": false,
-        "showAllProperties": false,
-        "items": [],
-        "cover": {
-          "type": "none",
-          "source": "property",
-          "fit": "contains",
-          "layout": "components--page-card-cover-landscape",
-          "position": "top"
-        },
-        "pinFiltersToMenuBar": false,
-        "showGrid": false,
-        "heightType": "auto",
-        "heightValue": 600
-      },
-      "groupStates": {
-        "sort": "nameAsc",
-        "statics": [],
-        "orders": [],
-        "hiddens": [],
-        "collapseds": []
-      },
-      "filter": {
-        "id": "79e23bbd-01e1-4253-9304-1571405ef324",
-        "type": "group",
-        "operator": "and",
-        "conditions": [
-          {
-            "id": "a04e0965-0f06-48a2-95a6-6d4aae2118b3",
-            "type": "filter",
-            "operator": "contains",
-            "property": "${file.path}",
-            "value": "Study/Noctuae Celsum/Books/Books documents",
-            "conditions": []
-          }
-        ]
-      },
-      "newPageLocation": {
-        "location": "Study/Noctuae Celsum/Books/Book Notes"
-      },
-      "components": [],
-      "showTitle": false,
-      "title": "Shelf"
-    },
-    {
       "id": "d7eea145-14a0-49eb-a71c-715a54899d8f",
       "type": "multi",
       "titleAlign": "center",
@@ -650,10 +559,10 @@
       "updateAt": "2026-07-28T03:20:57.217Z",
       "components": [
         {
-          "componentId": "f4a776c8-0a23-4452-b682-f72be036e239"
+          "componentId": "ad24500e-a274-439e-bc9a-8c8e7d8e5483"
         },
         {
-          "componentId": "ad24500e-a274-439e-bc9a-8c8e7d8e5483"
+          "componentId": "8f90c456-550d-4880-950d-031631b40ed3"
         }
       ],
       "layoutType": "tab",
@@ -1903,6 +1812,68 @@
         "location": "Study/UCL Module/26-27"
       },
       "defaultTemplate": "0c62d9e0-519f-4ae5-a67c-69f5c66a4e1c"
+    },
+    {
+      "id": "8f90c456-550d-4880-950d-031631b40ed3",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "Library",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showTitle": true,
+      "showShadow": false,
+      "createAt": "2026-10-21T14:46:06.725Z",
+      "updateAt": "2026-10-21T14:47:41.196Z",
+      "viewType": "table",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {
+            "width": "728"
+          }
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "items": [],
+        "pinFiltersToMenuBar": false,
+        "hideHeaderMenu": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "statics": [],
+        "orders": [],
+        "hiddens": [],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "f3df8c05-719f-4454-8295-03c5d6b39e97",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "593432d4-8f12-4d40-aebd-3215d3e84172",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "Study/Noctuae Celsum/Papers",
+            "conditions": []
+          }
+        ]
+      },
+      "title": "Library"
     }
   ],
   "rootComponentId": "6ba36770-fb64-4889-a28e-ef73322a0e24",
