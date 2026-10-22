@@ -58,6 +58,10 @@ Faculty status、supervision availability、GRE policy、writing sample rules、
 
 现有课程材料位于 `Study/UCL Module`。当前 modules、考试日期、revision status 和 immediate deadlines 尚未集中记录。
 
+ECON0117 是 2026-27 的 dissertation module，材料位于 `Study/UCL Module/26-27/Econ0117`。评分构成是 proposal 20%、dissertation 60%、viva 20%。当前 RQ 是 SCS 试点是否缩小了政治关联企业与无关联民营上市企业之间的银行贷款差距，设计为三重差分。Homework 2 已于 2026 年 10 月 22 日完成。文献框架见 [[ECON0117 文献综述思路]]。
+
+下一步是 16 Nov Seminar 3 的 literature review，然后是 14 Dec 的 proposal draft，proposal 于 2027 年 1 月提交。开始写 literature review 之前需要在知网检索“社会信用体系 试点 政治关联 银行贷款”，确认 research gap 是否成立。
+
 ## UK driving licence
 
 当前阶段、已完成步骤、booking 和下一步尚未记录。
