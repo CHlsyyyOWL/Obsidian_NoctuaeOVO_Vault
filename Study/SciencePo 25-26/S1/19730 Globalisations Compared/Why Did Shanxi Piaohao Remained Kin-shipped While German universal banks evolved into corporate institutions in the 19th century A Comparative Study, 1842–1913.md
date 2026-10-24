@@ -13,7 +13,7 @@ Progress:
   - 已完成
 ---
 # 正文
-![[Why Did Shanxi Piaohao Remained Kin-shipped While German universal banks evolved into corporate institutions in the 19th century? A Comparative Study, 1842–1913.pdf]]
+![[Why Did Shanxi Piaohao Remained Kin-shipped While German universal banks evolved into corporate institutions in the 19th century A Comparative Study, 1842–1913.pdf]]
 
 # Content
 
