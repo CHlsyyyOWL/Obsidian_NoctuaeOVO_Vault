@@ -17,6 +17,8 @@ Progress:
 🎓DashBoard: [[Academia.components]]
 
 ---
+# 正文
+![[Is Grid Governance a Rationalisation of State Authority JIatong.pdf]]
 
 ## proposal
 ### Introduciton
