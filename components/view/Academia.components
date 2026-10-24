@@ -898,7 +898,7 @@
       "showTitle": true,
       "showShadow": false,
       "createAt": "2026-03-05T14:48:18.537Z",
-      "updateAt": "2026-06-25T14:43:03.274Z",
+      "updateAt": "2026-10-24T15:47:46.221Z",
       "viewType": "table",
       "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} ",
       "properties": [
@@ -908,7 +908,9 @@
           "type": "text",
           "isShow": true,
           "wrap": false,
-          "options": {}
+          "options": {
+            "width": "783"
+          }
         },
         {
           "id": "f28b1ece-3ed5-4734-b42b-af9e5ab35886",
