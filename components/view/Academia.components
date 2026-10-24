@@ -374,7 +374,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-03-17T14:21:52.508Z",
-      "updateAt": "2026-05-15T16:15:34.701Z",
+      "updateAt": "2026-10-24T15:07:50.672Z",
       "viewType": "list",
       "newPageNameFormat": "{{date: YYYY-MM-DD}}",
       "properties": [
@@ -509,9 +509,7 @@
           "CompPol"
         ],
         "hiddens": [],
-        "collapseds": [
-          "HisComtp"
-        ]
+        "collapseds": []
       },
       "filter": {
         "id": "cface516-6715-42f1-bbd0-d131657cf42e",
