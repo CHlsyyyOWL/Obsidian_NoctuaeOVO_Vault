@@ -1,0 +1,6 @@
+# ECON0117 data: keep scripts, log, lean raw tables and processed panels tracked
+.venv/
+raw/cache/
+raw/pdf_2014/
+__pycache__/
+*.pyc
