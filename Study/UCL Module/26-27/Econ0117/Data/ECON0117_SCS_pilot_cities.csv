@@ -1,0 +1,44 @@
+city_cn,province_cn,admin_level,prefecture_cn,batch,batch_announced,demo_2017,demo_2019,source
+沈阳市,辽宁省,sub-provincial city,沈阳市,1,2015-08,0,0,NDRC report on 2015-08-28 symposium (ndrc.gov.cn/fzggw/wld/lwl/lddt/201509/t20150906_1167539.html)
+青岛市,山东省,sub-provincial city,青岛市,1,2015-08,0,1,NDRC report on 2015-08-28 symposium
+南京市,江苏省,sub-provincial city,南京市,1,2015-08,1,0,NDRC report on 2015-08-28 symposium
+无锡市,江苏省,prefecture city,无锡市,1,2015-08,0,1,NDRC report on 2015-08-28 symposium
+宿迁市,江苏省,prefecture city,宿迁市,1,2015-08,1,0,NDRC report on 2015-08-28 symposium
+杭州市,浙江省,sub-provincial city,杭州市,1,2015-08,1,0,NDRC report on 2015-08-28 symposium
+温州市,浙江省,prefecture city,温州市,1,2015-08,1,0,NDRC report on 2015-08-28 symposium
+义乌市,浙江省,county-level city,金华市,1,2015-08,1,0,NDRC report on 2015-08-28 symposium
+合肥市,安徽省,prefecture city,合肥市,1,2015-08,0,1,NDRC report on 2015-08-28 symposium
+芜湖市,安徽省,prefecture city,芜湖市,1,2015-08,0,1,NDRC report on 2015-08-28 symposium
+成都市,四川省,sub-provincial city,成都市,1,2015-08,1,0,NDRC report on 2015-08-28 symposium
+北京市海淀区,北京市,municipal district,北京市,2,2016-04-06,0,0,发改财金〔2016〕769号 (city list via 163.com/dy/article/EMI9SHAU053257CG.html; date and number via huangshi.gov.cn 2016-08-30)
+呼和浩特市,内蒙古自治区,prefecture city,呼和浩特市,2,2016-04-06,0,0,发改财金〔2016〕769号
+乌海市,内蒙古自治区,prefecture city,乌海市,2,2016-04-06,0,0,发改财金〔2016〕769号
+大连市,辽宁省,sub-provincial city,大连市,2,2016-04-06,0,0,发改财金〔2016〕769号
+鞍山市,辽宁省,prefecture city,鞍山市,2,2016-04-06,0,1,发改财金〔2016〕769号
+辽阳市,辽宁省,prefecture city,辽阳市,2,2016-04-06,0,0,发改财金〔2016〕769号
+绥芬河市,黑龙江省,county-level city,牡丹江市,2,2016-04-06,0,0,发改财金〔2016〕769号
+上海市浦东新区,上海市,municipal district,上海市,2,2016-04-06,0,1,发改财金〔2016〕769号
+上海市嘉定区,上海市,municipal district,上海市,2,2016-04-06,0,1,发改财金〔2016〕769号
+苏州市,江苏省,prefecture city,苏州市,2,2016-04-06,1,0,发改财金〔2016〕769号
+台州市,浙江省,prefecture city,台州市,2,2016-04-06,0,0,发改财金〔2016〕769号
+安庆市,安徽省,prefecture city,安庆市,2,2016-04-06,0,1,发改财金〔2016〕769号
+淮北市,安徽省,prefecture city,淮北市,2,2016-04-06,0,1,发改财金〔2016〕769号
+福州市,福建省,prefecture city,福州市,2,2016-04-06,0,1,发改财金〔2016〕769号
+厦门市,福建省,sub-provincial city,厦门市,2,2016-04-06,1,0,发改财金〔2016〕769号
+莆田市,福建省,prefecture city,莆田市,2,2016-04-06,0,1,发改财金〔2016〕769号
+潍坊市,山东省,prefecture city,潍坊市,2,2016-04-06,1,0,发改财金〔2016〕769号
+威海市,山东省,prefecture city,威海市,2,2016-04-06,1,0,发改财金〔2016〕769号
+德州市,山东省,prefecture city,德州市,2,2016-04-06,0,0,发改财金〔2016〕769号
+荣成市,山东省,county-level city,威海市,2,2016-04-06,1,0,发改财金〔2016〕769号
+郑州市,河南省,prefecture city,郑州市,2,2016-04-06,0,1,发改财金〔2016〕769号
+南阳市,河南省,prefecture city,南阳市,2,2016-04-06,0,0,发改财金〔2016〕769号
+武汉市,湖北省,sub-provincial city,武汉市,2,2016-04-06,0,1,发改财金〔2016〕769号
+咸宁市,湖北省,prefecture city,咸宁市,2,2016-04-06,0,1,发改财金〔2016〕769号
+宜昌市,湖北省,prefecture city,宜昌市,2,2016-04-06,0,1,发改财金〔2016〕769号
+黄石市,湖北省,prefecture city,黄石市,2,2016-04-06,0,0,发改财金〔2016〕769号
+广州市,广东省,sub-provincial city,广州市,2,2016-04-06,0,0,发改财金〔2016〕769号
+深圳市,广东省,sub-provincial city,深圳市,2,2016-04-06,0,0,发改财金〔2016〕769号
+珠海市,广东省,prefecture city,珠海市,2,2016-04-06,0,0,发改财金〔2016〕769号
+汕头市,广东省,prefecture city,汕头市,2,2016-04-06,0,0,发改财金〔2016〕769号
+惠州市,广东省,prefecture city,惠州市,2,2016-04-06,1,0,发改财金〔2016〕769号
+泸州市,四川省,prefecture city,泸州市,2,2016-04-06,0,1,发改财金〔2016〕769号
