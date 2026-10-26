@@ -14,8 +14,6 @@ Daily Notes: 2026-10-21
 ---
 # Homework draft
 
-> 写作说明。本稿按作业要求写成英文，文风参照 Homework 1 docx。方括号中的 [to verify] 是我没有查到原文、需要你读全文后补上的信息，提交前请全部替换或删除。词数统计见文末。
-
 ## Part 1. Research question
 
 Did the Social Credit System pilots narrow the gap in bank borrowing between politically connected and unconnected private listed firms in China?
