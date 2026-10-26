@@ -1685,7 +1685,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-03-17T14:21:52.508Z",
-      "updateAt": "2026-10-12T12:08:27.120Z",
+      "updateAt": "2026-10-26T14:08:10.975Z",
       "viewType": "list",
       "newPageNameFormat": "{{date: YYYY-MM-DD}}",
       "properties": [
@@ -1775,7 +1775,8 @@
         "statics": [],
         "orders": [],
         "hiddens": [
-          "LSE100"
+          "LSE100",
+          "__$uncategorizedGroup"
         ],
         "collapseds": []
       },
