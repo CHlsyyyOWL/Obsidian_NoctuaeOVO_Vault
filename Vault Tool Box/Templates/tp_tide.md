@@ -1,7 +1,8 @@
 ---
 tags:
+  - Tide
 Date:
-Tide:
-TideMode:
+Arc:
+Type:
 Progress:
 ---

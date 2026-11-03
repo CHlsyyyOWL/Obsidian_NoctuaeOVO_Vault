@@ -2,7 +2,6 @@
 tags:
   - Tide
 Date:
-Tide:
-TideMode:
-  - Profile
+Arc:
+Type: Story
 ---

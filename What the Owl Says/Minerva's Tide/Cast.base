@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.inFolder("What the Owl Says/Minerva's Tide/Cast")
+    - file.ext == "md"
+    - file.name != "cast"
+views:
+  - type: table
+    name: 角色总目录
+    groupBy:
+      property: note.Arc
+      direction: ASC
+    order:
+      - file.name
+      - note.aliases
+      - note.Arc
+      - note.Date
+    sort:
+      - property: file.name
+        direction: ASC

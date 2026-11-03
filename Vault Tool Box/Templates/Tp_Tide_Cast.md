@@ -2,9 +2,8 @@
 tags:
   - Tide
 Date:
-Tide:
-TideMode:
-  - Profile
+Arc:
+Type: Profile
 ---
 # 档案信息
 
