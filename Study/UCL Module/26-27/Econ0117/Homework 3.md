@@ -74,3 +74,5 @@ Body of literature
 
 conclusion 
 taking everything together 
+
+![[ECON0117 Homework 3 Literature Review.docx]]
