@@ -3,9 +3,10 @@ tags:
   - Tide
 Date:
 Arc: N-Minerva's Tide
-Type: Ref
+Type:
+  - Setting
 ---
-> [!caution] This page contained a drawing which was not converted.   
+
 
 ## 闲云：
 

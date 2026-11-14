@@ -3,7 +3,8 @@ tags:
   - Tide
 Date: 2026-05-13
 Arc: N-Minerva's Tide
-Type: Ref
+Type:
+  - Setting
 ---
 
 # Minerva's Tide — Story Bible

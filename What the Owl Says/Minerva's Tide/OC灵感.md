@@ -3,7 +3,8 @@ tags:
   - Tide
 Date:
 Arc: N-Minerva's Tide
-Type: Ref
+Type:
+  - Setting
 ---
 “于是我吃掉了他的肉，喝掉了他的血。我捧着他仅剩的眼珠，等来了天光。”  
 —在某种绝境下，一方或自愿或无奈死亡，另一个人吃掉了他的尸体以偷生。

@@ -9,7 +9,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-02-26T19:22:12.444Z",
-      "updateAt": "2026-10-08T15:20:36.807Z",
+      "updateAt": "2026-11-14T10:40:16.366Z",
       "components": [
         {
           "componentId": "3194d819-6ee1-4eb0-b5f8-563ddd9bfc8f",
@@ -109,7 +109,7 @@
               "x": 8,
               "y": 8,
               "w": 4,
-              "h": 37
+              "h": 4
             }
           }
         },
@@ -125,8 +125,8 @@
             "laptop": {
               "x": 0,
               "y": 12,
-              "w": 8,
-              "h": 34
+              "w": 12,
+              "h": 30
             }
           }
         },
@@ -930,19 +930,25 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-05-28T09:25:44.705Z",
-      "updateAt": "2025-05-28T09:25:44.705Z",
+      "updateAt": "2026-11-14T10:40:31.789Z",
       "components": [
         {
           "componentId": "b4eb1197-41f5-4020-a524-5dc850d93ffb"
         },
         {
+          "componentId": "200ba42c-d31e-4bd8-a2e6-c255f16083ff"
+        },
+        {
           "componentId": "5b33caa4-2c6e-4fce-980d-d190157a5fa5"
         },
         {
-          "componentId": "a5dc2c5b-6534-4a88-9ef2-1064a2439bc9"
+          "componentId": "0ec42a79-22e3-4f0b-ad97-0fafc81e99e9"
         },
         {
-          "componentId": "73e5aeb1-c2c0-48ec-a8e2-720db90f5299"
+          "componentId": "0739babf-4fa2-4eff-8c34-422cd8a9f1c0"
+        },
+        {
+          "componentId": "e2e5c88d-d0df-4bb2-9339-f1fd83fa015c"
         }
       ],
       "layoutType": "tab",
@@ -955,12 +961,12 @@
       "id": "5b33caa4-2c6e-4fce-980d-d190157a5fa5",
       "type": "dynamicDataView",
       "titleAlign": "center",
-      "tabTitle": "Profile",
+      "tabTitle": "I",
       "maxWidthRatio": -1,
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-05-28T09:21:18.438Z",
-      "updateAt": "2026-05-13T21:03:58.353Z",
+      "updateAt": "2026-11-14T10:38:10.741Z",
       "viewType": "table",
       "newPageNameFormat": "cast",
       "properties": [
@@ -970,7 +976,9 @@
           "type": "text",
           "isShow": true,
           "wrap": false,
-          "options": {}
+          "options": {
+            "width": "131"
+          }
         },
         {
           "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
@@ -1051,203 +1059,20 @@
             "id": "fc5b37da-5663-4058-aa6b-cf49c73be961",
             "type": "filter",
             "operator": "contains",
-            "property": "Type",
-            "value": "Profile",
+            "property": "Arc",
+            "value": "I-Echos of Tide",
             "conditions": []
           }
         ]
       },
-      "groupBy": "Arc",
+      "groupBy": "Type",
       "newPageLocation": {
         "location": "What the Owl Says/Minerva's Tide/Cast"
       },
       "components": [],
       "defaultTemplate": "51752652-4485-48a3-a629-1d89171a8755",
-      "showTitle": false
-    },
-    {
-      "id": "a5dc2c5b-6534-4a88-9ef2-1064a2439bc9",
-      "type": "dynamicDataView",
-      "titleAlign": "center",
-      "tabTitle": "Story",
-      "maxWidthRatio": -1,
-      "showBorder": false,
-      "showShadow": false,
-      "createAt": "2025-05-28T09:21:18.438Z",
-      "updateAt": "2026-05-13T21:05:19.969Z",
-      "viewType": "table",
-      "newPageNameFormat": "cast",
-      "properties": [
-        {
-          "id": "__componentsTitleProperty_0x7c00",
-          "name": "文件名",
-          "type": "text",
-          "isShow": true,
-          "wrap": false,
-          "options": {}
-        },
-        {
-          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
-          "name": "Arc",
-          "isShow": false,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
-          "id": "66781be7-12c0-48a0-95f4-d9d13d6e5b2d",
-          "name": "Type",
-          "isShow": true,
-          "type": "multiSelect",
-          "options": {}
-        },
-        {
-          "id": "e26262cd-2f88-4e3e-9dd0-c0038a028b7f",
-          "name": "Type",
-          "isShow": true,
-          "type": "text",
-          "options": {}
-        }
-      ],
-      "templates": [],
-      "groups": [],
-      "colorfulGroups": false,
-      "viewOptions": {
-        "openPageIn": "tab",
-        "openPageAfterCreate": true,
-        "itemSize": "components--page-card-tiny",
-        "showPropertyName": false,
-        "showAllProperties": false,
-        "items": [],
-        "cover": {
-          "type": "none",
-          "source": "default",
-          "fit": "contains",
-          "layout": "components--page-card-cover-landscape",
-          "position": "top"
-        },
-        "pinFiltersToMenuBar": false,
-        "showGrid": false,
-        "heightType": "auto",
-        "heightValue": 600
-      },
-      "groupStates": {
-        "sort": "nameAsc",
-        "format": "none",
-        "statics": [],
-        "orders": [
-          "N-Minerva's Tide",
-          "I-Echos of Tide",
-          "__$uncategorizedGroup"
-        ],
-        "hiddens": [],
-        "collapseds": []
-      },
-      "filter": {
-        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
-        "type": "group",
-        "operator": "and",
-        "conditions": [
-          {
-            "id": "191acb09-1223-4940-ae5a-d04a80389a62",
-            "type": "filter",
-            "operator": "contains",
-            "property": "Type",
-            "value": "Story",
-            "conditions": []
-          }
-        ]
-      },
-      "groupBy": "Arc",
-      "newPageLocation": {
-        "location": "What the Owl Says/Minerva's Tide/Cast"
-      },
-      "components": [],
-      "showTitle": false
-    },
-    {
-      "id": "73e5aeb1-c2c0-48ec-a8e2-720db90f5299",
-      "type": "dynamicDataView",
-      "titleAlign": "center",
-      "tabTitle": "Setting",
-      "maxWidthRatio": -1,
-      "showBorder": false,
-      "showShadow": false,
-      "createAt": "2025-05-28T09:21:18.438Z",
-      "updateAt": "2025-05-28T09:21:18.438Z",
-      "viewType": "kanban",
-      "newPageNameFormat": "cast",
-      "properties": [
-        {
-          "id": "__componentsTitleProperty_0x7c00",
-          "name": "文件名",
-          "type": "text",
-          "isShow": true,
-          "wrap": false,
-          "options": {}
-        },
-        {
-          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
-          "name": "Arc",
-          "isShow": false,
-          "type": "multiSelect",
-          "options": {}
-        }
-      ],
-      "templates": [],
-      "groups": [],
-      "colorfulGroups": false,
-      "viewOptions": {
-        "openPageIn": "tab",
-        "openPageAfterCreate": true,
-        "itemSize": "components--page-card-tiny",
-        "showPropertyName": false,
-        "showAllProperties": false,
-        "items": [],
-        "cover": {
-          "type": "none",
-          "source": "default",
-          "fit": "contains",
-          "layout": "components--page-card-cover-landscape",
-          "position": "top"
-        },
-        "pinFiltersToMenuBar": false,
-        "showGrid": false,
-        "heightType": "auto",
-        "heightValue": 600
-      },
-      "groupStates": {
-        "sort": "manual",
-        "format": "none",
-        "statics": [],
-        "orders": [
-          "N-Minerva's Tide",
-          "I-Echos of Tide",
-          "__$uncategorizedGroup"
-        ],
-        "hiddens": [],
-        "collapseds": []
-      },
-      "filter": {
-        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
-        "type": "group",
-        "operator": "and",
-        "conditions": [
-          {
-            "id": "36c6fbcc-c466-4420-bde8-dc0dfb61409b",
-            "type": "filter",
-            "operator": "contains",
-            "property": "Type",
-            "value": "Setting",
-            "conditions": []
-          }
-        ]
-      },
-      "groupBy": "Arc",
-      "newPageLocation": {
-        "location": "What the Owl Says/Minerva's Tide/Cast"
-      },
-      "components": [],
-      "showTitle": false
+      "showTitle": false,
+      "title": "I"
     },
     {
       "id": "b447d5b3-b3bc-4c9e-b41f-bfcae2717dcf",
@@ -1569,6 +1394,474 @@
       "borderColor": "#583071",
       "fontColor": "#482782",
       "icon": "ArrowRight"
+    },
+    {
+      "id": "0ec42a79-22e3-4f0b-ad97-0fafc81e99e9",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "II",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2026-11-14T10:38:33.381Z",
+      "viewType": "table",
+      "newPageNameFormat": "cast",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {
+            "width": "131"
+          }
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Arc",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "7f16dcf2-4911-4283-a62a-427e716b4285",
+          "name": "Type",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {
+            "items": [
+              {
+                "id": "4af9bf16-4850-4045-bb4a-3f154181c0be",
+                "value": "Profile",
+                "color": "components--color-orange"
+              }
+            ]
+          },
+          "wrap": false
+        },
+        {
+          "id": "b10fe621-4baf-4b71-a5e3-7ac987e21f00",
+          "name": "aliases",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "51752652-4485-48a3-a629-1d89171a8755",
+          "path": "Vault Tool Box/Templates/Tp_Tide_Cast.md",
+          "name": "Tp_Tide_Cast.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [
+          "__$uncategorizedGroup"
+        ],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "fc5b37da-5663-4058-aa6b-cf49c73be961",
+            "type": "filter",
+            "operator": "contains",
+            "property": "Arc",
+            "value": "II-Eden Project",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Type",
+      "newPageLocation": {
+        "location": "What the Owl Says/Minerva's Tide/Cast"
+      },
+      "components": [],
+      "defaultTemplate": "51752652-4485-48a3-a629-1d89171a8755",
+      "showTitle": false,
+      "title": "II"
+    },
+    {
+      "id": "0739babf-4fa2-4eff-8c34-422cd8a9f1c0",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "III",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2026-11-14T10:38:47.518Z",
+      "viewType": "table",
+      "newPageNameFormat": "cast",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {
+            "width": "131"
+          }
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Arc",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "7f16dcf2-4911-4283-a62a-427e716b4285",
+          "name": "Type",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {
+            "items": [
+              {
+                "id": "4af9bf16-4850-4045-bb4a-3f154181c0be",
+                "value": "Profile",
+                "color": "components--color-orange"
+              }
+            ]
+          },
+          "wrap": false
+        },
+        {
+          "id": "b10fe621-4baf-4b71-a5e3-7ac987e21f00",
+          "name": "aliases",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "51752652-4485-48a3-a629-1d89171a8755",
+          "path": "Vault Tool Box/Templates/Tp_Tide_Cast.md",
+          "name": "Tp_Tide_Cast.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [
+          "__$uncategorizedGroup"
+        ],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "fc5b37da-5663-4058-aa6b-cf49c73be961",
+            "type": "filter",
+            "operator": "contains",
+            "property": "Arc",
+            "value": "III-Elegy of Babel",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Type",
+      "newPageLocation": {
+        "location": "What the Owl Says/Minerva's Tide/Cast"
+      },
+      "components": [],
+      "defaultTemplate": "51752652-4485-48a3-a629-1d89171a8755",
+      "showTitle": false,
+      "title": "III"
+    },
+    {
+      "id": "200ba42c-d31e-4bd8-a2e6-c255f16083ff",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "N",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2026-11-14T10:39:07.874Z",
+      "viewType": "table",
+      "newPageNameFormat": "cast",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {
+            "width": "131"
+          }
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Arc",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "7f16dcf2-4911-4283-a62a-427e716b4285",
+          "name": "Type",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {
+            "items": [
+              {
+                "id": "4af9bf16-4850-4045-bb4a-3f154181c0be",
+                "value": "Profile",
+                "color": "components--color-orange"
+              }
+            ]
+          },
+          "wrap": false
+        },
+        {
+          "id": "b10fe621-4baf-4b71-a5e3-7ac987e21f00",
+          "name": "aliases",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "51752652-4485-48a3-a629-1d89171a8755",
+          "path": "Vault Tool Box/Templates/Tp_Tide_Cast.md",
+          "name": "Tp_Tide_Cast.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [
+          "__$uncategorizedGroup"
+        ],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "fc5b37da-5663-4058-aa6b-cf49c73be961",
+            "type": "filter",
+            "operator": "contains",
+            "property": "Arc",
+            "value": "N-Minerva's Tide",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Type",
+      "newPageLocation": {
+        "location": "What the Owl Says/Minerva's Tide/Cast"
+      },
+      "components": [],
+      "defaultTemplate": "51752652-4485-48a3-a629-1d89171a8755",
+      "showTitle": false,
+      "title": "N"
+    },
+    {
+      "id": "e2e5c88d-d0df-4bb2-9339-f1fd83fa015c",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "VI",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2025-05-28T09:21:18.438Z",
+      "updateAt": "2026-11-14T10:40:53.402Z",
+      "viewType": "table",
+      "newPageNameFormat": "cast",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {
+            "width": "197"
+          }
+        },
+        {
+          "id": "a5df40c1-97eb-4d7e-bbab-2e0549abdb43",
+          "name": "Arc",
+          "isShow": false,
+          "type": "multiSelect",
+          "options": {}
+        },
+        {
+          "id": "7f16dcf2-4911-4283-a62a-427e716b4285",
+          "name": "Type",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {
+            "items": [
+              {
+                "id": "4af9bf16-4850-4045-bb4a-3f154181c0be",
+                "value": "Profile",
+                "color": "components--color-orange"
+              }
+            ]
+          },
+          "wrap": false
+        },
+        {
+          "id": "b10fe621-4baf-4b71-a5e3-7ac987e21f00",
+          "name": "aliases",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [
+        {
+          "id": "51752652-4485-48a3-a629-1d89171a8755",
+          "path": "Vault Tool Box/Templates/Tp_Tide_Cast.md",
+          "name": "Tp_Tide_Cast.md",
+          "type": "templater"
+        }
+      ],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-tiny",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "none",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "pinFiltersToMenuBar": false,
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600
+      },
+      "groupStates": {
+        "sort": "nameAsc",
+        "format": "none",
+        "statics": [],
+        "orders": [],
+        "hiddens": [
+          "__$uncategorizedGroup"
+        ],
+        "collapseds": []
+      },
+      "filter": {
+        "id": "ff09ee3c-0008-4945-9605-77e2ce6ca312",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "fc5b37da-5663-4058-aa6b-cf49c73be961",
+            "type": "filter",
+            "operator": "contains",
+            "property": "Arc",
+            "value": "VI-City of Tide",
+            "conditions": []
+          }
+        ]
+      },
+      "groupBy": "Type",
+      "newPageLocation": {
+        "location": "What the Owl Says/Minerva's Tide/Cast"
+      },
+      "components": [],
+      "defaultTemplate": "51752652-4485-48a3-a629-1d89171a8755",
+      "showTitle": false,
+      "title": "VI"
     }
   ],
   "rootComponentId": "5de7dff0-28ff-475e-bdac-5a410aef27a2",
