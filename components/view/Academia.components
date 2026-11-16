@@ -9,7 +9,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-02-26T17:48:03.277Z",
-      "updateAt": "2026-06-25T14:58:41.604Z",
+      "updateAt": "2026-11-16T15:05:28.394Z",
       "components": [
         {
           "componentId": "679686ed-8748-4238-8aa6-af24d6fce689",
@@ -126,7 +126,7 @@
               "x": 8,
               "y": 12,
               "w": 4,
-              "h": 26
+              "h": 16
             }
           }
         },
@@ -141,7 +141,7 @@
             },
             "laptop": {
               "x": 8,
-              "y": 38,
+              "y": 28,
               "w": 4,
               "h": 4
             }
@@ -158,7 +158,7 @@
             },
             "laptop": {
               "x": 8,
-              "y": 42,
+              "y": 32,
               "w": 4,
               "h": 4
             }
@@ -1303,18 +1303,19 @@
       "titleAlign": "center",
       "tabTitle": "Toolki",
       "maxWidthRatio": -1,
-      "showBorder": false,
+      "showBorder": true,
       "showTitle": true,
       "showShadow": false,
       "createAt": "2026-03-12T12:58:43.171Z",
-      "updateAt": "2026-11-16T12:21:03.344Z",
+      "updateAt": "2026-11-16T15:05:47.610Z",
       "maxHeight": 300,
       "contentAlign": "left",
       "markdownsSource": "content",
       "markdownValue": "Password:\n- SciencePo: Dilucragvindr09260430!\n- UCL: DilucragvindrChelseaLjt!  \nMoodle:\n- ScPo: https://moodle.sciences-po.fr/my/\nHisContemp Seminar\nhttps://drive.google.com/drive/folders/1s5-1Mx0tEWgogPSo4qeiUdgO2tlJSQK9\nTAI\nhttps://drive.google.com/drive/folders/1x5tfFKDNgHrJhAR-zaTv6B-7lBfjp_bP\n",
       "backgroundColor": "#f8fff1",
       "fontColor": "#31461d",
-      "title": "Toolki"
+      "title": "Toolki",
+      "borderColor": "#30503d"
     },
     {
       "id": "12abec86-40ab-4ec6-a6c7-9e6d8650aa6d",
