@@ -24,4 +24,8 @@ control for=
 
 **or simpleDID only in pilot cities**
 Borrowing ratio (i,t)= $$\beta1 Post(t) × Connected(i) + Controls(i,t−1) + Firm FE + Year FE + error $$
-might be affected by national-wide anti
+might be affected by national-wide anti-corruption movement 
+
+**or 2 simpleDID grouped by connection**
+Borrowing ratio (i,t)= $$\beta1 Post(t) × Pilot(c) + Controls(i,t−1) + Firm FE + Year FE + error $$
+and then compare 2 $\beta$ , need a test of significance (Chow test?)
