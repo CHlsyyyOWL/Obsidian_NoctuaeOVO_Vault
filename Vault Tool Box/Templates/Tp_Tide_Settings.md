@@ -3,5 +3,5 @@ tags:
   - Tide
 Date:
 Arc:
-Type: Setting
+Tide: Setting
 ---

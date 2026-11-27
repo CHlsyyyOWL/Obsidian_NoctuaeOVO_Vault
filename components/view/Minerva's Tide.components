@@ -966,7 +966,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-05-28T09:21:18.438Z",
-      "updateAt": "2026-11-14T10:38:10.741Z",
+      "updateAt": "2026-11-27T18:58:43.930Z",
       "viewType": "table",
       "newPageNameFormat": "cast",
       "properties": [
@@ -989,7 +989,7 @@
         },
         {
           "id": "7f16dcf2-4911-4283-a62a-427e716b4285",
-          "name": "Type",
+          "name": "Tide",
           "isShow": true,
           "type": "multiSelect",
           "options": {
@@ -1045,9 +1045,7 @@
         "format": "none",
         "statics": [],
         "orders": [],
-        "hiddens": [
-          "__$uncategorizedGroup"
-        ],
+        "hiddens": [],
         "collapseds": []
       },
       "filter": {
@@ -1065,14 +1063,14 @@
           }
         ]
       },
-      "groupBy": "Type",
+      "groupBy": "Tide",
       "newPageLocation": {
         "location": "What the Owl Says/Minerva's Tide/Cast"
       },
       "components": [],
       "defaultTemplate": "51752652-4485-48a3-a629-1d89171a8755",
-      "showTitle": false,
-      "title": "I"
+      "showTitle": true,
+      "title": "I-Have you hear the cry?"
     },
     {
       "id": "b447d5b3-b3bc-4c9e-b41f-bfcae2717dcf",
@@ -1404,7 +1402,7 @@
       "showBorder": false,
       "showShadow": false,
       "createAt": "2025-05-28T09:21:18.438Z",
-      "updateAt": "2026-11-14T10:38:33.381Z",
+      "updateAt": "2026-11-27T19:00:34.062Z",
       "viewType": "table",
       "newPageNameFormat": "cast",
       "properties": [
@@ -1427,7 +1425,7 @@
         },
         {
           "id": "7f16dcf2-4911-4283-a62a-427e716b4285",
-          "name": "Type",
+          "name": "Tide",
           "isShow": true,
           "type": "multiSelect",
           "options": {
@@ -1483,9 +1481,7 @@
         "format": "none",
         "statics": [],
         "orders": [],
-        "hiddens": [
-          "__$uncategorizedGroup"
-        ],
+        "hiddens": [],
         "collapseds": []
       },
       "filter": {
@@ -1503,14 +1499,14 @@
           }
         ]
       },
-      "groupBy": "Type",
+      "groupBy": "Tide",
       "newPageLocation": {
         "location": "What the Owl Says/Minerva's Tide/Cast"
       },
       "components": [],
       "defaultTemplate": "51752652-4485-48a3-a629-1d89171a8755",
-      "showTitle": false,
-      "title": "II"
+      "showTitle": true,
+      "title": "II-"
     },
     {
       "id": "0739babf-4fa2-4eff-8c34-422cd8a9f1c0",

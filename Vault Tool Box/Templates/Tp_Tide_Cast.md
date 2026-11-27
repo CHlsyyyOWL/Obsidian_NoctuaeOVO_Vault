@@ -3,7 +3,7 @@ tags:
   - Tide
 Date:
 Arc:
-Type: Profile
+Tide: Profile
 ---
 # 档案信息
 

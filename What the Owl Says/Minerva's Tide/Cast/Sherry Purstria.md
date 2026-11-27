@@ -3,7 +3,7 @@ tags:
   - Tide
 Date: 2025-04-07
 Arc: VI-City of Tide
-Type: Profile
+Tide: Profile
 ---
 谁控制着过去就控制着未来，谁控制着现在就控制着过去。
 

@@ -3,6 +3,6 @@ tags:
   - Tide
 Date:
 Arc:
-Type:
+Tide:
 Progress:
 ---

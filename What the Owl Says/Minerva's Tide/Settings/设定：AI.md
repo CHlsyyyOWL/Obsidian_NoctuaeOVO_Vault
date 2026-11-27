@@ -2,7 +2,7 @@
 tags:
   - Tide
 Arc: N-Minerva's Tide
-Type: Setting
+Tide: Setting
 ---
 
 # AI 是怎么诞生灵智的

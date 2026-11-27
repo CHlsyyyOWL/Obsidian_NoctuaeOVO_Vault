@@ -3,7 +3,7 @@ tags:
   - Tide
 Date:
 Arc: N-Minerva's Tide
-Type:
+Tide:
   - Setting
 ---
 “于是我吃掉了他的肉，喝掉了他的血。我捧着他仅剩的眼珠，等来了天光。”  
